@@ -1,0 +1,15 @@
+{
+  "minimal-advanced@@font-ui-smaller": 14,
+  "minimal-advanced@@font-ui-small": 14,
+  "minimal-style@@tag-radius": "4px",
+  "minimal-style@@tag-border-width": "1px",
+  "minimal-style@@active-line-on": false,
+  "red-graphite@@red-graphite-accent-color@@light": "#CB4C48",
+  "red-graphite@@red-graphite-accent-color@@dark": "#F6CD74",
+  "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
+  "sanctum@@color-accent-rgb-l": "83, 112, 159",
+  "baseline-style@@background-contrast-light": "contrast-light",
+  "maple-workspace@@tab-show-close": "tab-show-close-all",
+  "maple-workspace@@tab-title-bar-text": "tab-title-bar-text-hidden",
+  "maple-editor@@image-dark-hover": false
+}

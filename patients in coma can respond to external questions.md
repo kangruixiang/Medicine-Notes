@@ -1,0 +1,20 @@
+---
+date: 2025-10-08
+---
+
+# patients in coma can respond to external questions
+
+- related: [[Neurology]]
+- tags: #literature #icu
+---
+
+<!-- patients in coma in ICU, how much awareness do they have? -->
+
+There is evidence that a ==small proportion== of patients who are in a ==persistent vegetative state== years after an injury can consistently ==respond to questions== as evidenced by ==changing patterns of brain activity== on functional MRI (fMRI). This does not answer the question of whether patients acutely in a coma in the ICU can do the same. The technical challenges of fMRI in critically ill coma patients make this type of analysis challenging. A recently published study showed that a small proportion of patients in a coma in ICUs can respond to questions as evidenced by ==subtle changes in continuous EEG recordings==. The study went on to show that patients who had what is called motor-consciousness dissociation syndrome had a ==better prognosis of waking up== and ==being independent==. Many poorly substantiated beliefs exist in the medical teaching tradition that likely represent rationalizations due to physician empathy for the families of critically ill patients. Among these myths are the following: (1) Patients in a coma do not sense anything in the environment. There is no convincing data that all patients in a coma in the ICU have no sensation or reaction to their environment. Although it is true that some patients likely have no environmental awareness, predicting who those patients are is not reliably possible. (2) Patients in a coma remember events from the time when they are unconscious. In fact, ==most patients with altered consciousness claim not to remember anything of their ICU stay==. There are isolated reports of patients under sedation or anesthesia who are awake and aware of what is going on around them. These cases are ==likely rare== and relegated to patients ==without brain injury== under sedation. (3) Although patients in a coma may proceed to brain death, not all coma patients are brain dead. This patient has retained cranial nerve function and cough, suggesting control of those functions by the brainstem. Unless there is absence of evidence of all brainstem function, breathing effort, and cortical functions, the diagnosis of brain death cannot be made.
+
+A number of important issues for the ICU practitioner should be mentioned. First, the most common cause of poor responsiveness in the ICU is oversedation. Investigation of motor-consciousness dissociation cannot be entertained until there is reasonable certainty that sedative medications are not the cause of the unresponsiveness. In addition, there are two syndromes that are occasionally confused with coma: the ==locked-in state== and ==catatonia==. In the locked-in state, the patient is fully awake and aware, but because of dysfunction of the ==ventral brainstem== (not the reticular activating system but the motor output of the brainstem), the patient cannot respond to the environment. Typically, patients who are locked in will retain some degree of ==eye movement== (often upward gaze) to show that the patient can follow commands. ==Catatonia==, in one variant form, can leave patients unable to respond to the environment. This is ==uncommon==, can be heralded by abnormal postures, and often oscillates with other behaviors. Examination over time usually makes the diagnosis.[^1][^2][^3][^4]
+
+[^1]: [[SEEK Questionnaires]]
+[^2]: Claassen J, Doyle K, Matory A, et al. Detection of brain activation in unresponsive patients with acute brain injury. _N Engl J Med_. 2019;380(26):2497-2505. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31242361)
+[^3]: Edlow BL, Chatelle C, Spencer CA, et al. Early detection of consciousness in patients with acute severe traumatic brain injury. _Brain_. 2017;140(9):2399-2414. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29050383)
+[^4]: Goldman S, Schiff ND. Functional imaging to uncover willful brain behavior in noncommunicative patients. _Neurology_. 2015;84(2):114-115. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25480911)

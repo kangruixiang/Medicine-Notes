@@ -1,0 +1,142 @@
+{
+  "debugEnabled": false,
+  "defaultToolbar": null,
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "startup-help-view": true,
+    "startup-help-welcome": true
+  },
+  "ribbonAction": "toolbar",
+  "ribbonToolbar": null,
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": true,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "canvas": false,
+    "image": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "showWhatsNew": true,
+  "textToolbar": null,
+  "textToolbarOnKeyboard": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "defaultStyles": [
+        "border",
+        "even"
+      ],
+      "items": [
+        {
+          "label": "hello 1",
+          "icon": "lucide-align-center",
+          "link": "00 Inbox/Fluids and Electrolytes.ppt",
+          "linkAttr": {
+            "commandId": "",
+            "hasVars": false,
+            "type": "file"
+          },
+          "tooltip": "test tooltip",
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            }
+          },
+          "uuid": "36e15e4f-e58f-42b3-be97-cb7bab022937",
+          "inGallery": false
+        },
+        {
+          "label": "hello 2",
+          "icon": "lucide-align-horizontal-distribute-end",
+          "link": "Save current file",
+          "linkAttr": {
+            "commandId": "editor:save-file",
+            "hasVars": false,
+            "type": "command"
+          },
+          "tooltip": "dfsafsda",
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            }
+          },
+          "uuid": "0ec90a7a-f9d4-43fb-a8ab-8531c5b3c06f",
+          "inGallery": false
+        }
+      ],
+      "mobileStyles": [],
+      "name": "hello",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2024-06-07T02:19:09.717Z",
+      "uuid": "94b7d5b8-5fa9-4879-8416-38ea9954ec46"
+    }
+  ],
+  "version": 20260428.1,
+  "webviewerToolbar": null,
+  "whatsnew_version": "1.31",
+  "showToolbarInCanvas": false
+}

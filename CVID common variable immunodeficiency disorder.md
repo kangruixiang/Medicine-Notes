@@ -1,0 +1,19 @@
+---
+date: 2024-10-12
+---
+
+# CVID common variable immunodeficiency disorder
+
+- related: [[Pulmonary Diseases]]
+- tags: #literature #pulmonology
+---
+
+<!-- CVID etiology, which infections, labs to check b:1111129794118-->
+
+This patient has recent pneumonia with two common organisms covered by childhood vaccinations: ==_H influenza_== subtype b and ==_S pneumoniae_== serogroup 6A. He has ==hepatosplenomegaly== on examination with small nodules in both lungs and bronchiectasis suggestive of chronic infection and possible granulomatous disease. Finally, his pulmonary function testing shows a mixed obstructive-restrictive pattern. These symptoms are suggestive of ==common variable immunodeficiency disorder== (CVID) and assessment of ==immunoglobulin levels==, including IgM, IgG, and IgA should be performed (choice B is correct).
+
+CVID is a primary immunodeficiency disorder characterized by ==impaired B-cell differentiation== and, thus, insufficient or defective immunoglobulin production. The average age of diagnosis is ==20 to 40 years==, but many patients have clinical manifestations for years and go undiagnosed. Thus, it is not unusual to have signs of advanced lung disease at the time of diagnosis. Clinical disease can affect many organs, but ==chronic lung disease== (restrictive and/or obstructive) and ==hematologic disease== (ie, idiopathic thrombocytopenia) are most common. Lung disease includes ==bronchiectasis and/or granulomatous disease==, which lead to the mixed ==restrictive and obstructive pattern==. Infections of the upper and lower respiratory tract are common and can be acute, chronic, and/or recurrent. ==Encapsulated organisms==, particularly _H influenza_ and _S pneumoniae_ are the most likely etiologic agents, although atypical _Mycobacterium_ species and some fungal organisms (eg, _Cryptococcus_) can be seen. Patients with CVID have a ==poor response to vaccination==, and infection with a prior vaccinated organism, such as _H influenza_ subtype b, certain _S pneumoniae_ serogroups, and _Neisseria meningitidis_ are clues that humoral immunity may be altered, such as with this patient. Other clinical features associated with CVID include ==inflammatory bowel disease==, ==bacterial overgrowth syndrome==, nonspecific malabsorption, autoimmune hemolytic anemia, rheumatoid arthritis, and autoimmune thyroiditis. ==Granulomatous== involvement of multiple organs can be seen, including lung, liver, spleen, intestine, brain, eyes, and skin. On occasion, CVID may mimic sarcoidosis and diminished immunoglobulins may be the only clue that CVID is present.
+
+Diagnosis of CVID requires significantly ==reduced IgG levels, low IgA and/or IgM levels==, a ==poor response to vaccination==, and the absence of alternative diagnoses of immunosuppression (eg, primary and secondary hypogammaglobulinemia and IgG subclass deficiencies, drugs). Treatment of CVID involves ==IgG replacement==, either monthly or, if recurrent infections and progressive lung disease occur, more frequently. Prognosis is variable, with a mean age of death at 55 years in most cohorts. Chronic lung disease, bronchiectasis, and hepatic/GI granulomatous diseases are risk factors for earlier death resulting from CVID. Most patients die of acute infection.
+
+A serum interferon-γ release assay is best used for latent TB, which this patient does not have, given his active constellation of symptoms (choice A is incorrect). Angiotensin-converting enzyme levels are nonspecific and may be elevated in several immune disorders; thus, they are nondiagnostic. CVID can mimic a sarcoid-like syndrome, but the presence of _H influenza_ and _S pneumonia_ make CVID more likely as the primary diagnosis (choice C is incorrect). Complement deficiency does increase the risk from infection from encapsulated organisms such as _N meningitidis,_ but bronchiectasis and lung disease remain rare in these cases (choice D is incorrect).

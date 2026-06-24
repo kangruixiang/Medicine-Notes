@@ -1,0 +1,29 @@
+---
+date: 2023-06-08
+---
+
+# propofol infusion syndrome can lead to elevated lactic acidosis
+
+- related: [[lactic acidosis types]]
+- tags: #literature #icu
+---
+
+<!-- propofol infusion syndrome symptoms b:136962263076-->
+
+Propofol infusion syndrome ([[propofol infusion syndrome is associated with high dose continuous infusion]]) can also produce lactic acidosis, often accompanied by ==refractory bradycardia==, ==ventricular dysrhythmias==, ==rhabdomyolysis==, ==hyperlipidemia==, ==acute kidney injury==, and ==cardiovascular collapse==. Although this syndrome has been seen with short-term infusion of propofol, it is quite rare and more often seen with prolonged infusions. Moreover, it would be expected to elevate the lactate-pyruvate ratio.[^1]
+
+Multiorgan failure is a common final pathway for many critical illnesses. Because the differential diagnosis is so broad, discerning the cause can be difficult or impossible. It may be especially important to identify iatrogenic causes because these may point to effective changes in treatment. ==Propofol infusion syndrome (PRIS)== is an uncommon adverse drug reaction, usually seen after prolonged infusion at high doses, and is marked by ==metabolic acidosis, fever, rhabdomyolysis, acute kidney injury, cardiovascular collapse, atrial and ventricular dysrhythmias, and hyperlipidemia==. Because such multiorgan failure is common in severe critical illness and propofol is used so commonly, PRIS is often not considered before death. ==Newly developing cardiac dysrhythmias==, as in this case, are a useful clue to diagnosis. The mechanism of PRIS involves ==inhibition of mitochondrial fatty acid oxidation== and ==electron transport== (choice C is correct). Some patients probably have heritable but subclinical mitochondrial abnormalities. Additional reported risk factors include ==young age==, ==catecholamine infusion==, ==steroid therapy==, and having undergone ==neurosurgery==. Treatment involves discontinuing propofol and supportive therapy, yet mortality remains high.
+
+Global depression of oxygen transport has the potential to cause multiorgan failure and lactic acidosis. Although this patient had left ventricular dysfunction, stroke volume was not significantly depressed, and venous oxyhemoglobin saturation was high, arguing against this mechanism (choice A is incorrect). Sepsis is one of the most common causes of multiorgan failure in the postoperative setting. Although negative cultures are common in septic shock, severe cardiac dysrhythmias are not, especially in a young patient (choice B is incorrect). Anaphylaxis can produce bronchospasm and should be considered in the differential diagnosis of shock of uncertain cause. However, skin or mucosal findings (hives, flushing, oral swelling) are commonly present but are lacking in this case. Moreover, there should be a temporal association (minutes to hours) between administration of a likely allergen and the onset of signs (choice D is incorrect). [^2][^3][^4][^5]
+
+---
+
+A ==19-year-old==, previously healthy man was admitted with acute hemiparesis following recreational cocaine use. Imaging revealed a large, right-sided temporoparietal hemorrhage and associated arteriovenous malformation. The patient was intubated and sedated with ==propofol== and underwent ==craniectomy== with resection of the malformation and evacuation of the hemorrhage. Over the ensuing 4 days, systemic inflammation led to treatment with vancomycin and meropenem, but cultures were negative. Neurological findings were unimproved, and there were periods of marked patient-ventilator dyssynchrony. Despite fluid management and analgosedation, intracranial pressure rose, and imaging showed worsened cerebral edema. On day 6, decompressive craniectomy was performed. The immediate postoperative period was marked by increasing tachycardia (130-140/min) and ==shock== requiring vasoactive therapy. Echocardiography showed moderately ==depressed left ventricular systolic dysfunction== but no regional wall abnormalities. Stroke volume was estimated at 65 mL (with norepinephrine and vasopressin infusion). The central venous oxyhemoglobin saturation was 0.78. He became anuric, fever worsened, and laboratory values showed hyperkalemia, elevated creatine kinase (73,000 U/L [1,219.10 μkat/L]), and lactic acidosis (9 mmol/L). Ventricular premature beats became increasingly frequent. Hydrocortisone was given, and renal replacement therapy was initiated to control serum potassium levels. ==Bradycardia== led to transcutaneous pacing. Despite maximal supportive treatment, profound ventricular dysrhythmias ensued, and the patient died 24 h following the second craniectomy. Which of one of the following mechanisms best explains this patient's postsurgical deterioration?
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20251119093634.png)
+
+[^1]: [[SEEK Questionnaires]]
+[^2]: Hemphill S, McMenamin L, Bellamy MC, et al. Propofol infusion syndrome: a structured literature review and analysis of published case reports. _Br J Anaesth_. 2019;122(4):448-459. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/30857601)
+[^3]: Jorens PG, Van den Eynden GG. Propofol infusion syndrome with arrhythmia, myocardial fat accumulation and cardiac failure. _Am J Cardiol_. 2009;104(8):1160-1162. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/19801042)
+[^4]: Sumi C, Okamoto A, Tanaka H, et al. Propofol induces a metabolic switch to glycolysis and cell death in a mitochondrial electron transport chain-dependent manner. _PLoS One_. 2018;13(2):e0192796. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29447230)
+[^5]: Vollmer JP, Haen S, Wolburg H, et al. Propofol related infusion syndrome: ultrastructural evidence for a mitochondrial disorder. _Crit Care Med_. 2018;46(1):e91-e94. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/29252954)

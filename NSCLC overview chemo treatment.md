@@ -1,0 +1,20 @@
+---
+date: 2024-10-01
+---
+
+# NSCLC overview chemo treatment
+
+- related: [[lung mass and cancer]]
+- tags: #literature #pulmonology
+---
+<!-- non-small cell lung cancer overview chemotherapy b:1412515217766-->
+
+The selection of treatment for advanced stage non-small cell lung cancer is contingent on ==accurate molecular characterization== of the cancer. ==EBUS-guided bronchoscopy== has been shown to be able to provide enough tissue for molecular testing.
+
+Treatment of non-small cell lung cancer has evolved dramatically. ==Platinum doublet chemotherapy== ==used to be standard of care== for all patients, regardless of histology. It was then recognized that adenocarcinoma and squamous cell carcinoma responded differently to traditional chemotherapy regimens. To determine tumor histology more frequently, additional immunohistochemistry testing of biopsy samples became standard practice. It was then recognized that some nonsquamous cell lung cancers contain molecular alterations that drive tumor growth. Treatment of patients identified as having ==certain activating genetic alterations== (eg, _EGFR_, anaplastic lymphoma kinase _ALK_, _ROS1_) with ==targeted tyrosine kinase inhibitors== (TKI) has been shown to ==improve survival and quality of life== (eg, osimertinib, a third-generation EGFR inhibitor). These treatments are not effective if the molecular alteration is not present. Resistance to targeted therapies ultimately develops and can often be recognized as a new molecular alteration in the tumor. Second and third-generation TKI therapies have been developed to overcome these resistance mutations, to more effectively inhibit tyrosine kinase activation, and cross the blood–brain barrier, thus improving their effectiveness. Guidelines have been developed that recommend molecular testing for targetable activating mutations in all nonsquamous cell cancers.
+
+More recently, it has been recognized that some lung cancers evade the body's immune system by ==activating immune checkpoints==, which are natural mechanisms that regulate the body’s immune response. ==Immune checkpoint inhibitor== (ICI) therapy has been shown to improve survival as a stand-alone therapy when the cancer displays high expression of ==programmed death ligand 1== (>50% of cancer cells) and in combination with traditional platinum doublet chemotherapy in stage 3 and 4 patients without targetable driver mutations even when protein PDL-1 expression is low. It is now recommended that ==all non-small cell cancers should be tested for PDL-1==. Available assays have required core biopsies for this purpose to date. Additional markers of response to ICI therapy are being evaluated (eg, tumor mutational burden).
+
+As additional targetable mutations are identified and responses to new targeted therapies are proven, broader molecular testing will be required. Current guidelines ==recommend routine testing of _EGFR_, _ALK_, _ROS1_, and BRAF== and suggest that if a larger testing panel is being used (ie, next generation sequencing), ==_RET_, _ERBB2_ (_HER2_), _KRAS_, and _MET_ should also be included==. When tissue cannot be obtained due to tumor location or patient health, liquid biopsies (ie, blood tests that evaluate circulating cell-free DNA) can be considered (choice C is incorrect). These tests have been used mainly for _EGFR_ mutation or _EGFR_ resistance mutation identification. They are quite specific but not optimally sensitive, so they are used as a rule-in test. Biopsy is the preferred first test when feasible, as it was for the patient in this question. Exciting advances have led to the identification of molecular alterations that contribute to the development of several cancers (eg, neurotrophic receptor tyrosine kinase genes that encode tropomyosin receptor kinase proteins), and are targetable by currently available therapies. Over time, testing and treatment for cancer are likely to be developed based on molecular alterations rather than cancer origin.[^1]
+
+[^1]: [[SEEK Questionnaires]]

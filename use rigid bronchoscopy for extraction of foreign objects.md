@@ -1,0 +1,13 @@
+---
+date: 2024-10-25
+---
+
+# use rigid bronchoscopy for extraction of foreign objects
+
+- related: [[Pulmonary Diseases]]
+- tags: #literature #pulmonology
+---
+
+Foreign body aspiration is an uncommon etiology for cough and a rare indication for bronchoscopy (estimated at 1 in 400 procedures) but may be potentially life-threatening and should be considered in the differential diagnosis. Symptoms typically consist of a choking event followed by cough and dyspnea, although in more than half of these aspiration events, there is no recollection of a sentinel event, and symptoms mimic chronic lung diseases such as asthma or COPD. Physical examination in a patient with suspected foreign body aspiration may be normal or may reveal nonspecific findings such as cough and hoarseness, especially if the object is small. A patient with a foreign body lodged in the trachea or mainstem bronchi may present with stridor, persistent cough, significant dyspnea, loud wheezing localized to the side of the impaction, or absence of breath sounds on the affected side. Auscultation with the patient in the lateral decubitus position may bring out wheezing on the dependent side. Complete airway obstruction by a foreign body with resultant atelectasis may present with absent breath sounds on the affected side. Chest radiography and CT scanning often provide evidence for a foreign body aspiration and the anatomic location (Figure 3). Flexible bronchoscopy remains a standard approach for diagnosis and management of foreign body aspiration (Figure 4); however, rigid bronchoscopy is also an option when foreign bodies are large or airway patency is difficult to manage. In fact, rigid bronchoscopy is still considered the standard of care in pediatric patients by many bronchoscopists because of its intrinsic ability to provide ventilation and the ==lower probability of complete airway obstruction== if a loose foreign body becomes lodged in the subglottis, the narrowest portion of a child's airway. Some impacted objects such as glass, nails, or thumbtacks may need to be ==shielded by an endotracheal tube or steel barrel of a rigid bronchoscope== to avoid damaging the vocal cords during extraction. However, published reports have noted further impaction of the object with use of an endotracheal tube, which may result in acute respiratory distress. ==Significant bleeding==, while a rare complication, is much ==easier to manage via rigid bronchoscopy==, the barrel of which can be used to ==tamponade a bleed== mechanically in accessible large airways and which allows for ==easy passage of adjunctive tools==, including large suction catheters and bronchial blockers.[^1]
+
+[^1]: [[SEEK Questionnaires]]

@@ -1,0 +1,27 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "03 Resources/Medicine/zotero",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "jpg",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "AMA",
+      "format": "formatted-citation",
+      "cslStyle": "american-medical-association"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Zotero Notes",
+      "outputPathTemplate": "03 Resources/Medicine/zotero/{{title | escape}}.md",
+      "imageOutputPathTemplate": "Attachments",
+      "imageBaseNameTemplate": "image",
+      "templatePath": "03 Resources/Note Taking/Templates/zotero_notes.md",
+      "cslStyle": "american-medical-association"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": true,
+  "whichNotesToOpenAfterImport": "last-imported-note"
+}

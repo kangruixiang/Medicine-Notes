@@ -1,0 +1,13 @@
+{
+  "debug": false,
+  "convertRules": "# Rules \n',,|' -> '<!-- | -->'\n'.3months|' -f '03 Resources/Note Taking/Templates/3 months goals.md'",
+  "zoneIndicatorOn": false,
+  "autoFormatOn": false,
+  "profiles": [
+    {
+      "title": "global",
+      "content": "# Rules \n',,|' -> '<!-- | -->'\n'.3months|' -f '03 Resources/Note Taking/Templates/3 months goals.md'"
+    }
+  ],
+  "activeProfile": "global"
+}

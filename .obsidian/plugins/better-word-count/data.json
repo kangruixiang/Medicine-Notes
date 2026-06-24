@@ -1,0 +1,20 @@
+{
+  "preset": {
+    "name": "custom",
+    "statusBarQuery": "",
+    "statusBarAltQuery": ""
+  },
+  "statusBarQuery": "{word_count} w {character_count} c",
+  "statusBarAltQuery": "{file_count} files {total_word_count} words {total_character_count} characters",
+  "countComments": false,
+  "collectStats": false,
+  "showWords": true,
+  "wordsPrefix": "",
+  "wordsSuffix": "w ",
+  "showCharacters": true,
+  "charactersPrefix": "",
+  "charactersSuffix": "c",
+  "showSentences": false,
+  "sentencesPrefix": "",
+  "sentencesSuffix": " sentences"
+}

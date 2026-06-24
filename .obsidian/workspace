@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "7962346c8030bd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae2fe8b35d857332",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "03 Resources/Medicine/ANCA associated glomerulonephritis.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea9252f4708adb72",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac29ab5f66280c6f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1dad55d940e7863",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3be1602f73dc4f36",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e55e3c5036130ce3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0c40484e2e94960e",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 379,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ca7872ce90254950",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcb0092b2d26ef70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c01067df7b00d00",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "03 Resources/Medicine/ANCA associated glomerulonephritis.md"
+              }
+            }
+          },
+          {
+            "id": "6f30c3f3a401b81c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "03 Resources/Medicine/ANCA associated glomerulonephritis.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7e93e3036141e17d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "03 Resources/Medicine/ANCA associated glomerulonephritis.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.7,
+                  "nodeSizeMultiplier": 1.07902275405675,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.508761885579263,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "fa5194b7cc21ad32",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#hemeonc",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43e36e39975d10ee",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb90e63d8fea9f24",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fed6101096f8cab7",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5
+  },
+  "active": "ae2fe8b35d857332",
+  "lastOpenFiles": [
+    "03 Resources/Medicine/lung nodules.md",
+    "01 Daily Notes/2022/September/2022-09-18-Sun.md",
+    "00 Inbox/things that suck about my life.md",
+    "000 Index.md",
+    "02 Projects/Archive/Bitesized Medicine.md",
+    "03 Resources/Medicine/polymyositis and dermatomyositis.md",
+    "03 Resources/Medicine/fibromyalgia vs polymyositis vs polymyalgia rheumatica.md",
+    "03 Resources/Medicine/03 MKSAP/perioperative management of chronic glucocorticoid.md",
+    "03 Resources/Medicine/Perioperative.md",
+    "03 Resources/Medicine/Medicine.md"
+  ]
+}

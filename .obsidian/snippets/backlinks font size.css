@@ -1,0 +1,9 @@
+/* adjust font sizes for backlinks in document */
+.embedded-backlinks .backlink-pane {
+  & .tree-item-self {
+    font-size: 1.1em; /* headings size */
+  }
+  & .search-result-file-matches {
+    font-size: 1em; /* results size */
+  }
+}

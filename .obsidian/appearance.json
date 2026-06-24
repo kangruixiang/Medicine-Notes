@@ -1,0 +1,17 @@
+{
+  "theme": "system",
+  "cssTheme": "Cupertino",
+  "enabledCssSnippets": [
+    "canvas image",
+    "rounded image",
+    "backlinks font size"
+  ],
+  "baseFontSize": 21,
+  "translucency": false,
+  "textFontFamily": "Bookerly,Jost,Concourse 4,Bear Sans UI,Lyon,iA Writer Quattro V Regular",
+  "interfaceFontFamily": "Concourse 4,Jost,American Typewriter",
+  "accentColor": "#0964aa",
+  "showViewHeader": false,
+  "nativeMenus": true,
+  "showRibbon": true
+}

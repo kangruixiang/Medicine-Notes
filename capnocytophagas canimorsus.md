@@ -1,0 +1,32 @@
+---
+date: 2025-09-20
+---
+
+# capnocytophagas canimorsus
+
+- related: [[Infectious Disease ID]]
+- tags: #literature #id
+---
+
+<!-- what is C. canimorsus, symptoms? Treatment? b:595680857040-->
+
+_C canimorsus_, which is a ==facultative anaerobic gram-negative rod==, is emerging as an important cause of ==sepsis with meningitis==, particularly in ==postsplenectomy== patients, after ==dog exposures==. Reviews of _Capnocytophaga_ infections have identified ==alcohol excess== as a risk factor for serious infection. The spectrum of infection caused by this pathogen has expanded, with reports of sepsis in immunocompetent individuals. Across the spectrum of patients with infections caused by _Capnocytophaga_, ==dog bites== before illness occurred in 60% of patients; in 27%, there were scratches, licking, or other contact with dogs. There have been some reports of an association with cats. The ==skin lesions== associated with _C canimorsus_ sepsis include ==purpura fulminans== (Figure 1) and are characteristically nonblanching, as in this case (choice D is correct). Purpura fulminans initially begins with thrombosis on the basis of the coagulopathy of sepsis. Ischemia develops, with endothelial cell swelling and death, and subsequent extravasation of RBCs. Extremities are usually most affected because of both the reduced perfusion to distal tissues that occurs with sepsis and the diminished collateral vascularization that would normally counteract vessel occlusion. Because of the coagulopathy of sepsis that occurs with this infection, patients may develop ==gangrene of the digits or extremities== in association with high-grade bacteremia. In addition to meningitis, endocarditis may occur. This patient's ==conjunctival petechiae and subungual hemorrhages== are characteristic of embolic complications that occur with endocarditis. Even though the organism is usually susceptible to penicillin, some practitioners prefer third-generation ==cephalosporins or β-lactamase inhibitor== combinations. 
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20250920084958.png)
+
+A classic skin lesion in patients with _P aeruginosa_ bacteremia is ecthyma gangrenosum. Usually seen in patients with neutropenia, this manifestation of _P aeruginosa_ infection occurs on the basis of invasion of dermal venules, with secondary thrombosis of the arterioles, tissue edema, and separation of the epidermidis. The resultant skin lesions are characteristically hemorrhagic pustules that evolve into necrotic ulcers with a black (sometimes referred to as gunmetal gray) scab, with the lesion often surrounded by a red halo. This patient is not neutropenic; his epidemiology is not characteristic of _P aeruginosa_ bacteremia (choice A is incorrect).
+
+_V vulnificus_ is a halophilic gram-negative bacillus found worldwide in warm coastal salt waters. The pathogen has the ability to cause primary sepsis in certain high-risk populations, including patients with chronic liver disease, immunodeficiency, iron storage disorders, end-stage renal disease, and diabetes mellitus. Most reported cases of primary sepsis in the United States are associated with the ingestion of raw or undercooked oysters harvested from the Gulf Coast. This patient had exposure to fresh water but not to salt water. There is no history or clinical evidence of liver disease (choice B is incorrect).
+
+Rocky Mountain spotted fever (RMSF), which is caused by _R rickettsii_, has a clinical spectrum that includes both skin lesions and CNS involvement, both of which are present in this patient. The epidemiology of tick exposure is also consistent with the clinical illness of RMSF. _R rickettsii_ has a propensity to infect endothelial cells, including those of the skin and nervous system. Because of enhanced proliferation of the organism in cooler body parts, the characteristic lesions involve the wrist, palms of the hands, ankles, and soles of the feet. The infected cells become damaged, allowing blood to leak through tiny holes in the blood vessel wall and into surrounding tissue, with the classic petechial rash. The skin lesions in this patient of purpura fulminans are not consistent with the rash in RMSF (choice C is incorrect).[^1][^2][^3][^4][^5][^6]
+
+---
+
+After a 1-day history of becoming progressively more confused and agitated, a 54-year-old man with a long-standing history of excessive alcohol consumption is brought to the ED by his wife with fever, hypotension, and rapidly developing skin lesions. He recently was on a camping trip with friends where he swam in fresh water, hiked in woods known to be infested with ticks, and sustained an ax wound to his lower leg that was frequently licked by his dog. On exam, the patient is acutely ill with a temperature of 40.1°C, BP of 84/62 mm Hg, pulse of 128/min, and respiratory rate of 26/min. His skin lesions are shown in Figure 1. Additional noteworthy findings on physical exam are conjunctival petechiae and distally located subungual hemorrhages in his fingernail beds. His WBC count is 18,900/µL (18.9 × 109/L) with 87% polymorphonuclear leukocytes and 6% bands. Cerebrospinal fluid analysis shows 438 cells/µL (0.438 × 109/L), with a low glucose. Based on this clinical presentation, what is the most likely etiologic agent to cause this patient’s infection?
+
+[^1]: [[SEEK Questionnaires]]
+[^2]: Butler T. _Capnocytophaga canimorsus_: an emerging cause of sepsis, meningitis, and post-splenectomy infection after dog bites. _Eur J Clin Microbiol Infect Dis_. 2015;34(7):1271-1280. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25828064)
+[^3]: Elghetany MT, Walker DH. Hemostatic changes in Rocky Mountain spotted fever and Mediterranean spotted fever. _Am J Clin Pathol_. 1999;112(2):159-168. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/10439795)
+[^4]: Horseman MA, Surani S. A comprehensive review of _Vibrio vulnificus_: an important cause of severe sepsis and skin and soft-tissue infection. _Int J Infect Dis_. 2011;15(3):e157-e166. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/21177133)
+[^5]: Mader N, Lührs F, Langenbeck M, et al. _Capnocytophaga canimorsus_ - a potent pathogen in immunocompetent humans - systematic review and retrospective observational study of case reports. _Infect Dis (Lond)_. 2020;52(2):65-74. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/31709860)
+[^6]: Vaiman M, Lazarovitch T, Heller L, et al. Ecthyma gangrenosum and ecthyma-like lesions: review article. _Eur J Clin Microbiol Infect Dis_. 2015;34(4):633-639. [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/25407372)

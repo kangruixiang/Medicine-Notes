@@ -1,0 +1,22 @@
+{
+  "userIllegalSymbols": [
+    ":"
+  ],
+  "ignoredFiles": {
+    "03 Resources/Note Taking/Obsidian/{{dateYYYY-MM-DD}}.md": null,
+    "03 Resources/Note Taking/Obsidian/Daily Note Template.md": null,
+    "03 Resources/Note Taking/Templates/Studies.md": null,
+    "03 Resources/Note Taking/Templates/3 months goals.md": null,
+    "03 Resources/Note Taking/Templates/monthly goals.md": null,
+    "03 Resources/Note Taking/Templates/zotero_notes.md": null,
+    "03 Resources/Note Taking/Templates/koreader.md": null
+  },
+  "ignoreRegex": "",
+  "useFileOpenHook": false,
+  "useFileSaveHook": true,
+  "newHeadingStyle": "Prefix",
+  "replaceStyle": false,
+  "underlineString": "===",
+  "renameDebounceTimeout": 1000,
+  "insertHeadingIfMissing": true
+}
