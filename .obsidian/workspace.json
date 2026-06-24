@@ -225,12 +225,22 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           },
           {
             "id": "cb463c358b63b452",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
+            }
+          },
+          {
+            "id": "b1548341561dddeb",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
@@ -240,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -269,7 +279,7 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "69b6d2f13c52e9af",
+  "active": "b1548341561dddeb",
   "lastOpenFiles": [
     "Attachments/PDF/LVAD.pdf",
     "Attachments/PDF/EKG.pdf",
