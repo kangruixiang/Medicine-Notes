@@ -4,9 +4,6 @@ date: 2020-09-07
 
 # Medicine
 
-- related: [[000 Index]]
----
-
 ## Todos
 
 - [[tolearn]]

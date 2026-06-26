@@ -70,11 +70,13 @@ command.define {
   run = formatter.formatAndSave,
 }
 
-event.listen {
-  name = "editor:pageSaved",
-  run = function()
-    formatter.cleanupLLMText()
-    formatter.formatContext()
-  end
-}
+
 ```
+
+event.listen {
+name = "editor:pageSaved",
+run = function()
+formatter.cleanupLLMText()
+formatter.formatContext()
+end
+}

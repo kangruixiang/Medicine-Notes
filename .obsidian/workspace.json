@@ -225,8 +225,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -250,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -279,11 +279,22 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "b1548341561dddeb",
+  "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "attachments",
+    "New folder",
+    "Library/mermaid.plug.js",
+    "Library/silverbullet-mermaid.md",
+    "Library/silverbulletmd/markdown-prettify/markdown-prettify.plug.js",
+    "Library/silverbulletmd/markdown-prettify/Prettify.md",
+    "Library/silverbulletmd/markdown-prettify",
+    "Library/silverbulletmd",
+    "Library/mrmugame/silverbullet-pdf.plug.js",
+    "Library/mrmugame/Silverbullet-PDF.md",
+    "Library/mrmugame",
+    "Library",
     "Attachments/PDF/LVAD.pdf",
     "Attachments/PDF/EKG.pdf",
-    "Attachments/PDF/Dexamethasone treatment for the acute respiratory distress.pdf",
     "03 Resources/Medicine/Diagnosis for MAC include AFB sputum for pulmonary disease and AFB blood for disseminated disease.md",
     "03 Resources/Medicine/mycobactrium avium MAC.md",
     "03 Resources/Medicine/opioid conversion.md",
@@ -306,11 +317,6 @@
     "03 Resources/Cooking/baby back ribs.md",
     "03 Resources/Medicine/Residency Vasculitis Notes.md",
     "03 Resources/Medicine/04 Residency/General Medicine/05 Wards.md",
-    "03 Resources/Medicine/opioid management.md",
-    "03 Resources/Medicine/General Medicine.md",
-    "03 Resources/Medicine/Medicine.md",
-    "01 Daily Notes/2026/June",
-    "Clippings",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",
@@ -321,12 +327,6 @@
     "Attachments/20260317150724.png",
     "Attachments/20260317150032.png",
     "Attachments/20260317145921.png",
-    "01 Daily Notes/2026/February",
-    "01 Daily Notes/2026/January",
-    "01 Daily Notes/2026",
-    "01 Daily Notes/2025/December",
-    "01 Daily Notes/2025/November",
-    "Attachments/ab7b3437-aea7-4c05-9637-33fbeedbc7dd.mp4",
     "00 Inbox/Clothing.canvas"
   ]
 }

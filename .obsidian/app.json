@@ -7,9 +7,9 @@
   "readableLineLength": true,
   "foldIndent": true,
   "showLineNumber": false,
-  "attachmentFolderPath": "Attachments",
-  "newFileLocation": "folder",
-  "newFileFolderPath": "00 Inbox",
+  "attachmentFolderPath": "attachments",
+  "newFileLocation": "root",
+  "newFileFolderPath": "/",
   "vimMode": false,
   "spellcheckDictionary": [
     "Vasculitis",
