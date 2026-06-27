@@ -1,6 +1,5 @@
+# Settings
 
-- [[config/formatter]]
-- [[config/STYLES]]
 
 ```space-config
 

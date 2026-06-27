@@ -1,3 +1,5 @@
+# Page Rename Hook
+
 ```space-lua
 
 syncTitle = syncTitle or {}

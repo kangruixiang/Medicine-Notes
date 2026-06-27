@@ -1,3 +1,5 @@
+# Page Creation Hook
+
 ```space-lua
 -- Apply a default template to ALL newly created pages
 event.listen {

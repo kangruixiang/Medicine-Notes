@@ -1,6 +1,7 @@
 ---
 2026-06-23
 ---
+# Orphaned Images
 
 ```space-lua
 

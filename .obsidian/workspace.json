@@ -279,8 +279,9 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "69b6d2f13c52e9af",
+  "active": "4b6aae856b541bc3",
   "lastOpenFiles": [
+    "config/scheduled_script.bat",
     "attachments",
     "New folder",
     "Library/mermaid.plug.js",
@@ -294,7 +295,6 @@
     "Library/mrmugame",
     "Library",
     "Attachments/PDF/LVAD.pdf",
-    "Attachments/PDF/EKG.pdf",
     "03 Resources/Medicine/Diagnosis for MAC include AFB sputum for pulmonary disease and AFB blood for disseminated disease.md",
     "03 Resources/Medicine/mycobactrium avium MAC.md",
     "03 Resources/Medicine/opioid conversion.md",

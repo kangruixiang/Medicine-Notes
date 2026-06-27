@@ -49,6 +49,6 @@ Then we’ll talk.
 
 # What next?
 
-![[2025-09-20_07-58-11.png]]
+![](https://photos.thisispiggy.com/file/wikiFiles/2025-09-20_07-58-11.png)
 
 You can find more information on SilverBullet’s feature set on its [official website](https://v2.silverbullet.md/). Also, be sure to join the [SilverBullet community](https://community.silverbullet.md/) to interact with fellow SilverBullet explorers.

@@ -7,6 +7,9 @@ share.uri: "https://github.com/silverbulletmd/silverbullet-mermaid/blob/main/PLU
 share.hash: 357c5dc6
 share.mode: pull
 ---
+
+# Mermaid
+
 This plug adds basic [Mermaid](https://mermaid.js.org/) support to Silver Bullet.
 
 For example:
