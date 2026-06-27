@@ -42,7 +42,7 @@ date: 2020-09-07
 - [[cardiology with critical care]]
 - [[infiltrative cardiomyopathy ultrasound findings]]
 
-## EKG
+## EKGfds
 
 - [[EKG basics]]
 - [[bundle branch block EKG findings]]

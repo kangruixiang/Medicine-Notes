@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA.md",
+                "file": "Pulmonary Diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AAA"
+              "title": "Pulmonary Diseases"
             }
           }
         ]
@@ -279,8 +279,9 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "4b6aae856b541bc3",
+  "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "AAA.md",
     "config/scheduled_script.bat",
     "attachments",
     "New folder",
@@ -294,7 +295,6 @@
     "Library/mrmugame/Silverbullet-PDF.md",
     "Library/mrmugame",
     "Library",
-    "Attachments/PDF/LVAD.pdf",
     "03 Resources/Medicine/Diagnosis for MAC include AFB sputum for pulmonary disease and AFB blood for disseminated disease.md",
     "03 Resources/Medicine/mycobactrium avium MAC.md",
     "03 Resources/Medicine/opioid conversion.md",

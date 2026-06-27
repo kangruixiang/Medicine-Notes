@@ -21,4 +21,6 @@ config.set("sync.documents", true)
 config.set("github.name", "kangruixiang")
 config.set("github.email", "thisispiggy@gmail.com")
 config.set("github.token", "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")
+config.set("std.widgets.toc.enabled", false)
+config.set("index.item.all", false)
 ```

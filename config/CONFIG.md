@@ -10,6 +10,11 @@ config.set {
     -- Then run the `Plugs: Update` command to update them
   }
 }
+
+
+config.set("index.search.enable", false)
+config.set("index.paragraph.all", false)
+
 ```
 
 ```mermaid
