@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulmonary Diseases.md",
+                "file": "Medicine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pulmonary Diseases"
+              "title": "Medicine"
             }
           }
         ]
@@ -281,6 +281,8 @@
   },
   "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Pulmonary Diseases.md",
     "AAA.md",
     "config/scheduled_script.bat",
     "attachments",
@@ -315,8 +317,6 @@
     "03 Resources/Medicine/zotero/Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults.md",
     "03 Resources/Medicine/zotero/A Multicenter, Randomized Trial of Ramped Position vs Sniffing Position During Endotracheal Intubation of Critically Ill Adults.md",
     "03 Resources/Cooking/baby back ribs.md",
-    "03 Resources/Medicine/Residency Vasculitis Notes.md",
-    "03 Resources/Medicine/04 Residency/General Medicine/05 Wards.md",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",
