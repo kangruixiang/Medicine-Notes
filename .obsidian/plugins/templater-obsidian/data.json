@@ -1,6 +1,6 @@
 {
   "command_timeout": 5,
-  "templates_folder": "03 Resources/Note Taking/Templates",
+  "templates_folder": "templates",
   "templates_pairs": [
     [
       "",
@@ -15,16 +15,30 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "00 Inbox",
-      "template": "03 Resources/Note Taking/Templates/Studies.md"
+      "folder": "/",
+      "template": "templates/Studies.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     ""
   ],
   "startup_templates": [
     ""
+  ],
+  "intellisense_render": 1,
+  "ignore_folders_on_creation": [
+    {
+      "folder": ""
+    }
   ],
   "template_folder": "03 Resources/Note Taking/Templates",
   "empty_file_template": "03 Resources/Note Taking/Templates/Studies",

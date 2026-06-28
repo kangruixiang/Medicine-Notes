@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Medicine.md",
+                "file": "CT image and Hounsfield HU unit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Medicine"
+              "title": "CT image and Hounsfield HU unit"
             }
           }
         ]
@@ -113,7 +113,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -279,10 +280,15 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "69b6d2f13c52e9af",
+  "active": "4b6aae856b541bc3",
   "lastOpenFiles": [
-    "Untitled.base",
+    "attachments/20260628091614.png",
+    "attachments/20260628091604.png",
+    "chest imaging.md",
+    "CT image and Hounsfield HU unit.md",
     "Pulmonary Diseases.md",
+    "Medicine.md",
+    "Untitled.base",
     "AAA.md",
     "config/scheduled_script.bat",
     "attachments",
@@ -296,7 +302,6 @@
     "Library/mrmugame/silverbullet-pdf.plug.js",
     "Library/mrmugame/Silverbullet-PDF.md",
     "Library/mrmugame",
-    "Library",
     "03 Resources/Medicine/Diagnosis for MAC include AFB sputum for pulmonary disease and AFB blood for disseminated disease.md",
     "03 Resources/Medicine/mycobactrium avium MAC.md",
     "03 Resources/Medicine/opioid conversion.md",
@@ -314,9 +319,6 @@
     "03 Resources/Medicine/3 sec sinus pause and 5 sec afib cause needs pacemaker.md",
     "03 Resources/Medicine/zotero/Diagnostic Bronchoscopy - Basic Techniques.md",
     "03 Resources/Medicine/zotero/British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults.md",
-    "03 Resources/Medicine/zotero/Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults.md",
-    "03 Resources/Medicine/zotero/A Multicenter, Randomized Trial of Ramped Position vs Sniffing Position During Endotracheal Intubation of Critically Ill Adults.md",
-    "03 Resources/Cooking/baby back ribs.md",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",
@@ -326,7 +328,6 @@
     "Attachments/20260317151026.png",
     "Attachments/20260317150724.png",
     "Attachments/20260317150032.png",
-    "Attachments/20260317145921.png",
     "00 Inbox/Clothing.canvas"
   ]
 }

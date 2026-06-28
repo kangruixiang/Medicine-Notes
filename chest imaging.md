@@ -21,6 +21,7 @@ date: 2023-03-11
 
 ## CT
 
+- [[CT image and Hounsfield HU unit]]
 - [[use appropriate windowing to detect pulmonary embolism PE on CT chest]]
 - use contrast with CT to assess for bleeding, lymph nodes vs artery
 - [[signet ring sign is seen in bronchiectasis]]
