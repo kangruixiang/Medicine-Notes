@@ -11,4 +11,4 @@ date: 2026-06-28
 - air has lowest density and is ==black==
 - bone has highest density and is ==white==
 
-![[20260628091604.png]]![[20260628091614.png]]
+![](https://photos.thisispiggy.com/file/wikiFiles/20260628091604.png)![](https://photos.thisispiggy.com/file/wikiFiles/20260628091614.png)

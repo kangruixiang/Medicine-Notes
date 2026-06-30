@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis.md",
+                "file": "An Algorithmic Approach to Lung Disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis"
+              "title": "An Algorithmic Approach to Lung Disease"
+            }
+          },
+          {
+            "id": "2692000d1cba818f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pulmonary cysts, cavitary lesions, cavities, abscess.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pulmonary cysts, cavitary lesions, cavities, abscess"
             }
           }
         ]
@@ -280,8 +304,23 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "4b6aae856b541bc3",
+  "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "Mariencheck radiology conference composite.md",
+    "CTEPH has mosaic findings with large vessels in denser lung areas.md",
+    "image findings in hypersensitivity pneumonitis include GGO, centrilobular micronodules, and mosaicism.md",
+    "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
+    "pulmonary cavities cavitary lesions differential.md",
+    "NSIP has shared imaging features with UIP.md",
+    "pulmonary cysts, cavitary lesions, cavities, abscess.md",
+    "pulmonary abscess.md",
+    "GPA granulomatosis with polyangitis CT chest shows cavitary diseases.md",
+    "nocardia and actinomyces.md",
+    "septic lung emboli are cavitary nodules with peripheral, perivascular, and lower lobe predominance.md",
+    "lemierre syndrome is septic thrombophlebitis.md",
+    "mycobactrium avium MAC.md",
+    "An Algorithmic Approach to Lung Disease.md",
+    "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis.md",
     "cystic lung diseases.md",
     "lymphangioleiomyomatosis LAM.md",
     "lymphangioleiomyomatosis has cystic lesions with chylous effusions on chest imaging.md",
@@ -291,35 +330,20 @@
     "chest imaging.md",
     "emphysema vs cyst on CT imaging.md",
     "signet ring sign is seen in bronchiectasis.md",
-    "An Algorithmic Approach to Lung Disease.md",
-    "Mariencheck radiology conference composite.md",
     "Fundamentals of High Resolution Lung CT.md",
     "use appropriate windowing to detect pulmonary embolism PE on CT chest.md",
-    "CT image and Hounsfield HU unit.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
-    "Pulmonary Diseases.md",
-    "Medicine.md",
     "Untitled.base",
-    "AAA.md",
     "config/scheduled_script.bat",
     "attachments",
     "New folder",
     "Library/mermaid.plug.js",
-    "Library/silverbullet-mermaid.md",
     "Library/silverbulletmd/markdown-prettify/markdown-prettify.plug.js",
-    "Library/silverbulletmd/markdown-prettify/Prettify.md",
     "Library/silverbulletmd/markdown-prettify",
     "Library/silverbulletmd",
     "Library/mrmugame/silverbullet-pdf.plug.js",
-    "Library/mrmugame/Silverbullet-PDF.md",
     "Library/mrmugame",
-    "03 Resources/Medicine/Diagnosis for MAC include AFB sputum for pulmonary disease and AFB blood for disseminated disease.md",
-    "03 Resources/Medicine/mycobactrium avium MAC.md",
-    "03 Resources/Medicine/opioid conversion.md",
-    "03 Resources/Medicine/01 Step 1/Antimicrobials/01 Cell Wall and Membrane.md",
-    "03 Resources/Medicine/02 Step 2/Psych/Dissociative Disorders.md",
-    "03 Resources/Medicine/02 Step 2/Psych/Anxiety Disorders.md",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",
