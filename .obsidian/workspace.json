@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "An Algorithmic Approach to Lung Disease.md",
+                "file": "tolearn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "An Algorithmic Approach to Lung Disease"
-            }
-          },
-          {
-            "id": "2692000d1cba818f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulmonary cysts, cavitary lesions, cavities, abscess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pulmonary cysts, cavitary lesions, cavities, abscess"
+              "title": "tolearn"
             }
           }
         ]
@@ -306,6 +282,7 @@
   },
   "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "An Algorithmic Approach to Lung Disease.md",
     "Mariencheck radiology conference composite.md",
     "CTEPH has mosaic findings with large vessels in denser lung areas.md",
     "image findings in hypersensitivity pneumonitis include GGO, centrilobular micronodules, and mosaicism.md",
@@ -319,7 +296,6 @@
     "septic lung emboli are cavitary nodules with peripheral, perivascular, and lower lobe predominance.md",
     "lemierre syndrome is septic thrombophlebitis.md",
     "mycobactrium avium MAC.md",
-    "An Algorithmic Approach to Lung Disease.md",
     "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis.md",
     "cystic lung diseases.md",
     "lymphangioleiomyomatosis LAM.md",

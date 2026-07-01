@@ -3,7 +3,7 @@
 ---
 # Orphaned Images
 
-```space-lua
+``` 
 
 function getOrphanAttachments()
   local excludeFolders = {

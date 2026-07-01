@@ -68,7 +68,6 @@ date: 2021-10-05
 - amantadine for somnolence
 - free fluid in bowel could be perforation
 - reality and focus trial for transfusion
-- open evidence ai tool
 - Books from orientation
 	- eveidence based critical care: a case study approach
 	- atlas of interstitial lung disease pathology
@@ -121,6 +120,7 @@ date: 2021-10-05
 	- Famotidine 20mg q12hr for 24hr total
 	- Benadryl 25mg q8hr for 24hr total
 	- Decadron 10mg q8hr for 24hr total
+- https://pmc.ncbi.nlm.nih.gov/articles/PMC9841052/
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20240916102147.png)
 
