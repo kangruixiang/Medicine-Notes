@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chylothorax is elevated TG with low cholesterol.md",
+                "file": "SEEK CPET examples.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "chylothorax is elevated TG with low cholesterol"
+              "title": "SEEK CPET examples"
+            }
+          },
+          {
+            "id": "b9b0ab73e393567b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cardiopulmonary exercise test CPET.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cardiopulmonary exercise test CPET"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,6 +307,19 @@
   },
   "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "heart rate reserve in CPET.md",
+    "cardiopulmonary exercise test CPET.md",
+    "normal VO2 VCO2 graph in CPET.md",
+    "terminologies and ranges in CPET testing.md",
+    "dead space ventilation decreases during exercises and CPET.md",
+    "SEEK CPET examples.md",
+    "ventilatory threshold is point of max exercise capacity.md",
+    "breathing reserve in CPET.md",
+    "Lung nodules.md",
+    "anaerobic threshold is point of anaerobic metabolism in CPET.md",
+    "CPET example interpretations.md",
+    "start CPET interpretation with finding peak VO2.md",
+    "chylothorax is elevated TG with low cholesterol.md",
     "tolearn.md",
     "An Algorithmic Approach to Lung Disease.md",
     "Mariencheck radiology conference composite.md",
@@ -295,19 +333,6 @@
     "GPA granulomatosis with polyangitis CT chest shows cavitary diseases.md",
     "nocardia and actinomyces.md",
     "septic lung emboli are cavitary nodules with peripheral, perivascular, and lower lobe predominance.md",
-    "lemierre syndrome is septic thrombophlebitis.md",
-    "mycobactrium avium MAC.md",
-    "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis.md",
-    "cystic lung diseases.md",
-    "lymphangioleiomyomatosis LAM.md",
-    "lymphangioleiomyomatosis has cystic lesions with chylous effusions on chest imaging.md",
-    "LAM vs PLCH vs LIP vs PBML image, histology, PFT.md",
-    "Murray and Nadel Ch 97 Lymphangioleiomyomatosis.md",
-    "lymphangioleiomyomatosis LAM is a rare female only disease with cystic lung lesions.md",
-    "chest imaging.md",
-    "emphysema vs cyst on CT imaging.md",
-    "signet ring sign is seen in bronchiectasis.md",
-    "Fundamentals of High Resolution Lung CT.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
     "Untitled.base",
