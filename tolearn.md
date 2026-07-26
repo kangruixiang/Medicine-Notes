@@ -90,7 +90,6 @@ date: 2021-10-05
 - noninfectious post transplant lung complications
 - PLEX treatment
 - Proteus can have resistance to Rocephin. Use Cefepime or zosyn instead
-- strongyloides: check before starting steroids for eosinophilic patients
 - Use voriconazole for empiric mold treatment
 - [https://publications.ersnet.org/content/erj/49/5/1601526?implicit-login=true%26456#s4](https://publications.ersnet.org/content/erj/49/5/1601526?implicit-login=true%26456#s4)
 	- methacholine challenge
@@ -121,6 +120,7 @@ date: 2021-10-05
 	- Benadryl 25mg q8hr for 24hr total
 	- Decadron 10mg q8hr for 24hr total
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC9841052/
+- cefepime instead of zosyn for klebsiella
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20240916102147.png)
 

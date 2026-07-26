@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cardiopulmonary exercise test CPET.md",
+                "file": "tolearn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cardiopulmonary exercise test CPET"
+              "title": "tolearn"
             }
           }
         ],
@@ -305,10 +305,13 @@
       "recent-notes:Recent notes": false
     }
   },
-  "active": "69b6d2f13c52e9af",
+  "active": "b9b0ab73e393567b",
   "lastOpenFiles": [
-    "heart rate reserve in CPET.md",
+    "avoid beta lactam antibiotics for enterobacter because of ampC.md",
+    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
+    "pulmonary hypertension.md",
     "cardiopulmonary exercise test CPET.md",
+    "heart rate reserve in CPET.md",
     "normal VO2 VCO2 graph in CPET.md",
     "terminologies and ranges in CPET testing.md",
     "dead space ventilation decreases during exercises and CPET.md",
@@ -330,9 +333,6 @@
     "NSIP has shared imaging features with UIP.md",
     "pulmonary cysts, cavitary lesions, cavities, abscess.md",
     "pulmonary abscess.md",
-    "GPA granulomatosis with polyangitis CT chest shows cavitary diseases.md",
-    "nocardia and actinomyces.md",
-    "septic lung emboli are cavitary nodules with peripheral, perivascular, and lower lobe predominance.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
     "Untitled.base",
