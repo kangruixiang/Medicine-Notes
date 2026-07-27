@@ -49,7 +49,7 @@ date: 2023-11-30
 - Airflow obstruction, especially nonsmokers
 - Follicular bronchiolitis: localized lymphoid infiltration of bronchioles.
 - Centrilobular nodules of GGO. Air trapping and mosaic perfusion may also be present.[^3]
-- [[constrictive bronchiolitis is small airway disease]]
+- [[constrictive bronchiolitis]]
 
 ## Pulmonary rheumatoid nodules
 

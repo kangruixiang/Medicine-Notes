@@ -40,13 +40,13 @@ date: 2020-09-07
 
 ## Obstructive Lung Disease
 
+- [[small airway disease]]
 - [[COPD chronic obstructive pulmonary disease]]
 - [[Asthma reactive airway disease]]
 - [[vocal cord dysfunction can be an asthma mimic]]
 - [[chronic bronchiectasis]]
 - [[CF cystic fibrosis]]
 - [[aspirin exacerbated respiratory disease]]
-- [[constrictive bronchiolitis is small airway disease]]
 
 ## Restrictive Lung Diseases
 
@@ -139,7 +139,6 @@ date: 2020-09-07
 ## Parenchymal Lung Disorders
 
 - [[lipoid pneumonia have low attenuation on CT]]
-- [[follicular bronchiolitis]]
 
 ## Pulmonary Immunology
 

@@ -4,7 +4,7 @@ date: 2022-12-03
 
 # respiratory bronchiolitis
 
-- related: [[Pulmonary Diseases]]
+- related: [[small airway disease]]
 - tags: #literature #pulmonology
 ---
 
@@ -15,7 +15,7 @@ The histologic hallmark of RB-ILD is the accumulation of tan-pigmented macrophag
 ## Etiology
 
 - smokers: [[RB-ILD]]
-- non-transplant and nonlung transplant patient: [[constrictive bronchiolitis is small airway disease]]
+- non-transplant and nonlung transplant patient: [[constrictive bronchiolitis]]
 - lung transplant patient: [[CLAD chronic lung allograft dysfunction]]
 
 ## Chest imaging

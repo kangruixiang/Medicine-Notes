@@ -4,7 +4,7 @@ date: 2023-12-30
 
 # hypereosinophilic obliterative bronchiolitis
 
-- related: [[Pulmonary Diseases]]
+- related: [[small airway disease]], [[eosinophilia and lung disorders]]
 - tags: #literature
 ---
 

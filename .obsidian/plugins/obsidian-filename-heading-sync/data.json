@@ -9,7 +9,8 @@
     "03 Resources/Note Taking/Templates/3 months goals.md": null,
     "03 Resources/Note Taking/Templates/monthly goals.md": null,
     "03 Resources/Note Taking/Templates/zotero_notes.md": null,
-    "03 Resources/Note Taking/Templates/koreader.md": null
+    "03 Resources/Note Taking/Templates/koreader.md": null,
+    "templates/{{title  escape}}.md": null
   },
   "ignoreRegex": "",
   "useFileOpenHook": false,
@@ -18,5 +19,6 @@
   "replaceStyle": false,
   "underlineString": "===",
   "renameDebounceTimeout": 1000,
-  "insertHeadingIfMissing": true
+  "insertHeadingIfMissing": true,
+  "spaceReplacementCharacter": ""
 }

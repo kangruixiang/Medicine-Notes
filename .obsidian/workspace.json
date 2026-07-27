@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c1b50651bea1c3c6",
+        "id": "382b02eb57a7df48",
         "type": "tabs",
         "children": [
           {
-            "id": "4b6aae856b541bc3",
+            "id": "859f512b0aa55afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEEK CPET examples.md",
+                "file": "small airway disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SEEK CPET examples"
+              "title": "small airway disease"
             }
           },
           {
-            "id": "b9b0ab73e393567b",
+            "id": "8b9d662759893532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tolearn.md",
+                "file": "Pulmonary Diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tolearn"
+              "title": "Pulmonary Diseases"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,8 +119,8 @@
             "state": {
               "type": "recent-notes-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "recent-notes-view"
+              "icon": "clock-10",
+              "title": "Recent notes"
             }
           },
           {
@@ -138,8 +137,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 296.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -302,11 +300,33 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "recent-notes:Recent notes": false
+      "recent-notes:Recent notes": false,
+      "tldraw:Create new tldrawing": false
     }
   },
   "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
+    "Pulmonary Diseases.md",
+    "respiratory bronchiolitis.md",
+    "constrictive bronchiolitis.md",
+    "small airway disease.md",
+    "CLAD chronic lung allograft dysfunction.md",
+    "RB-ILD.md",
+    "hypereosinophilic obliterative bronchiolitis.md",
+    "zotero/Diagnosis and Management of Small Airways Disease.md",
+    "templates/zotero_notes.md",
+    "zotero/Diagnostic Bronchoscopy - Basic Techniques.md",
+    "zotero/zotero_notes.md",
+    "03 Resources/Medicine/zotero/Diagnosis and Management of Small Airways Disease.md",
+    "03 Resources/Medicine/zotero",
+    "03 Resources/Medicine",
+    "03 Resources",
+    "lipoid pneumonia have low attenuation on CT.md",
+    "attachments/20260628091614.png",
+    "attachments/20260628091604.png",
+    "Library/silverbullet-mermaid.md",
+    "tolearn.md",
+    "03 Resources/Medicine/zotero/tancrediDiagnosisManagementSmall2026.md",
     "avoid beta lactam antibiotics for enterobacter because of ampC.md",
     "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
     "pulmonary hypertension.md",
@@ -317,24 +337,6 @@
     "dead space ventilation decreases during exercises and CPET.md",
     "SEEK CPET examples.md",
     "ventilatory threshold is point of max exercise capacity.md",
-    "breathing reserve in CPET.md",
-    "Lung nodules.md",
-    "anaerobic threshold is point of anaerobic metabolism in CPET.md",
-    "CPET example interpretations.md",
-    "start CPET interpretation with finding peak VO2.md",
-    "chylothorax is elevated TG with low cholesterol.md",
-    "tolearn.md",
-    "An Algorithmic Approach to Lung Disease.md",
-    "Mariencheck radiology conference composite.md",
-    "CTEPH has mosaic findings with large vessels in denser lung areas.md",
-    "image findings in hypersensitivity pneumonitis include GGO, centrilobular micronodules, and mosaicism.md",
-    "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
-    "pulmonary cavities cavitary lesions differential.md",
-    "NSIP has shared imaging features with UIP.md",
-    "pulmonary cysts, cavitary lesions, cavities, abscess.md",
-    "pulmonary abscess.md",
-    "attachments/20260628091614.png",
-    "attachments/20260628091604.png",
     "Untitled.base",
     "config/scheduled_script.bat",
     "attachments",
@@ -342,9 +344,6 @@
     "Library/mermaid.plug.js",
     "Library/silverbulletmd/markdown-prettify/markdown-prettify.plug.js",
     "Library/silverbulletmd/markdown-prettify",
-    "Library/silverbulletmd",
-    "Library/mrmugame/silverbullet-pdf.plug.js",
-    "Library/mrmugame",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",

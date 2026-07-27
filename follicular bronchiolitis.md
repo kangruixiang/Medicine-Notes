@@ -18,7 +18,7 @@ date: 2024-10-02
 
 <!-- follicular bronchiolitis association, sx, diagnosis, histology, treatment b:1141222810530-->
 
-Follicular bronchiolitis is a type of constrictive bronchiolitis ([[constrictive bronchiolitis is small airway disease]]).
+Follicular bronchiolitis is a type of constrictive bronchiolitis ([[constrictive bronchiolitis]]).
 
 This patient has Sjögren syndrome with xerophthalmia, xerosis, and arthralgias, and he has developed a diffuse parenchymal lung disease with clinical, radiographic, and histological features most consistent with ==follicular bronchiolitis (FB)==.
 

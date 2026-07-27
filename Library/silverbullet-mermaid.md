@@ -25,7 +25,8 @@ C -->|Two| E[Result 2]
 
 **Note:** The Mermaid library itself is not bundled with this plug, it pulls the JavaScript from the JSDelivr CDN. This means _this plug will not work without an Internet connection_. The reason for this is primarily plug size (bundling the library would amount to 1.1MB). This way Mermaid is only loaded on pages with actual Mermaid diagrams rather than on every SB load.
 
-## Configuration 
+## Configuration
+
 You can use the `mermaid` config to tweak a few things:
 
     ```space-lua
@@ -43,4 +44,3 @@ You can use the `mermaid` config to tweak a few things:
       },
     })
     ```
-
