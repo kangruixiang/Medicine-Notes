@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "small airway disease.md",
+                "file": "mycophenolate as primary treatment for sjogren associated ILD.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "small airway disease"
+              "title": "mycophenolate as primary treatment for sjogren associated ILD"
             }
           },
           {
@@ -37,25 +37,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulmonary Diseases.md",
+                "file": "Major pulmonary studies to know.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pulmonary Diseases"
+              "title": "Major pulmonary studies to know"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +129,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 296.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -304,12 +297,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "69b6d2f13c52e9af",
+  "active": "8b9d662759893532",
   "lastOpenFiles": [
+    "zotero/Nintedanib for Systemic Sclerosis–Associated Interstitial Lung Disease.md",
+    "Major pulmonary studies to know.md",
+    "mycophenolate as primary treatment for sjogren associated ILD.md",
+    "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
+    "small airway disease.md",
+    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
     "Pulmonary Diseases.md",
     "respiratory bronchiolitis.md",
     "constrictive bronchiolitis.md",
-    "small airway disease.md",
     "CLAD chronic lung allograft dysfunction.md",
     "RB-ILD.md",
     "hypereosinophilic obliterative bronchiolitis.md",
@@ -332,11 +330,6 @@
     "pulmonary hypertension.md",
     "cardiopulmonary exercise test CPET.md",
     "heart rate reserve in CPET.md",
-    "normal VO2 VCO2 graph in CPET.md",
-    "terminologies and ranges in CPET testing.md",
-    "dead space ventilation decreases during exercises and CPET.md",
-    "SEEK CPET examples.md",
-    "ventilatory threshold is point of max exercise capacity.md",
     "Untitled.base",
     "config/scheduled_script.bat",
     "attachments",

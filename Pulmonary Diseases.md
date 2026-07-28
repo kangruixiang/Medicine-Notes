@@ -7,6 +7,10 @@ date: 2020-09-07
 - Related: [[Step 3]], [[Medicine]]
 ---
 
+## Literature Notes
+
+- [[Major pulmonary studies to know]]
+
 ## Anatomy and Images
 
 - [[upper airway anatomy]]
