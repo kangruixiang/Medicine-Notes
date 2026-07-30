@@ -10,25 +10,26 @@ date: 2023-06-07
 
 ## History
 
-- Asthma, copd
-- GERD
-- connective tissue disease
-- HIV/AIDS
-- Primary ciliary dyskinesia
-- IBD hx
+- screen for these conditions:
+	- Asthma, COPD
+	- GERD
+	- connective tissue disease
+	- HIV/AIDS
+	- Primary ciliary dyskinesia
+	- IBD
+	- family hx of immune deficiencies
 
 ## Labs
 
-- All: CBC, immunoglobulins, PFT, CT, sputum, AFB
-- focal bronchiectasis: bronchoscopy
-- diffuse bronchiectasis: guided by hx
-	- AFB
-	- sweat chloride
-	- alpha-1-antitrypsin
-	- GERD workup: pH monitor, barium swallow, EGD
-	- ciliary testing: cilia biopsy, nasal nitric oxide
-	- aspergillus and ABPA testing
-	- autoimmune workup: IgM, A, G; total IgE, specific IgE/G, aspergillus fumigatus workup
-	- immune deficiency workup[^1]
+- All: CBC, PFT, CT, sputum, AFB
+- sputum: regular and AFB
+- immunoglobulins: IgG, IgA, IgM
+- specifically polysaccharides antibody levels
+- ABPA workup
+- Sweat chloride
+- Ciliary testing: nasal nitric oxide, cilia biopsy
+- A1AT
+- GERD: pH monitor, barium swallow, EGD [^1][^2]
 
 [^1]: [[Bronchiectasis Lecture by Jennifer Krall?]]
+[^2]: [[Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease]]
