@@ -45,3 +45,4 @@ date: 2022-05-30
 - [[Bronchiectasis Lecture by Jennifer Krall?]]
 - [[Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease]]
 - [ ] Aspen trial for bronchiectasis
+- [[Management of Adult Bronchiectasis An American College of Chest Physicians Clinical Practice Guideline]]

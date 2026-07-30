@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mycophenolate as primary treatment for sjogren associated ILD.md",
+                "file": "chronic bronchiectasis.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mycophenolate as primary treatment for sjogren associated ILD"
+              "title": "chronic bronchiectasis"
             }
           },
           {
@@ -297,11 +297,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "8b9d662759893532",
+  "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
-    "zotero/Nintedanib for Systemic Sclerosis–Associated Interstitial Lung Disease.md",
+    "use brensocatib Brinsupri to treat non CF bronchiectasis.md",
+    "chronic bronchiectasis.md",
+    "Bronchiectasis A Clinical Review.md",
     "Major pulmonary studies to know.md",
+    "zotero/Management of Adult Bronchiectasis An American College of Chest Physicians Clinical Practice Guideline.md",
+    "Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease.md",
+    "bronchiectasis initial workup.md",
     "mycophenolate as primary treatment for sjogren associated ILD.md",
+    "zotero/Nintedanib for Systemic Sclerosis–Associated Interstitial Lung Disease.md",
     "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
     "small airway disease.md",
     "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
@@ -324,12 +330,6 @@
     "attachments/20260628091604.png",
     "Library/silverbullet-mermaid.md",
     "tolearn.md",
-    "03 Resources/Medicine/zotero/tancrediDiagnosisManagementSmall2026.md",
-    "avoid beta lactam antibiotics for enterobacter because of ampC.md",
-    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
-    "pulmonary hypertension.md",
-    "cardiopulmonary exercise test CPET.md",
-    "heart rate reserve in CPET.md",
     "Untitled.base",
     "config/scheduled_script.bat",
     "attachments",
