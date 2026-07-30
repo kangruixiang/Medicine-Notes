@@ -4,7 +4,7 @@ date: 2020-09-07
 
 # Pulmonary Diseases
 
-- Related: [[Step 3]], [[Medicine]]
+- Related: [[Medicine]]
 ---
 
 ## Literature Notes
@@ -67,14 +67,12 @@ date: 2020-09-07
 - [[ALS amyotrophic lateral sclerosis can be mistaken for lung problems]]
 - [[lupus can have shrinking lung syndrome]]
 
-## Cystic Lung Diseases
+## Parenchymal Lung Disorders
 
-- [[cystic lung diseases]]
-
-## Pneumonitis
-
+- [[lipoid pneumonia have low attenuation on CT]]
 - [[HP hypersensitivity pneumonitis]]
 - [[EVALI ecigarette or vaping associated lung injury]]
+- [[cystic lung diseases]]
 
 ## Sleep medicine
 
@@ -140,10 +138,6 @@ date: 2020-09-07
 - [[Wegener GPA granulomatosis with polyangitis]]
 - [[Goodpasture syndrome anti-GBM can develop DAH]]
 
-## Parenchymal Lung Disorders
-
-- [[lipoid pneumonia have low attenuation on CT]]
-
 ## Pulmonary Immunology
 
 - CGD
@@ -156,6 +150,10 @@ date: 2020-09-07
 - [[rituximab can cause hypogammaglobulinemia]]
 - [[associations in pulmonary diseases]]
 - [[DAH diffuse alveolar hemorrhage]]
+
+## Pulmonary Disease and Pharmacy
+
+- [[steroid sparing immunosuppression dosing and monitoring guide]]
 
 ## Congenital Disorders
 

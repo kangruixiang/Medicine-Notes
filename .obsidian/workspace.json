@@ -8,31 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "448021f43d14ef1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Major pulmonary studies to know.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Major pulmonary studies to know"
-            }
-          },
-          {
-            "id": "a450b7488fffb3b3",
+            "id": "82a7f14bae5cafbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,19 +32,31 @@
             }
           },
           {
-            "id": "1ce3f098328e06aa",
+            "id": "f30b51d8580ac43d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.4"
+                "file": "Infections in Transplant Recipients.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.4"
+              "icon": "lucide-file",
+              "title": "Infections in Transplant Recipients"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -318,15 +306,25 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "69b6d2f13c52e9af",
+  "active": "f30b51d8580ac43d",
   "lastOpenFiles": [
-    "Asthma reactive airway disease.md",
+    "transfusion associated graft vs host disease.md",
+    "steroid sparing immunosuppression dosing and monitoring guide.md",
+    "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
     "Pulmonary Diseases.md",
+    "Major pulmonary studies to know.md",
+    "output and threshold of pacemakers.md",
+    "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) a randomised controlled, double-blind, parallel group trial.md",
+    "HP hypersensitivity pneumonitis.md",
+    "AIP acute interstitial pneumonia.md",
+    "COPD assessment now has category A, B, E.md",
+    "COPD chronic obstructive pulmonary disease.md",
+    "COPD questionnaires include mMRC, CAT, and SGRQ.md",
+    "Asthma reactive airway disease.md",
     "small airway disease.md",
     "chronic bronchiectasis.md",
     "eradication of bacteria colonization in bronchiectasis.md",
     "use of brensocatib reduces exacerbation in bronchiectasis.md",
-    "Major pulmonary studies to know.md",
     "zotero/Phase 2 Trial of the DPP-1 Inhibitor Brensocatib in Bronchiectasis.md",
     "azithromycin for bronchiectasis patients with over 2 exacerbations per year.md",
     "zotero/Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease.md",
@@ -336,16 +334,6 @@
     "Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease.md",
     "use brensocatib Brinsupri to treat non CF bronchiectasis.md",
     "Bronchiectasis A Clinical Review.md",
-    "zotero/Management of Adult Bronchiectasis An American College of Chest Physicians Clinical Practice Guideline.md",
-    "mycophenolate as primary treatment for sjogren associated ILD.md",
-    "zotero/Nintedanib for Systemic Sclerosis–Associated Interstitial Lung Disease.md",
-    "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
-    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
-    "respiratory bronchiolitis.md",
-    "constrictive bronchiolitis.md",
-    "CLAD chronic lung allograft dysfunction.md",
-    "RB-ILD.md",
-    "hypereosinophilic obliterative bronchiolitis.md",
     "03 Resources/Medicine/zotero",
     "03 Resources/Medicine",
     "03 Resources",

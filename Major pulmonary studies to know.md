@@ -19,5 +19,5 @@ date: 2026-07-28
 - **SENSCIS**: nintedanib slowed the decline in FVC as compared with placebo over 12 months, with half the patients in each arm on background mycophenolate mofetil therapy [^3]
 
 [^1]: [[Phase 2 Trial of the DPP-1 Inhibitor Brensocatib in Bronchiectasis]]
-[^2]: [[Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial]]
+[^2]: [[Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) a randomised controlled, double-blind, parallel group trial]]
 [^3]: [[Nintedanib for Systemic Sclerosis–Associated Interstitial Lung Disease]]
