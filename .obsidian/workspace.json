@@ -298,15 +298,12 @@
       "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
       "recent-notes:Recent notes": false,
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f30b51d8580ac43d",
+  "active": "69b6d2f13c52e9af",
   "lastOpenFiles": [
     "transfusion associated graft vs host disease.md",
     "steroid sparing immunosuppression dosing and monitoring guide.md",
