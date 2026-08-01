@@ -1,6 +1,6 @@
 {
   "database": "Zotero",
-  "noteImportFolder": "zotero",
+  "noteImportFolder": "",
   "pdfExportImageDPI": 120,
   "pdfExportImageFormat": "jpg",
   "pdfExportImageQuality": 90,
@@ -14,7 +14,7 @@
   "exportFormats": [
     {
       "name": "Zotero Notes",
-      "outputPathTemplate": "zotero/{{title | escape}}.md",
+      "outputPathTemplate": "{{title | escape}}.md",
       "imageOutputPathTemplate": "Attachments",
       "imageBaseNameTemplate": "image",
       "templatePath": "templates/zotero_notes.md",

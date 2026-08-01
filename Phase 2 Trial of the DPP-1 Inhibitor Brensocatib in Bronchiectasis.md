@@ -6,7 +6,7 @@ date: 2026-07-30
 
 - related:%% begin related %%%% end related %%
 - tags: #literature
-- links:	 [PDF](zotero://select/library/items/R38TBQ8K), [source](http://www.nejm.org/doi/10.1056/NEJMoa2021713)
+- links: [PDF](zotero://select/library/items/R38TBQ8K), [source](http://www.nejm.org/doi/10.1056/NEJMoa2021713)
 ---
 
 ## Persistent Notes
