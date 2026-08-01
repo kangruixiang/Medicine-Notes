@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulmonary Diseases.md",
+                "file": "Major pulmonary studies to know.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pulmonary Diseases"
-            }
-          },
-          {
-            "id": "f30b51d8580ac43d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Infections in Transplant Recipients.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Infections in Transplant Recipients"
+              "title": "Major pulmonary studies to know"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,21 @@
       {
         "id": "ac29ab5f66280c6f",
         "type": "tabs",
+        "dimension": 32.25574712643678,
         "children": [
+          {
+            "id": "c401196944fd3fe4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
           {
             "id": "b1dad55d940e7863",
             "type": "leaf",
@@ -76,7 +65,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -88,7 +79,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "frequency",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -113,33 +104,29 @@
               "icon": "lucide-search",
               "title": "Search"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "5857331210190d60",
+        "type": "tabs",
+        "dimension": 67.74425287356321,
+        "children": [
           {
-            "id": "c718d5a166cb8e53",
+            "id": "e97e4546ab42e15f",
             "type": "leaf",
             "state": {
-              "type": "recent-notes-view",
+              "type": "recent-files",
               "state": {},
-              "icon": "clock-10",
-              "title": "Recent notes"
-            }
-          },
-          {
-            "id": "c401196944fd3fe4",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "icon": "clock",
+              "title": "Recent files"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 296.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -155,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 Resources/Programming/Programming.md",
+                "file": "Major pulmonary studies to know.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +152,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Programming"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03 Resources/01 Items/000 Index.md",
+                "file": "Major pulmonary studies to know.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 000 Index"
+              "title": "Local graph"
             }
           },
           {
@@ -211,6 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Major pulmonary studies to know.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -225,12 +213,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03 Resources/01 Items/000 Index.md",
+                "file": "Major pulmonary studies to know.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 Index"
+              "title": "Outgoing links"
             }
           },
           {
@@ -239,40 +227,20 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "01 Daily Notes/2026/January/2026-01-11-Sun.md"
+                "file": "Major pulmonary studies to know.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
           },
           {
-            "id": "69b6d2f13c52e9af",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "cb463c358b63b452",
+            "id": "dff79ffbca9c588b",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
               "icon": "lucide-ghost",
               "title": "review-queue-list-view"
-            }
-          },
-          {
-            "id": "b1548341561dddeb",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
             }
           }
         ],
@@ -299,17 +267,20 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "recent-notes:Recent notes": false,
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f30b51d8580ac43d",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
-    "transfusion associated graft vs host disease.md",
-    "steroid sparing immunosuppression dosing and monitoring guide.md",
-    "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
-    "Pulmonary Diseases.md",
     "Major pulmonary studies to know.md",
+    "Pulmonary Diseases.md",
+    "steroid sparing immunosuppression dosing and monitoring guide.md",
+    "Medicine.md",
+    "03 Notes",
+    "New folder",
+    "Infections in Transplant Recipients.md",
+    "transfusion associated graft vs host disease.md",
+    "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
     "output and threshold of pacemakers.md",
     "zotero/Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) a randomised controlled, double-blind, parallel group trial.md",
     "HP hypersensitivity pneumonitis.md",
@@ -329,8 +300,6 @@
     "bronchiectasis initial workup.md",
     "bronchiectasis image finding includes permanent airway dilation and lack of tapering.md",
     "Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease.md",
-    "use brensocatib Brinsupri to treat non CF bronchiectasis.md",
-    "Bronchiectasis A Clinical Review.md",
     "03 Resources/Medicine/zotero",
     "03 Resources/Medicine",
     "03 Resources",
@@ -339,10 +308,8 @@
     "Untitled.base",
     "config/scheduled_script.bat",
     "attachments",
-    "New folder",
     "Library/mermaid.plug.js",
     "Library/silverbulletmd/markdown-prettify/markdown-prettify.plug.js",
-    "Library/silverbulletmd/markdown-prettify",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",

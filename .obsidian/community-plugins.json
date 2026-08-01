@@ -15,7 +15,6 @@
   "obsidian-paste-image-rename",
   "omnisearch",
   "obsidian-regex-replace",
-  "settings-search",
   "obsidian-spaced-repetition",
   "tag-wrangler",
   "obsidian-style-settings",
@@ -28,6 +27,6 @@
   "remember-cursor-position",
   "obsidian-regex-pipeline",
   "obsidian-zotero-desktop-connector",
-  "recent-notes",
-  "tldraw"
+  "tldraw",
+  "recent-files-obsidian"
 ]

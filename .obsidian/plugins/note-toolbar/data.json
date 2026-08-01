@@ -19,8 +19,7 @@
     "startup-help-view": true,
     "startup-help-welcome": true
   },
-  "ribbonAction": "toolbar",
-  "ribbonToolbar": null,
+  "ribbon": [],
   "rules": [],
   "scriptingEnabled": false,
   "showEditInFabMenu": true,
@@ -135,7 +134,7 @@
       "uuid": "94b7d5b8-5fa9-4879-8416-38ea9954ec46"
     }
   ],
-  "version": 20260428.1,
+  "version": 20260703.1,
   "webviewerToolbar": null,
   "whatsnew_version": "1.31",
   "showToolbarInCanvas": false
