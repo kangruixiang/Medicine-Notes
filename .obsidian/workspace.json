@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulmonary Diseases.md",
+                "file": "excessive dynamic airway collapse and tracheomalacia.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pulmonary Diseases"
+              "title": "excessive dynamic airway collapse and tracheomalacia"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5857331210190d60",
@@ -271,10 +271,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "015ce3df83b2de2c",
   "lastOpenFiles": [
     "Pulmonary Diseases.md",
     "excessive dynamic airway collapse and tracheomalacia.md",
+    "config/filenames.json",
     "Tracheobronchomalacia vs Excessive Dynamic Airway Collapse.md",
     "attachments/20260802145614.png",
     "templates/zotero_notes.md",
@@ -311,7 +312,6 @@
     "config/scheduled_script.bat",
     "attachments",
     "Library/mermaid.plug.js",
-    "Library/silverbulletmd/markdown-prettify/markdown-prettify.plug.js",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",
