@@ -43,7 +43,7 @@
       {
         "id": "ac29ab5f66280c6f",
         "type": "tabs",
-        "dimension": 57.08123652048885,
+        "dimension": 57.08123652048886,
         "children": [
           {
             "id": "c401196944fd3fe4",
@@ -110,7 +110,7 @@
       {
         "id": "5857331210190d60",
         "type": "tabs",
-        "dimension": 42.91876347951114,
+        "dimension": 42.91876347951115,
         "children": [
           {
             "id": "e97e4546ab42e15f",
@@ -270,8 +270,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "82a7f14bae5cafbc",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "Pulmonary Diseases.md",
     "2, 3 BPG and RBC.md",
     "zotero/New Consensus Aims to Align Post-COVID CT Imaging Practices.md",
     "Regional and Topical Anesthesia for Awake Endotracheal Intubation.md",
@@ -297,7 +298,6 @@
     "zotero/A Multicenter, Randomized Trial of Ramped Position vs Sniffing Position During Endotracheal Intubation of Critically Ill Adults.md",
     "zotero/Phase 2 Trial of the DPP-1 Inhibitor Brensocatib in Bronchiectasis.md",
     "Major pulmonary studies to know.md",
-    "Pulmonary Diseases.md",
     "03 Notes",
     "New folder",
     "03 Resources/Medicine/zotero",
