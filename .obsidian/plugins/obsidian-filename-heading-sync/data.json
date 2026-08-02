@@ -3,14 +3,8 @@
     ":"
   ],
   "ignoredFiles": {
-    "03 Resources/Note Taking/Obsidian/{{dateYYYY-MM-DD}}.md": null,
-    "03 Resources/Note Taking/Obsidian/Daily Note Template.md": null,
-    "03 Resources/Note Taking/Templates/Studies.md": null,
-    "03 Resources/Note Taking/Templates/3 months goals.md": null,
-    "03 Resources/Note Taking/Templates/monthly goals.md": null,
-    "03 Resources/Note Taking/Templates/zotero_notes.md": null,
-    "03 Resources/Note Taking/Templates/koreader.md": null,
-    "templates/{{title  escape}}.md": null
+    "templates/zotero_notes.md": null,
+    "templates/Studies.md": null
   },
   "ignoreRegex": "",
   "useFileOpenHook": false,

@@ -51,6 +51,7 @@ date: 2020-09-07
 - [[chronic bronchiectasis]]
 - [[CF cystic fibrosis]]
 - [[aspirin exacerbated respiratory disease]]
+- [[excessive dynamic airway collapse and tracheomalacia]]
 
 ## Restrictive Lung Diseases
 

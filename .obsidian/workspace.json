@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "382b02eb57a7df48",
+        "id": "a8ccca20cdca47be",
         "type": "tabs",
         "children": [
           {
-            "id": "82a7f14bae5cafbc",
+            "id": "015ce3df83b2de2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +31,8 @@
               "title": "Pulmonary Diseases"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -43,7 +44,7 @@
       {
         "id": "ac29ab5f66280c6f",
         "type": "tabs",
-        "dimension": 57.08123652048885,
+        "dimension": 24.44284687275341,
         "children": [
           {
             "id": "c401196944fd3fe4",
@@ -110,7 +111,7 @@
       {
         "id": "5857331210190d60",
         "type": "tabs",
-        "dimension": 42.91876347951115,
+        "dimension": 75.5571531272466,
         "children": [
           {
             "id": "e97e4546ab42e15f",
@@ -270,9 +271,16 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "82a7f14bae5cafbc",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
     "Pulmonary Diseases.md",
+    "excessive dynamic airway collapse and tracheomalacia.md",
+    "Tracheobronchomalacia vs Excessive Dynamic Airway Collapse.md",
+    "attachments/20260802145614.png",
+    "templates/zotero_notes.md",
+    "attachments/20260802144628.png",
+    "templates/koreader.md",
+    "templates/Studies.md",
     "2, 3 BPG and RBC.md",
     "zotero/New Consensus Aims to Align Post-COVID CT Imaging Practices.md",
     "Regional and Topical Anesthesia for Awake Endotracheal Intubation.md",
@@ -292,12 +300,6 @@
     "A Multicenter, Randomized Trial of Ramped Position vs Sniffing Position During Endotracheal Intubation of Critically Ill Adults.md",
     "zotero/Diagnostic Bronchoscopy - Basic Techniques.md",
     "zotero/British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults.md",
-    "bag mask ventilation between induction and intubation improved oxygenation.md",
-    "zotero/Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults.md",
-    "ramped position does not improve oxygenation during intubation.md",
-    "zotero/A Multicenter, Randomized Trial of Ramped Position vs Sniffing Position During Endotracheal Intubation of Critically Ill Adults.md",
-    "zotero/Phase 2 Trial of the DPP-1 Inhibitor Brensocatib in Bronchiectasis.md",
-    "Major pulmonary studies to know.md",
     "03 Notes",
     "New folder",
     "03 Resources/Medicine/zotero",
@@ -316,8 +318,6 @@
     "Attachments/20260509160053.png",
     "Attachments/20260509160025.png",
     "Attachments/20260426074501.png",
-    "Attachments/20260317151026.png",
-    "Attachments/20260317150724.png",
     "00 Inbox/Clothing.canvas"
   ]
 }

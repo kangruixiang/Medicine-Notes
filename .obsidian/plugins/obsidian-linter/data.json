@@ -295,6 +295,26 @@
       "match": "^03 Resources/Note Taking/Templates/koreader\\.md$",
       "flags": "",
       "label": ""
+    },
+    {
+      "match": "^templates/\\{\\{title  escape\\}\\}\\.md$",
+      "flags": "",
+      "label": ""
+    },
+    {
+      "match": "^templates/Studies\\.md$",
+      "flags": "",
+      "label": ""
+    },
+    {
+      "match": "^templates/koreader\\.md$",
+      "flags": "",
+      "label": ""
+    },
+    {
+      "match": "^templates/zotero_notes\\.md$",
+      "flags": "",
+      "label": ""
     }
   ],
   "linterLocale": "system-default",

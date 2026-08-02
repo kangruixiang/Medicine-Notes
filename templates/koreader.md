@@ -5,42 +5,75 @@ date: 2025-08-06
 # koreader
 
 <%*
+
 const NOTE_STYLES = {
+
   yellow: {
+
 	type: "quote",
+
 	title: "Quotable/Concept/General Idea",
+
   },
+
   blue: {
+
 	type: "important",
+
 	title: "Striking/Intense",
+
   },
+
   red: {
+
 	type: "danger",
+
 	title: "In Discord",
+
   },
+
   green: {
+
 	type: "question",
+
 	title: "Thought Provoking",
+
   },
+
   orange: {
+
     type: "warning",
+
     title: "Unsound"
+
   },
+
   purple: {
+
     type: "stylish",
+
     title: "Stylish"
+
   }
+
 };
 
 function format_koreader_percentages(page, total) {
+
 	if (page && total) {
+
 		return `${((page / total) * 100).toFixed(2)}%`;
+
 	}
+
 	return "";
+
 }
 
 function format_koreader_json_highlights(content) {
+
 	const data = JSON.parse(content);
+
     let output = `---\ntitle: "${data.title}"\naliases: ["Notes from ${data.title}"]\nauthor: "${data.author}"\n---\n# ${data.title}\n##### ${data.author}`;
 
 	let current_chapter = "";
@@ -71,10 +104,15 @@ function format_koreader_json_highlights(content) {
 	  }
 	}
 	return output;
+
 }
 
 const content = await tp.system.prompt("Paste the JSON content", null, true, true);
+
 const output = format_koreader_json_highlights(content);
+
 let file = app.workspace.getActiveFile();
+
 await app.vault.modify(file, output);
+
 %>
