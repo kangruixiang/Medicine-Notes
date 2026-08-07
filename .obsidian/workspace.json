@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8ccca20cdca47be",
+        "id": "13eb0ecb9b984057",
         "type": "tabs",
         "children": [
           {
-            "id": "015ce3df83b2de2c",
+            "id": "ed0f6f64d662cce7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "excessive dynamic airway collapse and tracheomalacia.md",
+                "file": "pulmonary embolism and DVT.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "excessive dynamic airway collapse and tracheomalacia"
+              "title": "pulmonary embolism and DVT"
             }
           }
         ]
@@ -127,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 987.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -271,11 +271,28 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "ed0f6f64d662cce7",
   "lastOpenFiles": [
+    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
+    "pulmonary embolism and DVT.md",
+    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
+    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI",
+    "2026AH~1/ACC/ACCP/ACEP/CHEST",
+    "2026AH~1/ACC/ACCP/ACEP",
+    "2026AH~1/ACC/ACCP",
+    "2026AH~1/ACC",
+    "PE mortality predictor.md",
+    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
+    "Interstitial pneumonia with autoimmune features challenges and controversies.md",
     "excessive dynamic airway collapse and tracheomalacia.md",
+    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "Pulmonary Diseases.md",
-    "config/filenames.json",
     "Tracheobronchomalacia vs Excessive Dynamic Airway Collapse.md",
     "attachments/20260802145614.png",
     "templates/zotero_notes.md",
@@ -294,24 +311,8 @@
     "Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease.md",
     "Effect of Use of a Bougie vs Endotracheal Tube With Stylet on Successful Intubation on the First Attempt Among Critically Ill Patients Undergoing Tracheal Intubation - A Randomized Clinical Trial.md",
     "Effect of endotracheal tube plus stylet versus endotracheal tube alone on successful first-attempt tracheal intubation among critically ill patients - STYLETO study.md",
-    "Diagnostic Bronchoscopy - Basic Techniques.md",
-    "Diagnosis and Management of Small Airways Disease.md",
-    "British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults.md",
-    "Bag-Mask Ventilation during Tracheal Intubation of Critically Ill Adults.md",
-    "A Multicenter, Randomized Trial of Ramped Position vs Sniffing Position During Endotracheal Intubation of Critically Ill Adults.md",
-    "zotero/Diagnostic Bronchoscopy - Basic Techniques.md",
-    "zotero/British Thoracic Society guideline for diagnostic flexible bronchoscopy in adults.md",
-    "03 Notes",
-    "New folder",
-    "03 Resources/Medicine/zotero",
-    "03 Resources/Medicine",
-    "03 Resources",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
-    "Untitled.base",
-    "config/scheduled_script.bat",
-    "attachments",
-    "Library/mermaid.plug.js",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",

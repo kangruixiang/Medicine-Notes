@@ -33,3 +33,7 @@ date: 2020-09-07
 
 - [[PE treatment by risk stratifications]]
 - [[factor V leiden disease has elevated PE risk]]
+
+## Literature Notes
+
+- [[SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults]]

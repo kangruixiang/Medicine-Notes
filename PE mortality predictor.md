@@ -15,6 +15,7 @@ date: 2025-07-28
 - any points = high risk of 30 day mortality
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250728095749.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250728095817.png)[^1]
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250728094103.png)![](https://photos.thisispiggy.com/file/wikiFiles/20250728094148.png)

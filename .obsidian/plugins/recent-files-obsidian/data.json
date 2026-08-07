@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "pulmonary embolism and DVT",
+      "path": "pulmonary embolism and DVT.md"
+    },
+    {
+      "basename": "SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+      "path": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md"
+    },
+    {
+      "basename": "PE mortality predictor",
+      "path": "PE mortality predictor.md"
+    },
+    {
+      "basename": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease",
+      "path": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md"
+    },
+    {
+      "basename": "Interstitial pneumonia with autoimmune features challenges and controversies",
+      "path": "Interstitial pneumonia with autoimmune features challenges and controversies.md"
+    },
+    {
       "basename": "excessive dynamic airway collapse and tracheomalacia",
       "path": "excessive dynamic airway collapse and tracheomalacia.md"
     },
@@ -175,30 +195,6 @@
     {
       "basename": "hyperthyroidism and thyroiditis",
       "path": "03 Resources/Medicine/hyperthyroidism and thyroiditis.md"
-    },
-    {
-      "basename": "check TSI, TPO, TRAB antibodies for hyperthyroidism",
-      "path": "03 Resources/Medicine/check TSI, TPO, TRAB antibodies for hyperthyroidism.md"
-    },
-    {
-      "basename": "Endocrinology",
-      "path": "03 Resources/Medicine/Endocrinology.md"
-    },
-    {
-      "basename": "000 Index",
-      "path": "03 Resources/01 Items/000 Index.md"
-    },
-    {
-      "basename": "001 Projects",
-      "path": "02 Projects/001 Projects.md"
-    },
-    {
-      "basename": "00 Evaluations",
-      "path": "03 Resources/Medicine/04 Residency/00 Evaluations.md"
-    },
-    {
-      "basename": "11 Endocrine",
-      "path": "03 Resources/Medicine/02 Step 2/Surgery/11 Endocrine.md"
     }
   ],
   "omittedPaths": [],

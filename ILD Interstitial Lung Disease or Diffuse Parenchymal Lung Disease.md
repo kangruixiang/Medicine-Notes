@@ -77,3 +77,4 @@ You can categorize ILDs based on etiology:
 - [[Monitoring of Nonsteroidal Immunosuppressive Drugs in Patients With Lung Disease and Lung Transplant Recipients]]
 - [[Diagnostic Classification of Interstitial Lung Disease in Clinical Practice?]]
 - Panther-IPF trial: IPF has higher mortality with prednisone + NAC + azathioprine
+- [[Interstitial pneumonia with autoimmune features challenges and controversies]]
