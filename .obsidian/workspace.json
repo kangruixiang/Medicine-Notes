@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13eb0ecb9b984057",
+        "id": "bc33b1e4c32426de",
         "type": "tabs",
         "children": [
           {
-            "id": "ed0f6f64d662cce7",
+            "id": "6c603dc9de03726a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,18 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "SGLT2 and GLP diabetes medications"
-            }
-          },
-          {
-            "id": "936fe0a9252595e8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
             }
           }
         ]
@@ -117,8 +105,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5857331210190d60",
@@ -283,11 +270,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "ed0f6f64d662cce7",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
-    "Endocrinology.md",
     "SGLT2 and GLP diabetes medications.md",
     "Pulmonary Diseases.md",
+    "Endocrinology.md",
     "lipoid pneumonia is benign mass with low attenuation on CT.md",
     "attachments/20260811100624.png",
     "pulmonary embolism and DVT.md",

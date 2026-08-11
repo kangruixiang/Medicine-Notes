@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "community acquired pneumonia",
+      "path": "community acquired pneumonia.md"
+    },
+    {
       "basename": "SGLT2 and GLP diabetes medications",
       "path": "SGLT2 and GLP diabetes medications.md"
     },
     {
-      "basename": "Endocrinology",
-      "path": "Endocrinology.md"
-    },
-    {
       "basename": "Pulmonary Diseases",
       "path": "Pulmonary Diseases.md"
+    },
+    {
+      "basename": "Endocrinology",
+      "path": "Endocrinology.md"
     },
     {
       "basename": "lipoid pneumonia is benign mass with low attenuation on CT",
@@ -195,10 +199,6 @@
     {
       "basename": "COP cryptogenic organizing pneumonia",
       "path": "03 Resources/Medicine/COP cryptogenic organizing pneumonia.md"
-    },
-    {
-      "basename": "cryoptogenic organizing pneumonia chest imaging",
-      "path": "03 Resources/Medicine/cryoptogenic organizing pneumonia chest imaging.md"
     }
   ],
   "omittedPaths": [],

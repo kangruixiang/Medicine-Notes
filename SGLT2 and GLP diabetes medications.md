@@ -25,7 +25,6 @@ date: 2026-08-11
 
 ## SGLT2 Inhibitors
 
-
 | Generic       | Brand     |
 | ------------- | --------- |
 | empagliflozin | Jardiance |
