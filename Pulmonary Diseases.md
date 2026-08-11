@@ -70,7 +70,7 @@ date: 2020-09-07
 
 ## Parenchymal Lung Disorders
 
-- [[lipoid pneumonia have low attenuation on CT]]
+- [[lipoid pneumonia is benign mass with low attenuation on CT]]
 - [[HP hypersensitivity pneumonitis]]
 - [[EVALI ecigarette or vaping associated lung injury]]
 - [[cystic lung diseases]]
