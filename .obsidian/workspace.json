@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lipoid pneumonia is benign mass with low attenuation on CT.md",
+                "file": "SGLT2 and GLP diabetes medications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lipoid pneumonia is benign mass with low attenuation on CT"
+              "title": "SGLT2 and GLP diabetes medications"
+            }
+          },
+          {
+            "id": "936fe0a9252595e8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,8 +284,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "ed0f6f64d662cce7",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "Endocrinology.md",
+    "SGLT2 and GLP diabetes medications.md",
+    "Pulmonary Diseases.md",
+    "lipoid pneumonia is benign mass with low attenuation on CT.md",
     "attachments/20260811100624.png",
     "pulmonary embolism and DVT.md",
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
@@ -293,7 +310,6 @@
     "Interstitial pneumonia with autoimmune features challenges and controversies.md",
     "excessive dynamic airway collapse and tracheomalacia.md",
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
-    "Pulmonary Diseases.md",
     "Tracheobronchomalacia vs Excessive Dynamic Airway Collapse.md",
     "attachments/20260802145614.png",
     "templates/zotero_notes.md",
@@ -309,8 +325,6 @@
     "Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) a randomised controlled, double-blind, parallel group trial.md",
     "Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
     "Management of Adult Bronchiectasis An American College of Chest Physicians Clinical Practice Guideline.md",
-    "Investigation and Management of Bronchiectasis in Nontuberculous Mycobacterial Pulmonary Disease.md",
-    "Effect of Use of a Bougie vs Endotracheal Tube With Stylet on Successful Intubation on the First Attempt Among Critically Ill Patients Undergoing Tracheal Intubation - A Randomized Clinical Trial.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
     "Attachments/20260509160222.png",
@@ -318,7 +332,6 @@
     "Attachments/20260509160109.png",
     "Attachments/20260509160053.png",
     "Attachments/20260509160025.png",
-    "Attachments/20260426074501.png",
     "00 Inbox/Clothing.canvas"
   ]
 }

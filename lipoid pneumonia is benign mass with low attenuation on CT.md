@@ -15,5 +15,6 @@ Images show nodular opacity containing low attenuation, which measures ==fat att
 ![](https://photos.thisispiggy.com/file/wikiFiles/20240919131719.png)
 
 ![[20260811100624.png]]
+
 - can very much look like malignancy
 - biopsy with unspecific pathology ("MINUTE FRAGMENT OF FIBROUS TISSUE WITH CHRONIC INFLAMMATION.")

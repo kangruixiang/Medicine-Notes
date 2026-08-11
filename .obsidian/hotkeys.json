@@ -64,14 +64,6 @@
   ],
   "editor:toggle-bold": [],
   "obsidian-smarter-md-hotkeys:smarter-delete": [],
-  "obsidian-smarter-md-hotkeys:smarter-highlight": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "Z"
-    }
-  ],
   "scambier.obsidian-omnisearch:show-modal": [
     {
       "modifiers": [
@@ -122,6 +114,15 @@
         "Shift"
       ],
       "key": "X"
+    }
+  ],
+  "obsidian-smarter-md-hotkeys:smarter-highlight": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Z"
     }
   ]
 }

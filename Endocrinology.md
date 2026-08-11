@@ -56,6 +56,7 @@ date: 2020-09-07
 
 ## Diabetes
 
+- [[SGLT2 and GLP diabetes medications]]
 - [[DKA diabetic ketoacidosis and HHS]]
 - [[pheochromocytoma]]
 - [[diabetes management]]
