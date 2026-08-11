@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc33b1e4c32426de",
+        "id": "b494ceed8575817b",
         "type": "tabs",
         "children": [
           {
-            "id": "6c603dc9de03726a",
+            "id": "e22bb3570460594a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SGLT2 and GLP diabetes medications.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SGLT2 and GLP diabetes medications"
+              "title": "New tab"
             }
           }
         ]
@@ -126,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 243.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -270,8 +256,17 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "e22bb3570460594a",
   "lastOpenFiles": [
+    "antibiotics for treatment of community acquired pneumonia.md",
+    "community acquired pneumonia.md",
+    "NEJM Practice Guideline Community-Acquired Pneumonia.md",
+    "CAP antibiotics.md",
+    "attachments/msp5k93s-md1t5d20.png",
+    "attachments/msp5jytm-kznput10.png",
+    "Community-Acquired Pneumonia.md",
+    "Infectious Disease ID.md",
+    "MKSAP Community-Acquired Pneumonia.md",
     "SGLT2 and GLP diabetes medications.md",
     "Pulmonary Diseases.md",
     "Endocrinology.md",
@@ -304,20 +299,11 @@
     "templates/Studies.md",
     "2, 3 BPG and RBC.md",
     "zotero/New Consensus Aims to Align Post-COVID CT Imaging Practices.md",
-    "Regional and Topical Anesthesia for Awake Endotracheal Intubation.md",
-    "Phase 2 Trial of the DPP-1 Inhibitor Brensocatib in Bronchiectasis.md",
-    "Nintedanib for Systemic Sclerosis–Associated Interstitial Lung Disease.md",
-    "New Consensus Aims to Align Post-COVID CT Imaging Practices.md",
-    "Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) a randomised controlled, double-blind, parallel group trial.md",
-    "Mycophenolate mofetil versus oral cyclophosphamide in scleroderma-related interstitial lung disease (SLS II) - a randomised controlled, double-blind, parallel group trial.md",
-    "Management of Adult Bronchiectasis An American College of Chest Physicians Clinical Practice Guideline.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
     "Attachments/20260509160222.png",
     "Attachments/20260509160125.png",
     "Attachments/20260509160109.png",
-    "Attachments/20260509160053.png",
-    "Attachments/20260509160025.png",
     "00 Inbox/Clothing.canvas"
   ]
 }

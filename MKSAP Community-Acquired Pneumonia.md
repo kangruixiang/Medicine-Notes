@@ -2,7 +2,7 @@
 date: 2022-05-12
 ---
 
-# Community-Acquired Pneumonia
+# MKSAP Community-Acquired Pneumonia
 
 - related: [[Infectious Disease ID]]
 - tags: #id

@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "antibiotics for treatment of community acquired pneumonia",
+      "path": "antibiotics for treatment of community acquired pneumonia.md"
+    },
+    {
       "basename": "community acquired pneumonia",
       "path": "community acquired pneumonia.md"
+    },
+    {
+      "basename": "NEJM Practice Guideline Community-Acquired Pneumonia",
+      "path": "NEJM Practice Guideline Community-Acquired Pneumonia.md"
+    },
+    {
+      "basename": "CAP antibiotics",
+      "path": "CAP antibiotics.md"
+    },
+    {
+      "basename": "Infectious Disease ID",
+      "path": "Infectious Disease ID.md"
+    },
+    {
+      "basename": "MKSAP Community-Acquired Pneumonia",
+      "path": "MKSAP Community-Acquired Pneumonia.md"
     },
     {
       "basename": "SGLT2 and GLP diabetes medications",
@@ -179,26 +199,6 @@
     {
       "basename": "CAR-T and cytokine release syndrome",
       "path": "03 Resources/Medicine/CAR-T and cytokine release syndrome.md"
-    },
-    {
-      "basename": "CAR-T and ICANS immune effector cell associated neurotoxicity syndrome",
-      "path": "03 Resources/Medicine/CAR-T and ICANS immune effector cell associated neurotoxicity syndrome.md"
-    },
-    {
-      "basename": "medicine contacts",
-      "path": "03 Resources/Medicine/medicine contacts.md"
-    },
-    {
-      "basename": "Medicine",
-      "path": "03 Resources/Medicine/Medicine.md"
-    },
-    {
-      "basename": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease",
-      "path": "03 Resources/Medicine/ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md"
-    },
-    {
-      "basename": "COP cryptogenic organizing pneumonia",
-      "path": "03 Resources/Medicine/COP cryptogenic organizing pneumonia.md"
     }
   ],
   "omittedPaths": [],

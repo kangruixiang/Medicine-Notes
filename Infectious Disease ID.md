@@ -181,7 +181,7 @@ date: 2020-09-07
 - [[Central Nervous System Infections]]
 - [[Prion Diseases of the Central Nervous System]]
 - [[Skin and Soft Tissue Infections]]
-- [[Community-Acquired Pneumonia]]
+- [[MKSAP Community-Acquired Pneumonia]]
 - [[Tick-Borne Diseases]]
 - [[Urinary Tract Infections]]
 - [[Mycobacterium tuberculosis Infection]]
