@@ -11,13 +11,40 @@
             "id": "e22bb3570460594a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "pulmonary cavities cavitary lesions differential.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "pulmonary cavities cavitary lesions differential"
+            }
+          },
+          {
+            "id": "ac6fde7f15037a71",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,10 +283,13 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e22bb3570460594a",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
-    "antibiotics for treatment of community acquired pneumonia.md",
+    "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
+    "pulmonary cysts, cavitary lesions, cavities, abscess.md",
+    "pulmonary cavities cavitary lesions differential.md",
     "community acquired pneumonia.md",
+    "antibiotics for treatment of community acquired pneumonia.md",
     "NEJM Practice Guideline Community-Acquired Pneumonia.md",
     "CAP antibiotics.md",
     "attachments/msp5k93s-md1t5d20.png",
@@ -296,9 +326,6 @@
     "templates/zotero_notes.md",
     "attachments/20260802144628.png",
     "templates/koreader.md",
-    "templates/Studies.md",
-    "2, 3 BPG and RBC.md",
-    "zotero/New Consensus Aims to Align Post-COVID CT Imaging Practices.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
     "Attachments/20260509160222.png",
