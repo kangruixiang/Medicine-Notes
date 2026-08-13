@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary cavities cavitary lesions differential.md",
+                "file": "Pulmonary Diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary cavities cavitary lesions differential"
-            }
-          },
-          {
-            "id": "ac6fde7f15037a71",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "Pulmonary Diseases"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 243.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -285,9 +273,10 @@
   },
   "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "Pulmonary Diseases.md",
+    "pulmonary cavities cavitary lesions differential.md",
     "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
     "pulmonary cysts, cavitary lesions, cavities, abscess.md",
-    "pulmonary cavities cavitary lesions differential.md",
     "community acquired pneumonia.md",
     "antibiotics for treatment of community acquired pneumonia.md",
     "NEJM Practice Guideline Community-Acquired Pneumonia.md",
@@ -298,7 +287,6 @@
     "Infectious Disease ID.md",
     "MKSAP Community-Acquired Pneumonia.md",
     "SGLT2 and GLP diabetes medications.md",
-    "Pulmonary Diseases.md",
     "Endocrinology.md",
     "lipoid pneumonia is benign mass with low attenuation on CT.md",
     "attachments/20260811100624.png",

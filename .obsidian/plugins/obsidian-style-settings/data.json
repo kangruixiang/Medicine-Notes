@@ -11,5 +11,13 @@
   "baseline-style@@background-contrast-light": "contrast-light",
   "maple-workspace@@tab-show-close": "tab-show-close-all",
   "maple-workspace@@tab-title-bar-text": "tab-title-bar-text-hidden",
-  "maple-editor@@image-dark-hover": false
+  "maple-editor@@image-dark-hover": false,
+  "ink-paper@@layout-select": "layout-default",
+  "ink-paper@@toggle-left-panel": false,
+  "ink-paper@@toggle-panel-borders": false,
+  "ink-paper@@collapse-icon-restore": false,
+  "ink-paper@@heading-indicator-off": false,
+  "ink-paper@@border-style": "solid",
+  "ink-paper@@colorful-folder": false,
+  "ink-paper@@paper-bg-blend-light": "normal"
 }
