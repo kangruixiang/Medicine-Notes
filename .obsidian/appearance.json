@@ -1,6 +1,6 @@
 {
   "theme": "system",
-  "cssTheme": "Ink Paper",
+  "cssTheme": "Cupertino",
   "enabledCssSnippets": [
     "canvas image",
     "rounded image",
