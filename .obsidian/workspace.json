@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulmonary Diseases.md",
+                "file": "01 Step 1/Immunology/Immune Deficiencies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pulmonary Diseases"
+              "title": "Immune Deficiencies"
             }
           }
         ]
@@ -273,6 +273,11 @@
   },
   "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "01 Step 1/Immunology/Immune Deficiencies.md",
+    "Seizure in pregnancy.md",
+    "Infections in Pregnancy.md",
+    "02 Step 2/Pediatrics/Pretest Newborn.md",
+    "01 Step 1/GI/09 Bilirubin.md",
     "Pulmonary Diseases.md",
     "pulmonary cavities cavitary lesions differential.md",
     "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
@@ -306,14 +311,9 @@
     "2026AH~1/ACC",
     "PE mortality predictor.md",
     "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
-    "Interstitial pneumonia with autoimmune features challenges and controversies.md",
-    "excessive dynamic airway collapse and tracheomalacia.md",
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
-    "Tracheobronchomalacia vs Excessive Dynamic Airway Collapse.md",
     "attachments/20260802145614.png",
-    "templates/zotero_notes.md",
     "attachments/20260802144628.png",
-    "templates/koreader.md",
     "attachments/20260628091614.png",
     "attachments/20260628091604.png",
     "Attachments/20260509160222.png",
