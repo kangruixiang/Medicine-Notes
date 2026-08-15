@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Step 1/Immunology/Immune Deficiencies.md",
+                "file": "Asthma reactive airway disease.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Immune Deficiencies"
+              "title": "Asthma reactive airway disease"
             }
           }
         ]
@@ -105,7 +105,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5857331210190d60",
@@ -126,8 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5,
-    "collapsed": true
+    "width": 243.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -271,8 +271,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "e22bb3570460594a",
   "lastOpenFiles": [
+    "pulmonary embolism and DVT.md",
+    "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
+    "Asthma reactive airway disease.md",
+    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "01 Step 1/Immunology/Immune Deficiencies.md",
     "Seizure in pregnancy.md",
     "Infections in Pregnancy.md",
@@ -295,8 +299,6 @@
     "Endocrinology.md",
     "lipoid pneumonia is benign mass with low attenuation on CT.md",
     "attachments/20260811100624.png",
-    "pulmonary embolism and DVT.md",
-    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
@@ -309,8 +311,6 @@
     "2026AH~1/ACC/ACCP/ACEP",
     "2026AH~1/ACC/ACCP",
     "2026AH~1/ACC",
-    "PE mortality predictor.md",
-    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "attachments/20260802145614.png",
     "attachments/20260802144628.png",

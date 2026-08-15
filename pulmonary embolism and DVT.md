@@ -36,4 +36,4 @@ date: 2020-09-07
 
 ## Literature Notes
 
-- [[SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults]]
+- [[2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults]]

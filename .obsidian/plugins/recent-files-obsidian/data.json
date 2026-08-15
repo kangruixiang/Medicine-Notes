@@ -5,6 +5,14 @@
       "path": "Asthma reactive airway disease.md"
     },
     {
+      "basename": "pulmonary embolism and DVT",
+      "path": "pulmonary embolism and DVT.md"
+    },
+    {
+      "basename": "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
+      "path": "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md"
+    },
+    {
       "basename": "Immune Deficiencies",
       "path": "01 Step 1/Immunology/Immune Deficiencies.md"
     },
@@ -75,14 +83,6 @@
     {
       "basename": "lipoid pneumonia is benign mass with low attenuation on CT",
       "path": "lipoid pneumonia is benign mass with low attenuation on CT.md"
-    },
-    {
-      "basename": "pulmonary embolism and DVT",
-      "path": "pulmonary embolism and DVT.md"
-    },
-    {
-      "basename": "SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
-      "path": "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md"
     },
     {
       "basename": "PE mortality predictor",

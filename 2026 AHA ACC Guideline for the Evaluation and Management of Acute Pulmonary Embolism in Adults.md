@@ -1,10 +1,10 @@
 ---
-date: 2026-08-06
+date: 2026-08-15
 ---
 
-# 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults
+# 2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults
 
-- related:%% begin related %%%% end related %%
+- related:%% begin related %%[[pulmonary embolism and DVT]]%% end related %%
 - tags: #literature
 - links: [PDF](zotero://select/library/items/LXRI3FSS), [source](https://www.ahajournals.org/doi/10.1161/CIR.0000000000001415)
 ---
@@ -57,9 +57,15 @@ date: 2026-08-06
 - Category E1, CDL plus anticoagulation [p.e1013](zotero://open-pdf/library/items/LXRI3FSS?page=e1013&annotation=KL8MCHFB)
 - acute PE in AHA/ACC PE Category E1, it is reasonable to choose MT plus anticoagulation over anticoagulation alone [p.e1015](zotero://open-pdf/library/items/LXRI3FSS?page=e1015&annotation=S7YICSF7)
 - In patients with acute PE in AHA/ACC PE Category E1, surgical embolectomy compared with anticoagulation alone is reasonable [p.e1016](zotero://open-pdf/library/items/LXRI3FSS?page=e1016&annotation=INNJYFMM)
+- In patients with acute PE without associated identifiable risk factors, a thorough history, physical examination, and age-appropriate cancer screening [p.e1017](zotero://open-pdf/library/items/LXRI3FSS?page=e1017&annotation=6GAANNAR)
+- In patients without a major reversible risk factor21 for acute PE who have a family history of thrombosis or are <55 years of age, it might be reasonable to perform testing for genetic and acquired thrombophilia [p.e1017](zotero://open-pdf/library/items/LXRI3FSS?page=e1017&annotation=6TSWDHJE)
+- At approximately 3 months after acute PE, a dedicated visit with a physician or advanced practice provider should occur to discuss the duration of anticoagulation, evaluate for ongoing symptoms, and assess the need for further testing. [p.e1018](zotero://open-pdf/library/items/LXRI3FSS?page=e1018&annotation=SBV46X35)
+- Between one-third and one-half of the patients who have had a symptomatic PE will report dyspnea or limitations to physical activity on follow-up for months to years after a PE. [p.e1019](zotero://open-pdf/library/items/LXRI3FSS?page=e1019&annotation=UZ5Y24DB)
+- The prevalence of shortness of breath is higher after an acute PE associated with RV dysfunction and can be a presenting symptom of CTEPD [p.e1019](zotero://open-pdf/library/items/LXRI3FSS?page=e1019&annotation=H33F4IKL)
+- cancer is diagnosed in 4% to 10% during the first year when no major reversible risk factors for PE are identified [p.e1020](zotero://open-pdf/library/items/LXRI3FSS?page=e1020&annotation=G53QNBJW)
 
 ## Reference
 
-Writing Committee Members, Creager MA, Barnes GD, et al. 2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. _Circulation_. 2026;153(12). doi:[10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)
+Writing Committee Members, Creager MA, Barnes GD, et al. 2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults. _Circulation_. 2026;153(12). doi:[10.1161/CIR.0000000000001415](https://doi.org/10.1161/CIR.0000000000001415)
 
-%% Import Date: 2026-08-06T20:24:48.109-04:00 %%
+%% Import Date: 2026-08-15T09:24:51.792-04:00 %%
