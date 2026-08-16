@@ -62,6 +62,7 @@ You can categorize ILDs based on etiology:
 	- smoking related: [[RB-ILD]], [[DIP desquamative interstitial pneumonia]]
 	- [[drug induced pneumonitis]]
 	- [[Occupational Lung Disease]]
+- progressive massive fibrosis
 
 ## Treatment
 

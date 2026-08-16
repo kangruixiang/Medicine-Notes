@@ -24,6 +24,7 @@ date: 2024-07-10
 - **Methotrexate** (Trexall)
 - **Infliximab** (Remicade)
 - **Lung transplantation**[^2]
+- Use rituxan for sarcoid, relapsing after steroid and mtx, may help with remission better if relapsed after MTX [^3]
 
 Most patients with sarcoidosis improve over time, but a minority have progressive lung disease (25%) or organ dysfunction (10%). These patients often require treatment with methotrexate, azathioprine, or tumor necrosis factor-alpha antagonists.
 
@@ -37,3 +38,4 @@ Most patients with sarcoidosis improve over time, but a minority have progressiv
 
 [^1]: [[OPPM sarcoidosis]]
 [^2]: [[MKSAP]]
+[^3]: Namen

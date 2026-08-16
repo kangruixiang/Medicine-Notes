@@ -65,6 +65,7 @@ date: 2021-12-28
 - [[spice III found higher mortality in younger patients with precedex]]
 - [[small ETT can cause secretion accumulation]]
 - [[use higher PEEP for SBT in obese patients]]
+- [[using transvenous diaphragm neurostimulation for ventilator weaning]]
 - [[extubate patients to Bipap]]
 
 ## Ventilators

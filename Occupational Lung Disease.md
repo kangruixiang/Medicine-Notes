@@ -10,6 +10,7 @@ date: 2022-07-12
 ---
 
 - [[acute and chronic silicosis]]
+	- [[progressive massive fibrosis]]
 - [[coal workers pneumoconiosis]]
 - [[asbestosis]], [[BAPE benign asbestos related pleural effusion]]
 - [[metal fume fever]]

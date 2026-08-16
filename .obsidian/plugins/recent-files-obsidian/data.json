@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "Pulmonary Diseases",
+      "path": "Pulmonary Diseases.md"
+    },
+    {
+      "basename": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease",
+      "path": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md"
+    },
+    {
+      "basename": "acute and chronic silicosis",
+      "path": "acute and chronic silicosis.md"
+    },
+    {
+      "basename": "progressive massive fibrosis",
+      "path": "progressive massive fibrosis.md"
+    },
+    {
+      "basename": "Occupational Lung Disease",
+      "path": "Occupational Lung Disease.md"
+    },
+    {
+      "basename": "IPF idiopathic pulmonary fibrosis",
+      "path": "IPF idiopathic pulmonary fibrosis.md"
+    },
+    {
+      "basename": "using transvenous diaphragm neurostimulation for ventilator weaning",
+      "path": "using transvenous diaphragm neurostimulation for ventilator weaning.md"
+    },
+    {
+      "basename": "ICU intensive care unit",
+      "path": "ICU intensive care unit.md"
+    },
+    {
+      "basename": "use of esophageal manometry to guide PEEP",
+      "path": "use of esophageal manometry to guide PEEP.md"
+    },
+    {
+      "basename": "sarcoidosis treatment",
+      "path": "sarcoidosis treatment.md"
+    },
+    {
+      "basename": "pulmonary and extrapulmonary sarcoidosis",
+      "path": "pulmonary and extrapulmonary sarcoidosis.md"
+    },
+    {
       "basename": "Asthma reactive airway disease",
       "path": "Asthma reactive airway disease.md"
     },
@@ -31,10 +75,6 @@
     {
       "basename": "09 Bilirubin",
       "path": "01 Step 1/GI/09 Bilirubin.md"
-    },
-    {
-      "basename": "Pulmonary Diseases",
-      "path": "Pulmonary Diseases.md"
     },
     {
       "basename": "pulmonary cavities cavitary lesions differential",
@@ -87,10 +127,6 @@
     {
       "basename": "PE mortality predictor",
       "path": "PE mortality predictor.md"
-    },
-    {
-      "basename": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease",
-      "path": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md"
     },
     {
       "basename": "Interstitial pneumonia with autoimmune features challenges and controversies",
@@ -163,42 +199,6 @@
     {
       "basename": "cryptococcus pulmonary infection",
       "path": "03 Resources/Medicine/cryptococcus pulmonary infection.md"
-    },
-    {
-      "basename": "Toxoplasmosis",
-      "path": "03 Resources/Medicine/Toxoplasmosis.md"
-    },
-    {
-      "basename": "genetic mutations in pulmonary hypertension",
-      "path": "03 Resources/Medicine/genetic mutations in pulmonary hypertension.md"
-    },
-    {
-      "basename": "histoplasmosis",
-      "path": "03 Resources/Medicine/histoplasmosis.md"
-    },
-    {
-      "basename": "Infectious Disease ID",
-      "path": "03 Resources/Medicine/Infectious Disease ID.md"
-    },
-    {
-      "basename": "pulmonary coccidioidomycosis infection",
-      "path": "03 Resources/Medicine/pulmonary coccidioidomycosis infection.md"
-    },
-    {
-      "basename": "HIV human immunodeficiency viruses",
-      "path": "03 Resources/Medicine/HIV human immunodeficiency viruses.md"
-    },
-    {
-      "basename": "11 Virus",
-      "path": "03 Resources/Medicine/01 Step 1/Microbes/11 Virus.md"
-    },
-    {
-      "basename": "08 Infectious Disease",
-      "path": "03 Resources/Medicine/02 Step 2/Internal/08 Infectious Disease.md"
-    },
-    {
-      "basename": "PCP PJP pneumocystis jirovecii",
-      "path": "03 Resources/Medicine/PCP PJP pneumocystis jirovecii.md"
     }
   ],
   "omittedPaths": [],

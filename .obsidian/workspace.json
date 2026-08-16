@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Asthma reactive airway disease.md",
+                "file": "Pulmonary Diseases.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Asthma reactive airway disease"
+              "title": "Pulmonary Diseases"
             }
           }
         ]
@@ -271,8 +271,18 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "e22bb3570460594a",
   "lastOpenFiles": [
+    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
+    "acute and chronic silicosis.md",
+    "progressive massive fibrosis.md",
+    "Occupational Lung Disease.md",
+    "IPF idiopathic pulmonary fibrosis.md",
+    "using transvenous diaphragm neurostimulation for ventilator weaning.md",
+    "ICU intensive care unit.md",
+    "use of esophageal manometry to guide PEEP.md",
+    "sarcoidosis treatment.md",
+    "pulmonary and extrapulmonary sarcoidosis.md",
     "Asthma reactive airway disease.md",
     "pulmonary embolism and DVT.md",
     "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
@@ -289,20 +299,10 @@
     "community acquired pneumonia.md",
     "antibiotics for treatment of community acquired pneumonia.md",
     "NEJM Practice Guideline Community-Acquired Pneumonia.md",
-    "CAP antibiotics.md",
     "attachments/msp5k93s-md1t5d20.png",
     "attachments/msp5jytm-kznput10.png",
-    "Community-Acquired Pneumonia.md",
-    "Infectious Disease ID.md",
-    "MKSAP Community-Acquired Pneumonia.md",
-    "SGLT2 and GLP diabetes medications.md",
-    "Endocrinology.md",
-    "lipoid pneumonia is benign mass with low attenuation on CT.md",
     "attachments/20260811100624.png",
-    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
-    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
-    "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/2026 AHAACCACCPACEPCHESTSCAISHMSIRSVMSVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM",
