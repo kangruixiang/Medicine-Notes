@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pulmonary Diseases.md",
+                "file": "pulmonary hypertension by groups and workup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pulmonary Diseases"
+              "title": "pulmonary hypertension by groups and workup"
             }
           }
         ]
@@ -271,8 +271,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "e22bb3570460594a",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "pulmonary hypertension by groups and workup.md",
+    "Pulmonary Diseases.md",
     "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
     "acute and chronic silicosis.md",
     "progressive massive fibrosis.md",
@@ -292,13 +294,11 @@
     "Infections in Pregnancy.md",
     "02 Step 2/Pediatrics/Pretest Newborn.md",
     "01 Step 1/GI/09 Bilirubin.md",
-    "Pulmonary Diseases.md",
     "pulmonary cavities cavitary lesions differential.md",
     "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
     "pulmonary cysts, cavitary lesions, cavities, abscess.md",
     "community acquired pneumonia.md",
     "antibiotics for treatment of community acquired pneumonia.md",
-    "NEJM Practice Guideline Community-Acquired Pneumonia.md",
     "attachments/msp5k93s-md1t5d20.png",
     "attachments/msp5jytm-kznput10.png",
     "attachments/20260811100624.png",
