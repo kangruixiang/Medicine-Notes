@@ -22,13 +22,16 @@ sr-ease: 270
 - TIPS: used for recurrent GIB maybe HRS
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250731093839.png)
+
 - 5 days adequate
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250731093846.png)
+
 - albumin #2 course of action
 - clear mortality benefit
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250731093917.png)
+
 - risk of hemodynamic instability and renal dysfunction
 - large volume does not improve mrotality[^1]
 ---

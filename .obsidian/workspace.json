@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Moores triad of asthma management.md",
+                "file": "pulmonary abscess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Moores triad of asthma management"
+              "title": "pulmonary abscess"
             }
           }
         ],
@@ -295,8 +295,11 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "d862b2d6fb472cf2",
   "lastOpenFiles": [
+    "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
+    "pulmonary cavities cavitary lesions differential.md",
+    "spontaneous bacterial peritonitis SBP.md",
     "Moores triad of asthma management.md",
     "pulmonary hypertension by groups and workup.md",
     "pulmonary hypertension.md",
@@ -320,9 +323,6 @@
     "use of esophageal manometry to guide PEEP.md",
     "sarcoidosis treatment.md",
     "pulmonary and extrapulmonary sarcoidosis.md",
-    "Asthma reactive airway disease.md",
-    "pulmonary embolism and DVT.md",
-    "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "attachments/msp5k93s-md1t5d20.png",
     "attachments/msp5jytm-kznput10.png",
     "attachments/20260811100624.png",
