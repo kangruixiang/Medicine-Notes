@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Moores triad of asthma management",
+      "path": "Moores triad of asthma management.md"
+    },
+    {
+      "basename": "pulmonary hypertension by groups and workup",
+      "path": "pulmonary hypertension by groups and workup.md"
+    },
+    {
+      "basename": "pulmonary hypertension",
+      "path": "pulmonary hypertension.md"
+    },
+    {
       "basename": "NEJM Practice Guideline Community-Acquired Pneumonia",
       "path": "NEJM Practice Guideline Community-Acquired Pneumonia.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "bronchiectasis initial workup",
       "path": "bronchiectasis initial workup.md"
-    },
-    {
-      "basename": "pulmonary hypertension by groups and workup",
-      "path": "pulmonary hypertension by groups and workup.md"
     },
     {
       "basename": "Pulmonary Diseases",
@@ -191,14 +199,6 @@
     {
       "basename": "Major pulmonary studies to know",
       "path": "Major pulmonary studies to know.md"
-    },
-    {
-      "basename": "steroid sparing immunosuppression dosing and monitoring guide",
-      "path": "steroid sparing immunosuppression dosing and monitoring guide.md"
-    },
-    {
-      "basename": "Medicine",
-      "path": "Medicine.md"
     }
   ],
   "omittedPaths": [],

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NEJM Practice Guideline Community-Acquired Pneumonia.md",
+                "file": "Moores triad of asthma management.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "NEJM Practice Guideline Community-Acquired Pneumonia"
+              "title": "Moores triad of asthma management"
             }
           }
         ],
@@ -295,8 +295,12 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "d862b2d6fb472cf2",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "Moores triad of asthma management.md",
+    "pulmonary hypertension by groups and workup.md",
+    "pulmonary hypertension.md",
+    "NEJM Practice Guideline Community-Acquired Pneumonia.md",
     "antibiotics for treatment of community acquired pneumonia.md",
     "community acquired pneumonia.md",
     "CAP antibiotics.md",
@@ -305,7 +309,6 @@
     "chronic bronchiectasis.md",
     "azithromycin for bronchiectasis patients with over 2 exacerbations per year.md",
     "bronchiectasis initial workup.md",
-    "pulmonary hypertension by groups and workup.md",
     "Pulmonary Diseases.md",
     "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
     "acute and chronic silicosis.md",
@@ -320,9 +323,6 @@
     "Asthma reactive airway disease.md",
     "pulmonary embolism and DVT.md",
     "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
-    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
-    "01 Step 1/Immunology/Immune Deficiencies.md",
-    "Seizure in pregnancy.md",
     "attachments/msp5k93s-md1t5d20.png",
     "attachments/msp5jytm-kznput10.png",
     "attachments/20260811100624.png",
