@@ -5,7 +5,7 @@ date: 2020-10-26
 # CAP antibiotics
 
 - related: [[community acquired pneumonia]], [[pneumonia vaccine]]
-
+---
 <!-- CAP empiric abx and duration, outpatient vs inpatient vs ICU b:1660676027310-->
 
 - Outpatient:

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary hypertension by groups and workup.md",
+                "file": "eszopiclone is used to help improve adherence to CPAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary hypertension by groups and workup"
+              "title": "eszopiclone is used to help improve adherence to CPAP"
+            }
+          },
+          {
+            "id": "d862b2d6fb472cf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NEJM Practice Guideline Community-Acquired Pneumonia.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "NEJM Practice Guideline Community-Acquired Pneumonia"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,8 +130,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5857331210190d60",
@@ -271,8 +295,16 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "d862b2d6fb472cf2",
   "lastOpenFiles": [
+    "antibiotics for treatment of community acquired pneumonia.md",
+    "community acquired pneumonia.md",
+    "CAP antibiotics.md",
+    "eszopiclone is used to help improve adherence to CPAP.md",
+    "Sleep and Sleep Disordered Breathing.md",
+    "chronic bronchiectasis.md",
+    "azithromycin for bronchiectasis patients with over 2 exacerbations per year.md",
+    "bronchiectasis initial workup.md",
     "pulmonary hypertension by groups and workup.md",
     "Pulmonary Diseases.md",
     "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
@@ -291,14 +323,6 @@
     "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md",
     "01 Step 1/Immunology/Immune Deficiencies.md",
     "Seizure in pregnancy.md",
-    "Infections in Pregnancy.md",
-    "02 Step 2/Pediatrics/Pretest Newborn.md",
-    "01 Step 1/GI/09 Bilirubin.md",
-    "pulmonary cavities cavitary lesions differential.md",
-    "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
-    "pulmonary cysts, cavitary lesions, cavities, abscess.md",
-    "community acquired pneumonia.md",
-    "antibiotics for treatment of community acquired pneumonia.md",
     "attachments/msp5k93s-md1t5d20.png",
     "attachments/msp5jytm-kznput10.png",
     "attachments/20260811100624.png",
