@@ -21,6 +21,7 @@ date: 2020-09-07
 - [[post CABG hypotension cardiac causes]]
 - [[pulmonary artery catheter]]
 	- [[use pulmonary artery catheter in heart failure patients]]
+- [[HeartMate 3 LVAD Lecture 9 3]]
 
 ## Anatomy
 
