@@ -8,36 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e22bb3570460594a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "eszopiclone is used to help improve adherence to CPAP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "eszopiclone is used to help improve adherence to CPAP"
-            }
-          },
-          {
             "id": "d862b2d6fb472cf2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary abscess.md",
+                "file": "supine and standing spirometry.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary abscess"
+              "title": "supine and standing spirometry"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,8 +270,10 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "d862b2d6fb472cf2",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "supine and standing spirometry.md",
+    "pulmonary abscess.md",
     "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md",
     "pulmonary cavities cavitary lesions differential.md",
     "spontaneous bacterial peritonitis SBP.md",
@@ -321,8 +298,6 @@
     "using transvenous diaphragm neurostimulation for ventilator weaning.md",
     "ICU intensive care unit.md",
     "use of esophageal manometry to guide PEEP.md",
-    "sarcoidosis treatment.md",
-    "pulmonary and extrapulmonary sarcoidosis.md",
     "attachments/msp5k93s-md1t5d20.png",
     "attachments/msp5jytm-kznput10.png",
     "attachments/20260811100624.png",
