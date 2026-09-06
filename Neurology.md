@@ -14,6 +14,10 @@ date: 2020-09-07
 - [[MRI after ischemic stroke]]
 - [[treat hemorrhagic stroke conversion with cryoprecipitate]]
 
+## Seizures
+
+- [[7 15 2026 seizure lecture]]
+
 ## Brain Bleed
 
 - epidural

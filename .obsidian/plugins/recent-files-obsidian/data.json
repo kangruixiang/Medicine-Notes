@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Neurology",
+      "path": "Neurology.md"
+    },
+    {
+      "basename": "7 15 2026 seizure lecture",
+      "path": "7 15 2026 seizure lecture.md"
+    },
+    {
+      "basename": "Seizures and Epilepsy",
+      "path": "Seizures and Epilepsy.md"
+    },
+    {
+      "basename": "Anemia",
+      "path": "Anemia.md"
+    },
+    {
+      "basename": "Hematology",
+      "path": "Hematology.md"
+    },
+    {
       "basename": "HeartMate 3 LVAD Lecture 9 3",
       "path": "HeartMate 3 LVAD Lecture 9 3.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "SGLT2 and GLP diabetes medications",
       "path": "SGLT2 and GLP diabetes medications.md"
-    },
-    {
-      "basename": "Endocrinology",
-      "path": "Endocrinology.md"
-    },
-    {
-      "basename": "lipoid pneumonia is benign mass with low attenuation on CT",
-      "path": "lipoid pneumonia is benign mass with low attenuation on CT.md"
-    },
-    {
-      "basename": "PE mortality predictor",
-      "path": "PE mortality predictor.md"
-    },
-    {
-      "basename": "Interstitial pneumonia with autoimmune features challenges and controversies",
-      "path": "Interstitial pneumonia with autoimmune features challenges and controversies.md"
-    },
-    {
-      "basename": "excessive dynamic airway collapse and tracheomalacia",
-      "path": "excessive dynamic airway collapse and tracheomalacia.md"
     }
   ],
   "omittedPaths": [],

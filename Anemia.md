@@ -5,6 +5,7 @@ date: 2020-09-07
 # Anemia
 
 - [[ineffective erythropoiesis]], [[Hematology]]
+- workup labs: B19, CMV, EBV, Diret antiglobulin test, HIV, haptoglobin, LDH, Bilirubin, Prepare slide, Hepatitis Be, B core
 
 ## Microcytic anemia
 
