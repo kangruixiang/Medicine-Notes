@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "HeartMate 3 LVAD Lecture 9 3"
             }
-          },
-          {
-            "id": "3c72d08fd90d3d4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAPi is ratio of pulmonary artery pulse pressure to right atrial pressure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PAPi is ratio of pulmonary artery pulse pressure to right atrial pressure"
-            }
           }
         ]
       }
@@ -297,6 +273,9 @@
   },
   "active": "d862b2d6fb472cf2",
   "lastOpenFiles": [
+    "Cardiology and Hemodynamics.md",
+    "HeartMate 3 LVAD Lecture 9 3.md",
+    "PAPi is ratio of pulmonary artery pulse pressure to right atrial pressure.md",
     "attachments/20260903140303.png",
     "attachments/20260903140153.png",
     "attachments/20260903140056.png",
@@ -307,10 +286,6 @@
     "attachments/20260903135526.png",
     "attachments/20260903135335.png",
     "attachments/20260903135206.png",
-    "attachments/20260903135014.png",
-    "PAPi is ratio of pulmonary artery pulse pressure to right atrial pressure.md",
-    "HeartMate 3 LVAD Lecture 9 3.md",
-    "Cardiology and Hemodynamics.md",
     "cardiology with critical care.md",
     "ICU intensive care unit.md",
     "02 Step 2/Internal/01 Cardiology -  Step.md",
