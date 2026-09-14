@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "lung mass and cancer",
+      "path": "lung mass and cancer.md"
+    },
+    {
+      "basename": "post lung cancer treatment screening CT scheduling",
+      "path": "post lung cancer treatment screening CT scheduling.md"
+    },
+    {
+      "basename": "tolearn",
+      "path": "tolearn.md"
+    },
+    {
       "basename": "Neurology",
       "path": "Neurology.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "pulmonary cysts, cavitary lesions, cavities, abscess",
       "path": "pulmonary cysts, cavitary lesions, cavities, abscess.md"
-    },
-    {
-      "basename": "Infectious Disease ID",
-      "path": "Infectious Disease ID.md"
-    },
-    {
-      "basename": "MKSAP Community-Acquired Pneumonia",
-      "path": "MKSAP Community-Acquired Pneumonia.md"
-    },
-    {
-      "basename": "SGLT2 and GLP diabetes medications",
-      "path": "SGLT2 and GLP diabetes medications.md"
     }
   ],
   "omittedPaths": [],

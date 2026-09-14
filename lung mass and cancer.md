@@ -23,6 +23,7 @@ date: 2022-07-01
 - [[lung rads basics]]
 - [[lung cancer risk calculator identifies more person than using smoking hx]]
 - [[LDCT order at Wake]]
+- [[post lung cancer treatment screening CT scheduling]]
 
 ## Sx
 
