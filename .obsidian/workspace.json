@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b494ceed8575817b",
+        "id": "eb2a70de01cfc670",
         "type": "tabs",
         "children": [
           {
-            "id": "d862b2d6fb472cf2",
+            "id": "6ed8d8d6618955cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sarcoidosis labs and diagnosis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "sarcoidosis labs and diagnosis"
-            }
-          },
-          {
-            "id": "f23ab15230657583",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pulmonary carcinoid tumors are slow growing neuroendocrine tumor"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,8 +256,9 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "f23ab15230657583",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md",
     "lofgren syndrome is sarcoidosis with constitution of symptoms.md",
     "sarcoidosis labs and diagnosis.md",
     "lymphocytic BAL points to inflammatory etiologies.md",
@@ -312,7 +274,6 @@
     "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide.md",
     "Systemic Vasculitis.md",
     "ANCA associated glomerulonephritis.md",
-    "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md",
     "lung mass and cancer.md",
     "post lung cancer treatment screening CT scheduling.md",
     "tolearn.md",
