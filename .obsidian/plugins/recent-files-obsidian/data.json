@@ -5,6 +5,66 @@
       "path": "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md"
     },
     {
+      "basename": "lofgren syndrome is sarcoidosis with constitution of symptoms",
+      "path": "lofgren syndrome is sarcoidosis with constitution of symptoms.md"
+    },
+    {
+      "basename": "sarcoidosis labs and diagnosis",
+      "path": "sarcoidosis labs and diagnosis.md"
+    },
+    {
+      "basename": "lymphocytic BAL points to inflammatory etiologies",
+      "path": "lymphocytic BAL points to inflammatory etiologies.md"
+    },
+    {
+      "basename": "bronchoalveolar lavage BAL",
+      "path": "bronchoalveolar lavage BAL.md"
+    },
+    {
+      "basename": "BAL checking for immunocompromised panel",
+      "path": "BAL checking for immunocompromised panel.md"
+    },
+    {
+      "basename": "bronchoscopy lidocaine method and dosing",
+      "path": "bronchoscopy lidocaine method and dosing.md"
+    },
+    {
+      "basename": "Occupational Lung Disease",
+      "path": "Occupational Lung Disease.md"
+    },
+    {
+      "basename": "metal fume fever",
+      "path": "metal fume fever.md"
+    },
+    {
+      "basename": "Rheumatology",
+      "path": "Rheumatology.md"
+    },
+    {
+      "basename": "Residency Vasculitis Notes",
+      "path": "Residency Vasculitis Notes.md"
+    },
+    {
+      "basename": "Wegener GPA granulomatosis with polyangitis",
+      "path": "Wegener GPA granulomatosis with polyangitis.md"
+    },
+    {
+      "basename": "PR3 and MPO antibodies and vasculitis associations",
+      "path": "PR3 and MPO antibodies and vasculitis associations.md"
+    },
+    {
+      "basename": "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide",
+      "path": "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide.md"
+    },
+    {
+      "basename": "Systemic Vasculitis",
+      "path": "Systemic Vasculitis.md"
+    },
+    {
+      "basename": "ANCA associated glomerulonephritis",
+      "path": "ANCA associated glomerulonephritis.md"
+    },
+    {
       "basename": "lung mass and cancer",
       "path": "lung mass and cancer.md"
     },
@@ -139,66 +199,6 @@
     {
       "basename": "acute and chronic silicosis",
       "path": "acute and chronic silicosis.md"
-    },
-    {
-      "basename": "progressive massive fibrosis",
-      "path": "progressive massive fibrosis.md"
-    },
-    {
-      "basename": "Occupational Lung Disease",
-      "path": "Occupational Lung Disease.md"
-    },
-    {
-      "basename": "IPF idiopathic pulmonary fibrosis",
-      "path": "IPF idiopathic pulmonary fibrosis.md"
-    },
-    {
-      "basename": "using transvenous diaphragm neurostimulation for ventilator weaning",
-      "path": "using transvenous diaphragm neurostimulation for ventilator weaning.md"
-    },
-    {
-      "basename": "use of esophageal manometry to guide PEEP",
-      "path": "use of esophageal manometry to guide PEEP.md"
-    },
-    {
-      "basename": "sarcoidosis treatment",
-      "path": "sarcoidosis treatment.md"
-    },
-    {
-      "basename": "pulmonary and extrapulmonary sarcoidosis",
-      "path": "pulmonary and extrapulmonary sarcoidosis.md"
-    },
-    {
-      "basename": "Asthma reactive airway disease",
-      "path": "Asthma reactive airway disease.md"
-    },
-    {
-      "basename": "pulmonary embolism and DVT",
-      "path": "pulmonary embolism and DVT.md"
-    },
-    {
-      "basename": "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults",
-      "path": "2026 AHA ACC Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults.md"
-    },
-    {
-      "basename": "Immune Deficiencies",
-      "path": "01 Step 1/Immunology/Immune Deficiencies.md"
-    },
-    {
-      "basename": "Seizure in pregnancy",
-      "path": "Seizure in pregnancy.md"
-    },
-    {
-      "basename": "Infections in Pregnancy",
-      "path": "Infections in Pregnancy.md"
-    },
-    {
-      "basename": "Pretest Newborn",
-      "path": "02 Step 2/Pediatrics/Pretest Newborn.md"
-    },
-    {
-      "basename": "09 Bilirubin",
-      "path": "01 Step 1/GI/09 Bilirubin.md"
     }
   ],
   "omittedPaths": [],
