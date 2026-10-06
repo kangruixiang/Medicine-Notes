@@ -35,12 +35,24 @@
             "id": "3de35efe2987fc39",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.14.4"
+                "file": "Occupational Lung Disease.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.4"
+              "icon": "lucide-file",
+              "title": "Occupational Lung Disease"
             }
           }
         ],
@@ -285,14 +297,14 @@
   },
   "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "Occupational Lung Disease.md",
     "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md",
-    "lofgren syndrome is sarcoidosis with constitution of symptoms.md",
     "sarcoidosis labs and diagnosis.md",
+    "lofgren syndrome is sarcoidosis with constitution of symptoms.md",
     "lymphocytic BAL points to inflammatory etiologies.md",
     "bronchoalveolar lavage BAL.md",
     "BAL checking for immunocompromised panel.md",
     "bronchoscopy lidocaine method and dosing.md",
-    "Occupational Lung Disease.md",
     "metal fume fever.md",
     "Rheumatology.md",
     "Residency Vasculitis Notes.md",
