@@ -121,6 +121,7 @@ date: 2021-10-05
 	- Decadron 10mg q8hr for 24hr total
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC9841052/
 - cefepime instead of zosyn for klebsiella
+- [[management of tracheostomy]]
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20240916102147.png)
 
