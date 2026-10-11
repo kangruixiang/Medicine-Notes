@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "management of tracheostomy",
+      "path": "management of tracheostomy.md"
+    },
+    {
+      "basename": "tolearn",
+      "path": "tolearn.md"
+    },
+    {
       "basename": "Occupational Lung Disease",
       "path": "Occupational Lung Disease.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "post lung cancer treatment screening CT scheduling",
       "path": "post lung cancer treatment screening CT scheduling.md"
-    },
-    {
-      "basename": "tolearn",
-      "path": "tolearn.md"
     },
     {
       "basename": "Neurology",
@@ -195,10 +199,6 @@
     {
       "basename": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease",
       "path": "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md"
-    },
-    {
-      "basename": "acute and chronic silicosis",
-      "path": "acute and chronic silicosis.md"
     }
   ],
   "omittedPaths": [],
