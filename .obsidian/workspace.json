@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "management of tracheostomy.md",
+                "file": "pulmonary hypertension.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "management of tracheostomy"
+              "title": "pulmonary hypertension"
             }
           }
         ],
@@ -295,8 +295,16 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "3de35efe2987fc39",
   "lastOpenFiles": [
+    "pulmonary hypertension pre and post capillary pressures.md",
+    "pulmonary hypertension.md",
+    "CPET interpretation overview.md",
+    "cardiopulmonary exercise test CPET.md",
+    "breathing reserve in CPET.md",
+    "terminologies and ranges in CPET testing.md",
+    "mild asthma, severe asthma, difficult to treat asthma.md",
+    "Asthma reactive airway disease.md",
     "management of tracheostomy.md",
     "tolearn.md",
     "Occupational Lung Disease.md",
@@ -315,14 +323,6 @@
     "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide.md",
     "Systemic Vasculitis.md",
     "ANCA associated glomerulonephritis.md",
-    "lung mass and cancer.md",
-    "post lung cancer treatment screening CT scheduling.md",
-    "Neurology.md",
-    "7 15 2026 seizure lecture.md",
-    "Seizures and Epilepsy.md",
-    "Anemia.md",
-    "Hematology.md",
-    "HeartMate 3 LVAD Lecture 9 3.md",
     "attachments/20260903140303.png",
     "attachments/20260903140153.png",
     "attachments/20260903140056.png",
