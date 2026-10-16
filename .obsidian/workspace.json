@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ed8d8d6618955cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sarcoidosis labs and diagnosis.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sarcoidosis labs and diagnosis"
-            }
-          },
-          {
             "id": "3de35efe2987fc39",
             "type": "leaf",
             "state": {
@@ -54,9 +30,57 @@
               "icon": "lucide-file",
               "title": "pulmonary hypertension"
             }
+          },
+          {
+            "id": "9f257b7398cee721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pulmonary hypertension clinical classifications.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pulmonary hypertension clinical classifications"
+            }
+          },
+          {
+            "id": "e7ae87f2e5d0a8f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pulmonary hypertension pre and post capillary pressures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pulmonary hypertension pre and post capillary pressures"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -223,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Major pulmonary studies to know.md",
+                "file": "pulmonary hypertension pre and post capillary pressures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,17 +288,16 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "review-queue-list-view"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 413.5,
-    "collapsed": true
+    "width": 413.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,34 +318,36 @@
       "tldraw:Create new tldrawing": false
     }
   },
-  "active": "3de35efe2987fc39",
+  "active": "e7ae87f2e5d0a8f7",
   "lastOpenFiles": [
-    "pulmonary hypertension pre and post capillary pressures.md",
     "pulmonary hypertension.md",
+    "Suspected pulmonary hypertension initial workup.md",
+    "pulmonary hypertension physical exam findings.md",
+    "pulmonary hypertension clinical classifications.md",
+    "sickle cell disease and pulmonary hypertension.md",
+    "pulmonary hypertension associated medications.md",
+    "pulmonary hypertension pre and post capillary pressures.md",
+    "cor pulmonale is right heart failure from pulmonary hypertension.md",
+    "vasoreactivity testing for pulmonary hypertension.md",
+    "evaluate for shunt in pulmonary hypertension with RHC.md",
+    "hemodynamics in portopulmonary hypertension.md",
+    "normal right heart catheterization pressures.md",
+    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
+    "sarcoidosis labs and diagnosis.md",
+    "large PA size on CT can suggest pulmonary hypertension but does not tell severity.md",
+    "TIPS can cause portopulmonary hypertension.md",
+    "COPD patients have proportional pulmonary hypertension.md",
+    "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.md",
+    "2022 ESC",
+    "attachments/20261016193116.png",
+    "01 Step 1/Microbes/05 Gm negative respiratory bacilli.md",
+    "01 Step 1/Pharm/Psych.md",
     "CPET interpretation overview.md",
     "cardiopulmonary exercise test CPET.md",
     "breathing reserve in CPET.md",
     "terminologies and ranges in CPET testing.md",
     "mild asthma, severe asthma, difficult to treat asthma.md",
     "Asthma reactive airway disease.md",
-    "management of tracheostomy.md",
-    "tolearn.md",
-    "Occupational Lung Disease.md",
-    "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md",
-    "sarcoidosis labs and diagnosis.md",
-    "lofgren syndrome is sarcoidosis with constitution of symptoms.md",
-    "lymphocytic BAL points to inflammatory etiologies.md",
-    "bronchoalveolar lavage BAL.md",
-    "BAL checking for immunocompromised panel.md",
-    "bronchoscopy lidocaine method and dosing.md",
-    "metal fume fever.md",
-    "Rheumatology.md",
-    "Residency Vasculitis Notes.md",
-    "Wegener GPA granulomatosis with polyangitis.md",
-    "PR3 and MPO antibodies and vasculitis associations.md",
-    "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide.md",
-    "Systemic Vasculitis.md",
-    "ANCA associated glomerulonephritis.md",
     "attachments/20260903140303.png",
     "attachments/20260903140153.png",
     "attachments/20260903140056.png",
@@ -332,7 +357,6 @@
     "attachments/20260903135713.png",
     "attachments/20260903135526.png",
     "attachments/20260903135335.png",
-    "attachments/20260903135206.png",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR",
@@ -342,7 +366,6 @@
     "2026AH~1/ACC/ACCP/ACEP",
     "2026AH~1/ACC/ACCP",
     "2026AH~1/ACC",
-    "2026 AHA/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "00 Inbox/Clothing.canvas"
   ]
 }

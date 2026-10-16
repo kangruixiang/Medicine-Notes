@@ -17,7 +17,5 @@ date: 2023-04-07
 
 [^1][^2]
 
-- [[right heat cath findings in pulmonary hypertension]]
-
 [^1]: [[CHEST fellow course 2024]]
 [^2]: [[CHEST Board Review Critical Care?]]

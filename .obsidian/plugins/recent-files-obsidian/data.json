@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "pulmonary hypertension pre and post capillary pressures",
+      "path": "pulmonary hypertension pre and post capillary pressures.md"
+    },
+    {
       "basename": "pulmonary hypertension",
       "path": "pulmonary hypertension.md"
     },
     {
-      "basename": "pulmonary hypertension pre and post capillary pressures",
-      "path": "pulmonary hypertension pre and post capillary pressures.md"
+      "basename": "Suspected pulmonary hypertension initial workup",
+      "path": "Suspected pulmonary hypertension initial workup.md"
+    },
+    {
+      "basename": "pulmonary hypertension physical exam findings",
+      "path": "pulmonary hypertension physical exam findings.md"
+    },
+    {
+      "basename": "pulmonary hypertension clinical classifications",
+      "path": "pulmonary hypertension clinical classifications.md"
+    },
+    {
+      "basename": "sickle cell disease and pulmonary hypertension",
+      "path": "sickle cell disease and pulmonary hypertension.md"
+    },
+    {
+      "basename": "pulmonary hypertension associated medications",
+      "path": "pulmonary hypertension associated medications.md"
+    },
+    {
+      "basename": "cor pulmonale is right heart failure from pulmonary hypertension",
+      "path": "cor pulmonale is right heart failure from pulmonary hypertension.md"
+    },
+    {
+      "basename": "vasoreactivity testing for pulmonary hypertension",
+      "path": "vasoreactivity testing for pulmonary hypertension.md"
+    },
+    {
+      "basename": "evaluate for shunt in pulmonary hypertension with RHC",
+      "path": "evaluate for shunt in pulmonary hypertension with RHC.md"
+    },
+    {
+      "basename": "hemodynamics in portopulmonary hypertension",
+      "path": "hemodynamics in portopulmonary hypertension.md"
+    },
+    {
+      "basename": "normal right heart catheterization pressures",
+      "path": "normal right heart catheterization pressures.md"
+    },
+    {
+      "basename": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction",
+      "path": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md"
+    },
+    {
+      "basename": "sarcoidosis labs and diagnosis",
+      "path": "sarcoidosis labs and diagnosis.md"
+    },
+    {
+      "basename": "large PA size on CT can suggest pulmonary hypertension but does not tell severity",
+      "path": "large PA size on CT can suggest pulmonary hypertension but does not tell severity.md"
+    },
+    {
+      "basename": "TIPS can cause portopulmonary hypertension",
+      "path": "TIPS can cause portopulmonary hypertension.md"
+    },
+    {
+      "basename": "COPD patients have proportional pulmonary hypertension",
+      "path": "COPD patients have proportional pulmonary hypertension.md"
+    },
+    {
+      "basename": "ERS Guidelines for the diagnosis and treatment of pulmonary hypertension",
+      "path": "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.md"
+    },
+    {
+      "basename": "05 Gm negative respiratory bacilli",
+      "path": "01 Step 1/Microbes/05 Gm negative respiratory bacilli.md"
+    },
+    {
+      "basename": "Psych",
+      "path": "01 Step 1/Pharm/Psych.md"
     },
     {
       "basename": "CPET interpretation overview",
@@ -47,10 +119,6 @@
     {
       "basename": "pulmonary carcinoid tumors are slow growing neuroendocrine tumor",
       "path": "pulmonary carcinoid tumors are slow growing neuroendocrine tumor.md"
-    },
-    {
-      "basename": "sarcoidosis labs and diagnosis",
-      "path": "sarcoidosis labs and diagnosis.md"
     },
     {
       "basename": "lofgren syndrome is sarcoidosis with constitution of symptoms",
@@ -131,74 +199,6 @@
     {
       "basename": "Hematology",
       "path": "Hematology.md"
-    },
-    {
-      "basename": "HeartMate 3 LVAD Lecture 9 3",
-      "path": "HeartMate 3 LVAD Lecture 9 3.md"
-    },
-    {
-      "basename": "Cardiology and Hemodynamics",
-      "path": "Cardiology and Hemodynamics.md"
-    },
-    {
-      "basename": "PAPi is ratio of pulmonary artery pulse pressure to right atrial pressure",
-      "path": "PAPi is ratio of pulmonary artery pulse pressure to right atrial pressure.md"
-    },
-    {
-      "basename": "cardiology with critical care",
-      "path": "cardiology with critical care.md"
-    },
-    {
-      "basename": "ICU intensive care unit",
-      "path": "ICU intensive care unit.md"
-    },
-    {
-      "basename": "01 Cardiology -  Step",
-      "path": "02 Step 2/Internal/01 Cardiology -  Step.md"
-    },
-    {
-      "basename": "supine and standing spirometry",
-      "path": "supine and standing spirometry.md"
-    },
-    {
-      "basename": "pulmonary abscess",
-      "path": "pulmonary abscess.md"
-    },
-    {
-      "basename": "pulmonary cavitary lesions do not need anaerobic coverage vs abscess",
-      "path": "pulmonary cavitary lesions do not need anaerobic coverage vs abscess.md"
-    },
-    {
-      "basename": "pulmonary cavities cavitary lesions differential",
-      "path": "pulmonary cavities cavitary lesions differential.md"
-    },
-    {
-      "basename": "spontaneous bacterial peritonitis SBP",
-      "path": "spontaneous bacterial peritonitis SBP.md"
-    },
-    {
-      "basename": "Moores triad of asthma management",
-      "path": "Moores triad of asthma management.md"
-    },
-    {
-      "basename": "pulmonary hypertension by groups and workup",
-      "path": "pulmonary hypertension by groups and workup.md"
-    },
-    {
-      "basename": "NEJM Practice Guideline Community-Acquired Pneumonia",
-      "path": "NEJM Practice Guideline Community-Acquired Pneumonia.md"
-    },
-    {
-      "basename": "antibiotics for treatment of community acquired pneumonia",
-      "path": "antibiotics for treatment of community acquired pneumonia.md"
-    },
-    {
-      "basename": "community acquired pneumonia",
-      "path": "community acquired pneumonia.md"
-    },
-    {
-      "basename": "CAP antibiotics",
-      "path": "CAP antibiotics.md"
     }
   ],
   "omittedPaths": [],

@@ -2,7 +2,7 @@
 date: 2024-10-21
 ---
 
-# drugs associated with pulmonary hypertension
+# pulmonary hypertension associated medications
 
 - related: [[pulmonary hypertension]]
 - tags: #literature #pulmonology

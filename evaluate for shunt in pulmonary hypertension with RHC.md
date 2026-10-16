@@ -5,7 +5,7 @@ sr-interval: 90
 sr-ease: 330
 ---
 
-# right heart cath RHC can evaluate for shunt and cardiac output for pulmonary hypertension
+# evaluate for shunt in pulmonary hypertension with RHC
 
 - related: [[pulmonary hypertension]]
 - tags: #permanent

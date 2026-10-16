@@ -2,7 +2,7 @@
 date: 2024-10-11
 ---
 
-# right heat cath RHC can be used for vasoreactivity testing during pulmonary hypertension workup
+# vasoreactivity testing for pulmonary hypertension
 
 - related: [[pulmonary hypertension]]
 - tags: #literature #pulmonology

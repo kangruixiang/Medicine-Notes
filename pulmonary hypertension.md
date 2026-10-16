@@ -15,50 +15,51 @@ date: 2023-02-12
 
 ## Cause
 
-- [[COPD patients have proportional pulmonary hypertension]]
+- [[pulmonary hypertension clinical classifications]]
 - [[genetic mutations in pulmonary hypertension]]
-- HIV associated PAH
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20260317135340.png)
 
 ## Symptoms
 
-- Fixed splitting S2 and loud P2 heart sound is suggestive of pulmonary hypertension
+- [[pulmonary hypertension physical exam findings]]
 
-## Lab Findings
+## Labs and CT
 
+- [[Suspected pulmonary hypertension initial workup]]
 - pulmonary hypertension initial labs include BNP, CBC, TSH, LFT, ANA
 - presence of RVH and P pulmonale can suggest pulmonary hypertension
+
+## Echocardiogram
+
 - [[echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction]]
 - [[large PA size on CT can suggest pulmonary hypertension but does not tell severity]]
 
-## Work up
+## Right Heart Cath
 
 - [[normal right heart catheterization pressures]]
 - [[pulmonary hypertension pre and post capillary pressures]]
+- [[evaluate for shunt in pulmonary hypertension with RHC]]
+- [[vasoreactivity testing for pulmonary hypertension]]
+
+## Work up
+
 - [[hemodynamics in portopulmonary hypertension]]
-- [[pulmonary hypertension by groups and workup]]
-- [[right heart cath RHC can evaluate for shunt and cardiac output for pulmonary hypertension]]
-- [[right heat cath RHC can be used for vasoreactivity testing during pulmonary hypertension workup]]
 - [[PVOD pulmonary venoocclusive disease and PCH pulmonary hemangiomatosis]]
 
 ## Other pathophysiology
 
 - High PCWP in pulmonary hypertension can be beneficial
-- ESRD patients with AV fistula can cause high cardiac output heart failure and pulmonary hypertension
-- TAPSE shows how RV is adapting to pulmonary hypertension. Lower TAPSE is associated with higher mortality
 - [[cor pulmonale is right heart failure from pulmonary hypertension]]
-- [[sickle cell disease and pulmonary hypertension]]
-- [[drugs associated with pulmonary hypertension]]
 
 ## Treatment
 
 - [[use endothelin antagonist to treat pulmonary hypertension in sickle cell patients]]
 - [[pulmonary hypertension treatment overview]]
 - [[pulmonary vasodilators can worsen group 2 PH]]
+Pulmonary vasodilators (eg, tadalafil, bosentan) are indicated for pulmonary _arterial_ hypertension (WHO group 1), which features prominent vasoconstriction.  They are avoided in PH-HFpEF due to the risk of precipitating acute pulmonary edema by suddenly increasing pulmonary blood flow into a stiff/unprepared left ventricle.
 
-## Lecture Notes
+## Literature Notes
 
+- [[ERS Guidelines for the diagnosis and treatment of pulmonary hypertension]]
 - [[pulmonary hypertension 1 31 2023 lecture]]
 - Apex LV or RV dominant on POCUS?
 - septal motion towards/away from LV?

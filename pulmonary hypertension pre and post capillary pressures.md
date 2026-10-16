@@ -14,7 +14,7 @@ date: 2023-02-13
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20230213205428.png)
 
-Pulmonary hypertension is defined as mean pulmonary artery pressure greater than 20 mmHg on right heart cath, with normal around 14 ± 3 mmHg, making 20 mmHg greater than 2 standard deviation above mean.
+Pulmonary hypertension is defined as ==mean pulmonary artery pressure== greater than 20 mmHg on right heart cath, with normal around 14 ± 3 mmHg, making 20 mmHg greater than 2 standard deviation above mean.
 
 Patients with elevated PCWP belong to group 2 (left heart disease) or group 5 (mixed or unclear), different from other groups that generally have decreased PCWP.
 
