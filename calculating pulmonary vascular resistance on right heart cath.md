@@ -2,7 +2,7 @@
 date: 2025-10-29
 ---
 
-# calculating pulmonary vascular resistance
+# calculating pulmonary vascular resistance on right heart cath
 
 - related: [[pulmonary artery catheter]]
 - tags: #literature #icu

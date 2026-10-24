@@ -15,17 +15,15 @@ date: 2025-07-24
 - a wave: atrium contraction
 - c wave: closure of TV
 - v wave: filling of atrium with closed TV
-- CVP is assessed at base of c wave
+- CVP is assessed ==at base of c wave==
 - If c wave is not seen, then mean of peak and trough of a wave is used
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250724075230.png)
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250724075417.png)
 
-![](https://photos.thisispiggy.com/file/wikiFiles/20250724075510.png)
+- [[read CVP and PCWP at end expiration]]
 
-- in spontaneously breathing patient: read from peak (lowest intrathoracic pressure point = highest level)
-- vented patient: read from trough (highest intrathoracic pressure) ==Not sure if this logic is correct==
 [^1]
 
 [^1]: [[CHEST Board Review Critical Care?]]

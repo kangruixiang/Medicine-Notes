@@ -22,7 +22,6 @@
   "ribbon": [],
   "rules": [],
   "scriptingEnabled": false,
-  "showEditInFabMenu": true,
   "showLaunchpad": false,
   "showToolbarIn": {
     "audio": false,
@@ -134,8 +133,9 @@
       "uuid": "94b7d5b8-5fa9-4879-8416-38ea9954ec46"
     }
   ],
-  "version": 20260703.1,
+  "version": 20260812.1,
   "webviewerToolbar": null,
   "whatsnew_version": "1.31",
+  "showEditInFabMenu": true,
   "showToolbarInCanvas": false
 }

@@ -31,6 +31,8 @@
   "pageHeader": [],
   "macros": [],
   "explorer": [],
+  "emptyState": [],
+  "textToolbarCommands": [],
   "hide": {
     "statusbar": [
       "obsidian-git",
@@ -53,9 +55,11 @@
       "PDF++: Toggle auto-copy",
       "Open command palette",
       "Open Git source control"
-    ]
+    ],
+    "editorMenuItems": [],
+    "fileMenuItems": []
   },
-  "spacing": 8,
+  "spacing": 0,
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 2,
@@ -65,5 +69,6 @@
     "mappedIcons": [],
     "tooltips": false,
     "heightOffset": 0
-  }
+  },
+  "spacingReset": true
 }

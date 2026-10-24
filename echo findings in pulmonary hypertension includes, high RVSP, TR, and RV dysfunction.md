@@ -38,3 +38,5 @@ Other echo findings:
 
 - pericardial effusion has poor prognosis association in pulmonary hypertension
 - TAPSE shows how RV is adapting to pulmonary hypertension. Lower TAPSE is associated with higher mortality
+- Apex LV or RV dominant on POCUS?
+- septal motion towards/away from LV?

@@ -1,8 +1,5 @@
 {
-  "block_identify": [
-    "pikchr",
-    "pick"
-  ],
+  "block_identify": "pikchr",
   "output_dom_mark": "adamantine",
   "encoder_type": 1,
   "sample_to_render": 4,

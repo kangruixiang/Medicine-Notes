@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "pulmonary hypertension",
+      "path": "pulmonary hypertension.md"
+    },
+    {
+      "basename": "pulmonary hypertension clinical classifications",
+      "path": "pulmonary hypertension clinical classifications.md"
+    },
+    {
       "basename": "pulmonary hypertension pre and post capillary pressures",
       "path": "pulmonary hypertension pre and post capillary pressures.md"
     },
     {
-      "basename": "pulmonary hypertension",
-      "path": "pulmonary hypertension.md"
+      "basename": "calculating pulmonary vascular resistance on right heart cath",
+      "path": "calculating pulmonary vascular resistance on right heart cath.md"
+    },
+    {
+      "basename": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction",
+      "path": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md"
+    },
+    {
+      "basename": "pulmonary hypertension treatment overview",
+      "path": "pulmonary hypertension treatment overview.md"
+    },
+    {
+      "basename": "use endothelin antagonist to treat pulmonary hypertension in sickle cell patients",
+      "path": "use endothelin antagonist to treat pulmonary hypertension in sickle cell patients.md"
+    },
+    {
+      "basename": "normal right heart catheterization pressures",
+      "path": "normal right heart catheterization pressures.md"
+    },
+    {
+      "basename": "CVP tracing",
+      "path": "CVP tracing.md"
+    },
+    {
+      "basename": "read CVP and PCWP at end expiration",
+      "path": "read CVP and PCWP at end expiration.md"
+    },
+    {
+      "basename": "pulmonary vasodilators can worsen group 2 PH",
+      "path": "pulmonary vasodilators can worsen group 2 PH.md"
+    },
+    {
+      "basename": "pulmonary artery catheter",
+      "path": "pulmonary artery catheter.md"
+    },
+    {
+      "basename": "pulmonary artery wedge pressure differs from right atrial pressure",
+      "path": "pulmonary artery wedge pressure differs from right atrial pressure.md"
+    },
+    {
+      "basename": "pulmonary artery catheter dos and donts",
+      "path": "pulmonary artery catheter dos and donts.md"
+    },
+    {
+      "basename": "Cardiology and Hemodynamics",
+      "path": "Cardiology and Hemodynamics.md"
+    },
+    {
+      "basename": "cardiac hemodynamics and pressures",
+      "path": "cardiac hemodynamics and pressures.md"
+    },
+    {
+      "basename": "pulmonary hypertension 1 31 2023 lecture",
+      "path": "pulmonary hypertension 1 31 2023 lecture.md"
     },
     {
       "basename": "Suspected pulmonary hypertension initial workup",
@@ -15,10 +75,6 @@
     {
       "basename": "pulmonary hypertension physical exam findings",
       "path": "pulmonary hypertension physical exam findings.md"
-    },
-    {
-      "basename": "pulmonary hypertension clinical classifications",
-      "path": "pulmonary hypertension clinical classifications.md"
     },
     {
       "basename": "sickle cell disease and pulmonary hypertension",
@@ -43,14 +99,6 @@
     {
       "basename": "hemodynamics in portopulmonary hypertension",
       "path": "hemodynamics in portopulmonary hypertension.md"
-    },
-    {
-      "basename": "normal right heart catheterization pressures",
-      "path": "normal right heart catheterization pressures.md"
-    },
-    {
-      "basename": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction",
-      "path": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md"
     },
     {
       "basename": "sarcoidosis labs and diagnosis",
@@ -151,54 +199,6 @@
     {
       "basename": "Residency Vasculitis Notes",
       "path": "Residency Vasculitis Notes.md"
-    },
-    {
-      "basename": "Wegener GPA granulomatosis with polyangitis",
-      "path": "Wegener GPA granulomatosis with polyangitis.md"
-    },
-    {
-      "basename": "PR3 and MPO antibodies and vasculitis associations",
-      "path": "PR3 and MPO antibodies and vasculitis associations.md"
-    },
-    {
-      "basename": "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide",
-      "path": "GPA granulomatosis with polyangitis treatment with steroid and cyclophosphamide.md"
-    },
-    {
-      "basename": "Systemic Vasculitis",
-      "path": "Systemic Vasculitis.md"
-    },
-    {
-      "basename": "ANCA associated glomerulonephritis",
-      "path": "ANCA associated glomerulonephritis.md"
-    },
-    {
-      "basename": "lung mass and cancer",
-      "path": "lung mass and cancer.md"
-    },
-    {
-      "basename": "post lung cancer treatment screening CT scheduling",
-      "path": "post lung cancer treatment screening CT scheduling.md"
-    },
-    {
-      "basename": "Neurology",
-      "path": "Neurology.md"
-    },
-    {
-      "basename": "7 15 2026 seizure lecture",
-      "path": "7 15 2026 seizure lecture.md"
-    },
-    {
-      "basename": "Seizures and Epilepsy",
-      "path": "Seizures and Epilepsy.md"
-    },
-    {
-      "basename": "Anemia",
-      "path": "Anemia.md"
-    },
-    {
-      "basename": "Hematology",
-      "path": "Hematology.md"
     }
   ],
   "omittedPaths": [],

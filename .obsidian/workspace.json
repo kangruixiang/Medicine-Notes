@@ -32,31 +32,19 @@
             }
           },
           {
-            "id": "9f257b7398cee721",
+            "id": "91a7b50bbd2ef884",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "pulmonary hypertension clinical classifications.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.14.5"
               },
-              "icon": "lucide-file",
-              "title": "pulmonary hypertension clinical classifications"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
             }
           },
           {
-            "id": "e7ae87f2e5d0a8f7",
+            "id": "7cc0efc6efcc1f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,7 +235,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pulmonary hypertension pre and post capillary pressures.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -293,7 +280,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -307,56 +294,56 @@
       "daily-notes:Open today's daily note": true,
       "command-palette:Open command palette": true,
       "random-note:Open random note": false,
-      "cmdr:Toggle left sidebar": false,
-      "cmdr:Toggle right sidebar": false,
       "obsidian-git:Open Git source control": false,
       "obsidian42-brat:BRAT": false,
       "omnisearch:Omnisearch": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "templater-obsidian:Templater": false,
       "obsidian-regex-pipeline:Regex Rulesets": false,
-      "tldraw:Create new tldrawing": false
+      "tldraw:Create new tldrawing": false,
+      "cmdr:Toggle left sidebar": false,
+      "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "e7ae87f2e5d0a8f7",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "pulmonary hypertension clinical classifications.md",
     "pulmonary hypertension.md",
+    "pulmonary hypertension pre and post capillary pressures.md",
+    "calculating pulmonary vascular resistance on right heart cath.md",
+    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
+    "pulmonary hypertension treatment overview.md",
+    "use endothelin antagonist to treat pulmonary hypertension in sickle cell patients.md",
+    "normal right heart catheterization pressures.md",
+    "CVP tracing.md",
+    "read CVP and PCWP at end expiration.md",
+    "pulmonary vasodilators can worsen group 2 PH.md",
+    "pulmonary artery catheter.md",
+    "pulmonary artery wedge pressure differs from right atrial pressure.md",
+    "pulmonary artery catheter dos and donts.md",
+    "Cardiology and Hemodynamics.md",
+    "cardiac hemodynamics and pressures.md",
+    "pulmonary hypertension 1 31 2023 lecture.md",
+    "attachments/20261016201057.png",
+    "attachments/20261016201028.png",
+    "attachments/20261016195738.png",
     "Suspected pulmonary hypertension initial workup.md",
     "pulmonary hypertension physical exam findings.md",
-    "pulmonary hypertension clinical classifications.md",
     "sickle cell disease and pulmonary hypertension.md",
     "pulmonary hypertension associated medications.md",
-    "pulmonary hypertension pre and post capillary pressures.md",
     "cor pulmonale is right heart failure from pulmonary hypertension.md",
     "vasoreactivity testing for pulmonary hypertension.md",
     "evaluate for shunt in pulmonary hypertension with RHC.md",
     "hemodynamics in portopulmonary hypertension.md",
-    "normal right heart catheterization pressures.md",
-    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
     "sarcoidosis labs and diagnosis.md",
-    "large PA size on CT can suggest pulmonary hypertension but does not tell severity.md",
-    "TIPS can cause portopulmonary hypertension.md",
-    "COPD patients have proportional pulmonary hypertension.md",
-    "2022 ESC/ERS Guidelines for the diagnosis and treatment of pulmonary hypertension.md",
     "2022 ESC",
     "attachments/20261016193116.png",
-    "01 Step 1/Microbes/05 Gm negative respiratory bacilli.md",
-    "01 Step 1/Pharm/Psych.md",
-    "CPET interpretation overview.md",
-    "cardiopulmonary exercise test CPET.md",
-    "breathing reserve in CPET.md",
-    "terminologies and ranges in CPET testing.md",
-    "mild asthma, severe asthma, difficult to treat asthma.md",
-    "Asthma reactive airway disease.md",
     "attachments/20260903140303.png",
     "attachments/20260903140153.png",
     "attachments/20260903140056.png",
     "attachments/20260903135948.png",
     "attachments/20260903135900.png",
     "attachments/20260903135808.png",
-    "attachments/20260903135713.png",
-    "attachments/20260903135526.png",
-    "attachments/20260903135335.png",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR",

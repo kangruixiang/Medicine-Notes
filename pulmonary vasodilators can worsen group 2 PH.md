@@ -8,6 +8,8 @@ date: 2025-10-17
 - tags: #literature #pulmonology
 ---
 
+Pulmonary vasodilators (eg, tadalafil, bosentan) are indicated for pulmonary _arterial_ hypertension (WHO group 1), which features prominent vasoconstriction.  They are avoided in PH-HFpEF due to the risk of precipitating acute pulmonary edema by suddenly increasing pulmonary blood flow into a stiff/unprepared left ventricle.
+
 <!-- pulmonary vasodilators in group 3 PH? -->
 
 This patient has PH from chronic hypoxemic respiratory failure (group 3) and left heart disease (group 2). The current diagnostic criterion for PH is mean pulmonary arterial pressure of >20 mm Hg and pulmonary vascular resistance (PVR) of >2 Wood units. Pulmonary capillary wedge pressure (PCWP) distinguishes between preand postcapillary PH, with PCWP <15 mm Hg being consistent with a precapillary component of PH and PCWP >15 mm Hg being consistent with postcapillary PH. Transpulmonary gradient (ie, mean PAP – mean PCWP) >12 mm Hg suggests that both preand postcapillary PH are present. Under normal physiologic conditions, the pulmonary vascular system is highly compliant with low resistance. This allows the RV to generate adequate stroke volume with one-sixth the pressure of the LV. Increased RV afterload from increased PVR requires an increase in RV systolic pressure to maintain adequate stroke volume.
