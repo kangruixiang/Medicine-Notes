@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "eb2a70de01cfc670",
+        "id": "34a940ec0f172df8",
         "type": "tabs",
         "children": [
           {
-            "id": "3de35efe2987fc39",
+            "id": "17f1297a612daa43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary hypertension.md",
+                "file": "Ian 10 2026 ICU delirium sleep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,47 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary hypertension"
-            }
-          },
-          {
-            "id": "91a7b50bbd2ef884",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
-            }
-          },
-          {
-            "id": "7cc0efc6efcc1f2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulmonary hypertension pre and post capillary pressures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pulmonary hypertension pre and post capillary pressures"
+              "title": "Ian 10 2026 ICU delirium sleep"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -163,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -275,8 +239,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -284,7 +248,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 413.5
+    "width": 413.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,9 +272,22 @@
   },
   "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
-    "pulmonary hypertension clinical classifications.md",
+    "Ian 10 2026 ICU delirium sleep.md",
+    "attachments/20261027135929.png",
+    "attachments/20261027135817.png",
+    "attachments/20261027135740.png",
+    "attachments/20261027135724.png",
+    "attachments/20261027135636.png",
+    "attachments/20261027135541.png",
+    "attachments/20261027135516.png",
+    "attachments/20261027135448.png",
+    "attachments/20261027135419.png",
+    "attachments/20261027135326.png",
+    "Sleep and Sleep Disordered Breathing.md",
+    "sleep disordered breathing is characterized by apnea, hyponea, hypoventilation, RERA.md",
     "pulmonary hypertension.md",
     "pulmonary hypertension pre and post capillary pressures.md",
+    "pulmonary hypertension clinical classifications.md",
     "calculating pulmonary vascular resistance on right heart cath.md",
     "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
     "pulmonary hypertension treatment overview.md",
@@ -324,26 +302,12 @@
     "Cardiology and Hemodynamics.md",
     "cardiac hemodynamics and pressures.md",
     "pulmonary hypertension 1 31 2023 lecture.md",
-    "attachments/20261016201057.png",
-    "attachments/20261016201028.png",
-    "attachments/20261016195738.png",
     "Suspected pulmonary hypertension initial workup.md",
     "pulmonary hypertension physical exam findings.md",
     "sickle cell disease and pulmonary hypertension.md",
     "pulmonary hypertension associated medications.md",
     "cor pulmonale is right heart failure from pulmonary hypertension.md",
-    "vasoreactivity testing for pulmonary hypertension.md",
-    "evaluate for shunt in pulmonary hypertension with RHC.md",
-    "hemodynamics in portopulmonary hypertension.md",
-    "sarcoidosis labs and diagnosis.md",
     "2022 ESC",
-    "attachments/20261016193116.png",
-    "attachments/20260903140303.png",
-    "attachments/20260903140153.png",
-    "attachments/20260903140056.png",
-    "attachments/20260903135948.png",
-    "attachments/20260903135900.png",
-    "attachments/20260903135808.png",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR",
