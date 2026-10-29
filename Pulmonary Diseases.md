@@ -85,7 +85,7 @@ date: 2020-09-07
 
 - [[pleural effusion]]
 - [[chest tube]]
-- [[pleurx catheter]]
+- [[pleurx - tunneled catheter]]
 - [[mesothelioma]]
 - [[reasons to obtain xray after thoracentesis]]
 - [[marijuana use can induce bulla formation]]

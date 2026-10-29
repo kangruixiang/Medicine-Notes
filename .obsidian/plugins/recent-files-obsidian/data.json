@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "pleurx catheter",
-      "path": "pleurx catheter.md"
+      "basename": "pleurx - tunneled catheter",
+      "path": "pleurx - tunneled catheter.md"
+    },
+    {
+      "basename": "pleurx catheter dressing and connections",
+      "path": "pleurx catheter dressing and connections.md"
     },
     {
       "basename": "acute and chronic silicosis",
@@ -195,10 +199,6 @@
     {
       "basename": "lymphocytic BAL points to inflammatory etiologies",
       "path": "lymphocytic BAL points to inflammatory etiologies.md"
-    },
-    {
-      "basename": "bronchoalveolar lavage BAL",
-      "path": "bronchoalveolar lavage BAL.md"
     }
   ],
   "omittedPaths": [],

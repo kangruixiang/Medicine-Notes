@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "acute and chronic silicosis.md",
+                "file": "pleurx - tunneled catheter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "acute and chronic silicosis"
+              "title": "pleurx - tunneled catheter"
             }
           }
         ]
@@ -270,20 +270,22 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "17f1297a612daa43",
   "lastOpenFiles": [
+    "pleurx catheter dressing and connections.md",
+    "attachments/20261029125612.png",
+    "attachments/20261029125015.png",
+    "attachments/20261029124855.png",
+    "attachments/20261029124751.png",
+    "attachments/20261029124614.png",
+    "attachments/20261029124605.png",
+    "attachments/20261029124549.png",
+    "pleurx - tunneled catheter.md",
+    "attachments/20261029124119.png",
+    "attachments/20261029124032.png",
+    "attachments/20261029123907.png",
     "acute and chronic silicosis.md",
     "Ian 10 2026 ICU delirium sleep.md",
-    "attachments/20261027135929.png",
-    "attachments/20261027135817.png",
-    "attachments/20261027135740.png",
-    "attachments/20261027135724.png",
-    "attachments/20261027135636.png",
-    "attachments/20261027135541.png",
-    "attachments/20261027135516.png",
-    "attachments/20261027135448.png",
-    "attachments/20261027135419.png",
-    "attachments/20261027135326.png",
     "Sleep and Sleep Disordered Breathing.md",
     "sleep disordered breathing is characterized by apnea, hyponea, hypoventilation, RERA.md",
     "pulmonary hypertension.md",
@@ -305,9 +307,6 @@
     "pulmonary hypertension 1 31 2023 lecture.md",
     "Suspected pulmonary hypertension initial workup.md",
     "pulmonary hypertension physical exam findings.md",
-    "sickle cell disease and pulmonary hypertension.md",
-    "pulmonary hypertension associated medications.md",
-    "cor pulmonale is right heart failure from pulmonary hypertension.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
