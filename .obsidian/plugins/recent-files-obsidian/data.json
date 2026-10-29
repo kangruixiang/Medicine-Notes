@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "pleurx catheter",
+      "path": "pleurx catheter.md"
+    },
+    {
+      "basename": "acute and chronic silicosis",
+      "path": "acute and chronic silicosis.md"
+    },
+    {
       "basename": "Ian 10 2026 ICU delirium sleep",
       "path": "Ian 10 2026 ICU delirium sleep.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "bronchoalveolar lavage BAL",
       "path": "bronchoalveolar lavage BAL.md"
-    },
-    {
-      "basename": "BAL checking for immunocompromised panel",
-      "path": "BAL checking for immunocompromised panel.md"
-    },
-    {
-      "basename": "bronchoscopy lidocaine method and dosing",
-      "path": "bronchoscopy lidocaine method and dosing.md"
     }
   ],
   "omittedPaths": [],
