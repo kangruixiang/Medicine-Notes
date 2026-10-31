@@ -21,8 +21,11 @@ date: 2023-07-29
 - also hard to tell difference if pleurodesis is from spontaneous or from chemo
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261029123227.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261029123400.png)
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261029123547.png)
+
 - combining TPC and talc slurry shows increased pleurodesis rate
 
 ## Outpatient vs inpatient
@@ -36,9 +39,11 @@ date: 2023-07-29
 - combining all 3: early studies showed possible, no real data
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261029123809.png)![](https://photos.thisispiggy.com/file/wikiFiles/20261029123907.png)
+
 - AMPLE3: TPC vs surgical
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261029124032.png)
+
 - pleuroperitoneal shunt
 - no catheter maintenance, no external device
 

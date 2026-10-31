@@ -126,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -270,8 +269,9 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "17f1297a612daa43",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "pleurx - tunneled catheter.md",
     "pleurx catheter dressing and connections.md",
     "attachments/20261029125612.png",
     "attachments/20261029125015.png",
@@ -280,7 +280,6 @@
     "attachments/20261029124614.png",
     "attachments/20261029124605.png",
     "attachments/20261029124549.png",
-    "pleurx - tunneled catheter.md",
     "attachments/20261029124119.png",
     "attachments/20261029124032.png",
     "attachments/20261029123907.png",
