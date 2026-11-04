@@ -100,6 +100,7 @@ date: 2020-09-07
 - [[use rigid bronchoscopy for extraction of foreign objects]]
 - [[bronchoscopy slides and rinses]]
 - [[physicians must obtain separate consent for living donor bronchoscopy]]
+- [[bronchoscopy airway bleed]]
 
 ## Pulmonary Infections
 

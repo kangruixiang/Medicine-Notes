@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pleurx - tunneled catheter.md",
+                "file": "bronchoscopy airway bleed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pleurx - tunneled catheter"
+              "title": "bronchoscopy airway bleed"
             }
           }
         ]
@@ -269,8 +269,12 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "dff79ffbca9c588b",
+  "active": "17f1297a612daa43",
   "lastOpenFiles": [
+    "attachments/20261104143912.png",
+    "Pulmonary Diseases.md",
+    "bronchoscopy airway bleed.md",
+    "bronchoscopy lidocaine method and dosing.md",
     "pleurx - tunneled catheter.md",
     "pleurx catheter dressing and connections.md",
     "attachments/20261029125612.png",
@@ -303,9 +307,6 @@
     "pulmonary artery catheter dos and donts.md",
     "Cardiology and Hemodynamics.md",
     "cardiac hemodynamics and pressures.md",
-    "pulmonary hypertension 1 31 2023 lecture.md",
-    "Suspected pulmonary hypertension initial workup.md",
-    "pulmonary hypertension physical exam findings.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
