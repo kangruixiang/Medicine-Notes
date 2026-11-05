@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bronchoscopy airway bleed.md",
+                "file": "Medicine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bronchoscopy airway bleed"
+              "title": "Medicine"
             }
           }
         ]
@@ -271,9 +271,9 @@
   },
   "active": "17f1297a612daa43",
   "lastOpenFiles": [
+    "bronchoscopy airway bleed.md",
     "attachments/20261104143912.png",
     "Pulmonary Diseases.md",
-    "bronchoscopy airway bleed.md",
     "bronchoscopy lidocaine method and dosing.md",
     "pleurx - tunneled catheter.md",
     "pleurx catheter dressing and connections.md",
@@ -286,7 +286,6 @@
     "attachments/20261029124549.png",
     "attachments/20261029124119.png",
     "attachments/20261029124032.png",
-    "attachments/20261029123907.png",
     "acute and chronic silicosis.md",
     "Ian 10 2026 ICU delirium sleep.md",
     "Sleep and Sleep Disordered Breathing.md",

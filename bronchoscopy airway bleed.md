@@ -8,4 +8,4 @@ date: 2026-11-04
 - tags: #literature #pulmonology
 ---
 
-![[20261104143912.png]]
+![](https://photos.thisispiggy.com/file/wikiFiles/20261104143912.png)

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Medicine",
+      "path": "Medicine.md"
+    },
+    {
       "basename": "bronchoscopy airway bleed",
       "path": "bronchoscopy airway bleed.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "tolearn",
       "path": "tolearn.md"
-    },
-    {
-      "basename": "Occupational Lung Disease",
-      "path": "Occupational Lung Disease.md"
     }
   ],
   "omittedPaths": [],
