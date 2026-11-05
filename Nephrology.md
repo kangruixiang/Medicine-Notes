@@ -10,6 +10,9 @@ date: 2020-09-07
 
 ## Nephro in ICU
 
+- [[early RRT in ICU increases risk of CLABSI]]
+- AEIOU
+- [[calcium phos product over 80 is indication for dialysis]]
 - [[lactic acidosis types]]
 - [[anion gap metabolic acidosis]]
 - [[hyperchloremic metabolic acidosis from normal saline]]
@@ -25,6 +28,7 @@ date: 2020-09-07
 - [[hypermagnesemia complications]]
 - [[hemoconcentration can cause creatinine concentration after diuresis]]
 - [[ACORN trial showed zosyn does not cause AKI]]
+- [[CRRT continuous renal replacement therapy]]
 
 ## Physiology
 
@@ -76,8 +80,8 @@ date: 2020-09-07
 - [[give hypotonic fluid in post ATN diuresis]]
 - [[AKI in transplant patients]]
 - [[indications for CRT]]
-- [[dialysis in icu]]
 - [[renal artery stenosis can cause recurrent flash pulmonary edema]]
+- [[CRRT continuous renal replacement therapy]]
 
 ## CKD
 
@@ -91,9 +95,6 @@ date: 2020-09-07
 - [[when to place fistulas for dialysis]]
 - [[ultrasound findings of CKD]]
 - [[MRI with gadolinium contrast in CKD patients has low risk for nephrogenic systemic fibrosis]]
-- [[systemic heparin is used as anticoagulation in CRRT]]
-- [[CRRT solutions]]
-- [[assume creatinine clearance of 30 for patients on CRRT]]
 
 ## Renal disorders
 
