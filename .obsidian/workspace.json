@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRRT pressures and troubleshooting.md",
+                "file": "CRRT terms and calculations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,46 +28,22 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CRRT pressures and troubleshooting"
-            }
-          },
-          {
-            "id": "8ee70bf7a27349e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CRRT therapy fluid.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CRRT therapy fluid"
+              "title": "CRRT terms and calculations"
             }
           }
         ]
       },
       {
-        "id": "dff5e6037b66c89d",
+        "id": "1e751f8e7e0c734c",
         "type": "tabs",
         "children": [
           {
-            "id": "f221c017803ba627",
+            "id": "d8b1b0a4eb87e7b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bryant CRRT lecture 11 2026.md",
+                "file": "CRRT terms and calculations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,7 +58,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bryant CRRT lecture 11 2026"
+              "title": "CRRT terms and calculations"
             }
           }
         ]
@@ -326,9 +302,10 @@
   },
   "active": "dd11f29070f9c386",
   "lastOpenFiles": [
+    "attachments/20261105143643.png",
+    "CRRT continuous renal replacement therapy.md",
     "Bryant CRRT lecture 11 2026.md",
     "CRRT pressures and troubleshooting.md",
-    "CRRT continuous renal replacement therapy.md",
     "CRRT approach to drug clearance.md",
     "CRRT therapy fluid.md",
     "CRRT solutions.md",
@@ -361,7 +338,6 @@
     "pulmonary hypertension clinical classifications.md",
     "calculating pulmonary vascular resistance on right heart cath.md",
     "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
-    "pulmonary hypertension treatment overview.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",

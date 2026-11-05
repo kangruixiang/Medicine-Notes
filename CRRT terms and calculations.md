@@ -12,13 +12,38 @@ date: 2026-11-05
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105131052.png)
 
-- CVVH dose: effluent rate / patient weight in kg
 - Kurea: solute removal rate
 - solvent drag: when water goes across membrane, it drags solutes with it
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20261105143643.png)
+
+- Qrf: replacement fluid, 1.7 L/hg
+- UF, ultrafiltration, 75 cc/hr
+- Qb, blood flow rate, 200cc/hr
+
+## Formulas
+
+$$
+\text{CVVH Dose} = \frac{\text{Effluent Rate}}{\text{IBW}} = \frac{Q_{rf}+UF}{Kg} 
+$$
+
+$$
+\text{Plasma Flow} = \text{blood flow} * 60 * (1-Hct)
+$$
+
+$$
+\text{Filtration Fraction} = \frac{\text{Effluent rate}}{\text{Replacement Fluid}+\text{Plasma Flow}} = \frac{Q_{rf}+UF}{Q_{rf} + Q_p}
+$$
+
+$$
+\text{Dilution Factor} = \frac{Q_p}{Q_p + Q_{rf}}
+$$
 
 ## Dose
 
 ![20261105132931.png](https://photos.thisispiggy.com/file/wikiFiles/20261105132931.png)![](https://photos.thisispiggy.com/file/wikiFiles/20261105133222.png)
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20261105133409.png)
 
 ## Blood Flow Rate
 
@@ -26,10 +51,6 @@ date: 2026-11-05
 
 - faster flow = faster cartridge use
 - faster flow = decreased filtration
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20261105133409.png)
-
-- 1.7 L/hr on machine prescribed for patient
 - post filter and pre-blood doesn't need to be accounted
 
 ## Dilution Factor
@@ -39,8 +60,6 @@ date: 2026-11-05
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105133810.png)
 
 - dilution factor is plasma flow or blood flow
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20261105133841.png)
 
 ## Filtration Fraction
 

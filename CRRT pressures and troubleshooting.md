@@ -7,6 +7,7 @@ date: 2026-11-05
 - related: [[CRRT continuous renal replacement therapy]]
 - tags: #literature #nephrology
 ---
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105134836.png)
 
 - neg access pressure: coming out of pressure into machine. Opposite of ECMO
