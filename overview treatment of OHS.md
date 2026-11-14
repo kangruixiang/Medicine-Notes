@@ -8,6 +8,9 @@ date: 2023-08-19
 - tags: #permanent
 ---
 
+- Use bipap if pts can't tolerate CPAP pressure
+- Add O2 or use AVAPS if still hypoxia
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20230816094229.png)
 
 [^1]

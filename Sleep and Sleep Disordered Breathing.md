@@ -59,11 +59,13 @@ tags: []
 - [[restless leg syndrome and periodic limb movement]]
 - [[parasomnias are movement during sleep]]
 
-## Sleep Devices
+## Sleep Devices and Modes
 
-- [[Types of NIV devices]]
+- [[respiratory assist devices vs home mechanical ventilators]]
+- [[AirCurve 10 different modes available]]
 - [[types of CPAP masks]]
 - [[basic sleep device DME orders]]
+- [[ASV adaptive support ventilation]]
 
 ## Treatment
 
@@ -77,10 +79,7 @@ tags: []
 - [[eszopiclone is used to help improve adherence to CPAP]]
 - [[APAP results in lower mean airway pressure compared to CPAP]]
 - [[CPAP with expiratory pressure relief]]
-- leak less than 40 is ok
-- soft response is less dramatic for patient
-- Excite OSA for treatment
-- Mounjaro and other SGLT2 as first line for sleep apnea
+- leak less than 40-50L is ok
 
 ### Central Sleep Apnea
 
@@ -89,16 +88,18 @@ tags: []
 - [[CSA supplemental O2]]
 - [[PAP therapy does not improve survival in HFrEF patients with CSA]]
 - [[high altitude can worsen CSA]]
+- [[Infective trigger can mimic CSA in NMD patients]]
 
-### Hypoventilation
+### Hypoventilation and obesity hypoventilation
 
+- [[NIV initial settings]]
+- [[hypoventilation with NIV target CO2 and follow up]]
 - [[NMS neuromuscular weakness]]
 - [[overview treatment of OHS]]
 - CPAP is main treatment for OSA
 - [[Bipap is alternative treatment to CPAP if hypoventilation and hypoxemia still persists]]
 - ASV can be used if there is low MV
 - monitoring of serum bicarb and PaCO2 are used
-- [[NIV treatment of hypercapnic respiratory failure settings]]
 - [[indication for day time ventilation]]
 - [[Qualifying Patients for Noninvasive Positive Pressure Ventilation Devices on Hospital Discharge]]
 - [[initiating nighttime NIV for chronic hypercapnia in COPD]]
@@ -109,17 +110,9 @@ tags: []
 
 - CPAP can treat OSA, but pts can still have OHS with hypoxia/hypercapnia
 
-## OHS
-
-- Use bipap if pts can't tolerate CPAP pressure
-- Add O2 or use AVAPS if still hypoxia
-
-## ASV
-
-- [[ASV adaptive support ventilation]]
-
 ## Literature Notes
 
+- Resmed Aircare ST-A Clinician Guide
 - [[Murray and Nadel Ch 119 Sleep Disordered Breathing]]
 - [[Murray and Nadel Ch 120 Obstructive Sleep Apnea]]
 - [[Murray and Nadel Ch 121 Central Sleep Apnea]]

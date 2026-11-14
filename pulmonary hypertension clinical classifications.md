@@ -10,6 +10,8 @@ date: 2026-10-16
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20260317135340.png)
 
+- most recent guideline uses mPAP ≥ 20 and not 25 for definition of PHTN
+
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261016193116.png)
 
 [^1]

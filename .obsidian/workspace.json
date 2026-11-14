@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd11f29070f9c386",
+            "id": "a3ba8d8ed8fbdd55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRRT terms and calculations.md",
+                "file": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,40 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CRRT terms and calculations"
+              "title": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction"
             }
-          }
-        ]
-      },
-      {
-        "id": "1e751f8e7e0c734c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "d8b1b0a4eb87e7b7",
+            "id": "cc36bd388054c379",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "CRRT terms and calculations.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "currentVersion": "1.15.1"
               },
-              "icon": "lucide-file",
-              "title": "CRRT terms and calculations"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.15.1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -300,44 +283,44 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "dd11f29070f9c386",
+  "active": "dff79ffbca9c588b",
   "lastOpenFiles": [
+    "attachments/20261108171350.png",
+    "COPD and pulmonary hypertension COPD-PH.md",
+    "attachments/20261108171319.png",
+    "attachments/20261108171139.png",
+    "ILD and pulmonary hypertension ILD-PH.md",
+    "attachments/20261108170653.png",
+    "pulmonary hypertension.md",
+    "large PA size on CT can suggest pulmonary hypertension but does not tell severity.md",
+    "When to suspect pulmonary hypertension.md",
+    "pulmonary hypertension pre and post capillary pressures.md",
+    "Suspected pulmonary hypertension initial workup.md",
+    "higher PVR is higher predictor for mortality in pulmonary HTN.md",
+    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
+    "COPD chronic obstructive pulmonary disease.md",
+    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
+    "pulmonary hypertension clinical classifications.md",
+    "Sleep and Sleep Disordered Breathing.md",
+    "overview treatment of OHS.md",
+    "NMS neuromuscular weakness.md",
+    "hypoventilation with NIV target CO2 and follow up.md",
+    "NIV initial settings.md",
+    "Infective trigger can mimic CSA in NMD patients.md",
+    "AirCurve 10 different modes available.md",
+    "respiratory assist devices vs home mechanical ventilators.md",
+    "basic sleep device DME orders.md",
+    "attachments/20261108163514.png",
+    "Ian 3 2026 Optimizing Sleep Apnea.md",
+    "attachments/20261108163426.png",
+    "Ian 10 2026 ICU delirium sleep.md",
+    "ECMO extracorporeal membrane oxygenation.md",
+    "NIV settings in acute respiratory failure.md",
     "attachments/20261105143643.png",
-    "CRRT continuous renal replacement therapy.md",
-    "Bryant CRRT lecture 11 2026.md",
-    "CRRT pressures and troubleshooting.md",
-    "CRRT approach to drug clearance.md",
-    "CRRT therapy fluid.md",
-    "CRRT solutions.md",
-    "CRRT terms and calculations.md",
-    "CRRT modes and indications.md",
-    "dialysis in icu.md",
-    "Nephrology.md",
     "attachments/20261105140216.png",
     "attachments/20261105140052.png",
     "attachments/20261105140014.png",
     "attachments/20261105135941.png",
-    "attachments/20261105135926.png",
-    "attachments/20261105135344.png",
-    "attachments/20261105135328.png",
-    "attachments/20261105135311.png",
-    "attachments/20261105135155.png",
-    "attachments/20261105135139.png",
-    "Medicine.md",
-    "Pulmonary Diseases.md",
-    "bronchoscopy airway bleed.md",
-    "bronchoscopy lidocaine method and dosing.md",
-    "pleurx - tunneled catheter.md",
-    "pleurx catheter dressing and connections.md",
-    "acute and chronic silicosis.md",
-    "Ian 10 2026 ICU delirium sleep.md",
-    "Sleep and Sleep Disordered Breathing.md",
-    "sleep disordered breathing is characterized by apnea, hyponea, hypoventilation, RERA.md",
-    "pulmonary hypertension.md",
-    "pulmonary hypertension pre and post capillary pressures.md",
-    "pulmonary hypertension clinical classifications.md",
-    "calculating pulmonary vascular resistance on right heart cath.md",
-    "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",

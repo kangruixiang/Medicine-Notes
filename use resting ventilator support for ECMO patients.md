@@ -2,11 +2,16 @@
 date: 2024-10-21
 ---
 
-# use low TV and FiO2 on ventilator for ECMO patients
+# use resting ventilator support for ECMO patients
 
 - related: [[ECMO extracorporeal membrane oxygenation]]
 - tags: #literature #pulmonology
 ---
+
+- target FiO2 as low as possible (30%)
+- PEEP ≥ 10
+- moderate RR
+- Plateau < 25
 
 <!-- ventilator settings to minimize while on ECMO b:1566898847560-->
 

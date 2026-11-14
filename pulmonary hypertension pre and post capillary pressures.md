@@ -8,6 +8,8 @@ date: 2023-02-13
 - tags: #permanent
 - source: [[Murray and Nadel Textbook of Respiratory Medicine]]
 ---
+- use exercise RHC if high suspicion
+
 <!-- what are the pressures for pulmonary HTN in pre, post, and mixed types? b:1418520068563-->
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261016195738.png)

@@ -40,13 +40,14 @@ date: 2020-09-07
 
 ## Severe COPD
 
+- [[COPD and pulmonary hypertension COPD-PH]]
 - [[roflumilast benefits both prior and current smoker where as azithromycin only benefits prior]]
 - [[start roflumilast for chronic bronchitis patient]]
 - [[azithromycin improves immunity and reduces inflammation]]
 - [[use azithromycin with caution in patients with nonTB mycobacterium infections]]
 - [[dupixent dupilumab for severe COPD on triple therapy improves lung function, quality of life, exacerbations]]
 - [[selection criteria for lung transplantation in COPD patients]]
-- [[NIV treatment of hypercapnic respiratory failure settings]]
+- [[NIV initial settings]]
 - [[initiating nighttime NIV for chronic hypercapnia in COPD]]
 - [[use lower respiratory rate and high tidal volume for COPD patients on ventilator]]
 

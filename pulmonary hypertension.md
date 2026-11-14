@@ -15,12 +15,12 @@ date: 2023-02-12
 
 ## Symptoms
 
-- [[pulmonary hypertension physical exam findings]]
+- [[When to suspect pulmonary hypertension]]
 
 ## Labs and CT
 
 - [[Suspected pulmonary hypertension initial workup]]
-- pulmonary hypertension initial labs include BNP, CBC, TSH, LFT, ANA
+- pulmonary hypertension initial labs include ==BNP==, CBC, TSH, LFT, ANA
 - presence of RVH and P pulmonale can suggest pulmonary hypertension
 
 ## Echocardiogram
@@ -43,18 +43,25 @@ date: 2023-02-12
 
 ## Other pathophysiology
 
+- [[higher PVR is higher predictor for mortality in pulmonary HTN]]
 - High PCWP in pulmonary hypertension can be beneficial
 - [[cor pulmonale is right heart failure from pulmonary hypertension]]
 
 ## Treatment
 
+- Generally figure out if pH is dominant driver of disease or comorbidity is dominator of disease
 - [[pulmonary hypertension treatment overview]]
 - [[use endothelin antagonist to treat pulmonary hypertension in sickle cell patients]]
 - [[pulmonary vasodilators can worsen group 2 PH]]
+- [[ILD and pulmonary hypertension ILD-PH]]
+	- avoid Riociguat: worse outcome
+	- avoid endothelin receptor
+	- prostacyclins: Tyvaso approved for ILD-PH but not COPD-PH
 - Group 3 PH treatment
+	- PDEi: can start low dose sildenafil but watchout for worsening hypoxemia. Can go up to 40 but not up to 80[^1]
 	- Can start tadalafil 20 for group 3 PH and go up to 40 mg if tolerated
 	- Tyvaso: used for ILD-PH. Not effective in CPFE subgroup
-	- ERA, Winrevair: not recommended in group 3 PH
+	- avoid endothelin receptor: ERA, Winrevair: not recommended in group 3 PH
 
 ## Literature Notes
 
@@ -63,3 +70,5 @@ date: 2023-02-12
 - RVEDP = surrogate for RAP?
 - sotatercept: stellar trial
 - redox trial for o2
+
+[^1]: [[NCTS lecture 11 2026]]

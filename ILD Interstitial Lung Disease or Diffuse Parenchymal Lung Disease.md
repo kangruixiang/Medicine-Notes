@@ -64,6 +64,10 @@ You can categorize ILDs based on etiology:
 	- [[Occupational Lung Disease]]
 - progressive massive fibrosis
 
+## Pathophysiology
+
+- [[ILD and pulmonary hypertension ILD-PH]]
+
 ## Treatment
 
 <!-- ignore -->

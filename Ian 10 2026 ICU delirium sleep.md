@@ -93,9 +93,7 @@ date: 2026-10-27
 - Ti min: 0.6
 - Ti long: 1.5
 
-![](https://photos.thisispiggy.com/file/wikiFiles/20261027133641.png)
-
-![](https://photos.thisispiggy.com/file/wikiFiles/20261027133722.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20261027133641.png)![](https://photos.thisispiggy.com/file/wikiFiles/20261027133722.png)
 
 - higher trigger sensitivity: sometimes autopeep can trigger a breath => keep trigger in middle
 - COPD: shorten rise time can feel they can get the breath quicker

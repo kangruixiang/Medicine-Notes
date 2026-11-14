@@ -9,6 +9,10 @@ date: 2023-02-13
 - source: [[pulmonary hypertension 1 31 2023 lecture]]
 ---
 
+Echocardiogram including the use of TR has low sensitivity for pulmonary hypertension. Use combinations of echo finding and symptoms to screen for PHTN and RHC for confirmation.[^1]
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20261108171350.png)
+
 Major finding for pulmonary hypertension on echo includes elevated RVSP:
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20230213210018.png)
@@ -40,3 +44,5 @@ Other echo findings:
 - TAPSE shows how RV is adapting to pulmonary hypertension. Lower TAPSE is associated with higher mortality
 - Apex LV or RV dominant on POCUS?
 - septal motion towards/away from LV?
+
+[^1]: [[NCTS lecture 11 2026]]
