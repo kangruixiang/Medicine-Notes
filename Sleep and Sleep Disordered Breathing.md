@@ -72,6 +72,7 @@ tags: []
 ### Obstructive Sleep Apnea
 
 - [[OSA treatment flow diagram]]
+- [[continuous positive airway pressure CPAP]]
 - [[conservative management for OSA includes weight loss, devices, and sleep positioning]]
 - [[nocturnal oxygen does not treat root cause of OSA]]
 - [[nasal and mandibular surgeries as treatment options for OSA]]

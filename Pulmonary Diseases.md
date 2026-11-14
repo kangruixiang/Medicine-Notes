@@ -78,8 +78,6 @@ date: 2020-09-07
 ## Sleep medicine
 
 - [[Sleep and Sleep Disordered Breathing]]
-- [[Qualifying Patients for Noninvasive Positive Pressure Ventilation Devices on Hospital Discharge]]
-- [[continuous positive airway pressure CPAP]]
 
 ## Pleural things
 
@@ -91,16 +89,9 @@ date: 2020-09-07
 - [[marijuana use can induce bulla formation]]
 - [[pneumothorax]]
 
-## Bronch things
+## Bronch Things
 
-- [[bronchoalveolar lavage BAL]]
 - [[bronchoscopy guides]]
-- [[bronchoscopy how to perform airway blocks]]
-- [[bronchoscopy lidocaine method and dosing]]
-- [[use rigid bronchoscopy for extraction of foreign objects]]
-- [[bronchoscopy slides and rinses]]
-- [[physicians must obtain separate consent for living donor bronchoscopy]]
-- [[bronchoscopy airway bleed]]
 
 ## Pulmonary Infections
 

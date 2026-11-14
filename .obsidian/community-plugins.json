@@ -1,6 +1,5 @@
 [
   "better-word-count",
-  "obsidian-collapse-all-plugin",
   "cmdr",
   "various-complements",
   "typing-transformer-obsidian",
@@ -15,16 +14,13 @@
   "obsidian-paste-image-rename",
   "omnisearch",
   "obsidian-regex-replace",
-  "obsidian-spaced-repetition",
   "tag-wrangler",
   "obsidian-style-settings",
   "templater-obsidian",
   "obsidian-smarter-md-hotkeys",
   "unicode-search",
   "adamantine-pick",
-  "remember-cursor-position",
   "obsidian-regex-pipeline",
   "obsidian-zotero-desktop-connector",
-  "tldraw",
   "recent-files-obsidian"
 ]
