@@ -9,17 +9,24 @@ date: 2023-02-08
 - source:
 ---
 
-## Spirometry
+## Definitions and How It's Done
 
 - [[GLI equation how did it come about]]
 - [[hold bronchodilators before PFT studies]]
 - [[acceptability, usability, repeatability of spirometry qualities]]
-- [[normal misc PFT ranges]]
 - [[lung volumes, capcities, normal flow volume loops definitions]]
 - [[fixed ratio vs LLN for spirometry]]
-- [[PFT change of 15 percent is considered significant]]
+
+## Normal
+
+- [[normal misc PFT ranges]]
+- [[PFT overview flow chart]]
 - [[PFT MIPs MEPs LLN]]
 - [[supine and standing spirometry]]
+- [[PFT change of 15 percent is considered significant]]
+
+## Others
+
 - [[Negative inspiratory force NIF of 20 used to predict vent weaning success]]
 - [[interpreting methacholine challenge assessment]]
 - [[different lung volume testings]]
@@ -31,7 +38,6 @@ date: 2023-02-08
 
 ## Abnormalities
 
-- [[PFT overview flow chart]]
 - [[PFT severity]]
 - [[flow volume loops abnormal]]
 - [[airflow obstruction happens first in distal airways]]
@@ -40,7 +46,7 @@ date: 2023-02-08
 - [[simple vs complex restriction on PFT]]
 - [[The inspiratory loop of PFT in vocal cord dysfunction can have flattened appearance]]
 - [[exercise induced bronchoconstriction is decrease in FEV1 after exercise]]
-- [[DLCO VA abnormality]]
+- [[Interpreting DLCO VA abnormality]]
 - [[step up pattern in restrictive lung disease is result of respiratory muscle weakness]]
 
 ## Literature Notes

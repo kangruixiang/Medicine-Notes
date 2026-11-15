@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Interpreting DLCO VA abnormality",
+      "path": "Interpreting DLCO VA abnormality.md"
+    },
+    {
+      "basename": "PFT and lung functions",
+      "path": "PFT and lung functions.md"
+    },
+    {
+      "basename": "Breathing, Obstruction, Restriction, and Gas Exchange. A Pulmonary Function Testing Interpretation Framework for Novice Learners",
+      "path": "Breathing, Obstruction, Restriction, and Gas Exchange. A Pulmonary Function Testing Interpretation Framework for Novice Learners.md"
+    },
+    {
+      "basename": "SGLT2 and GLP diabetes medications",
+      "path": "SGLT2 and GLP diabetes medications.md"
+    },
+    {
+      "basename": "When to suspect pulmonary hypertension",
+      "path": "When to suspect pulmonary hypertension.md"
+    },
+    {
+      "basename": "COPD and pulmonary hypertension COPD-PH",
+      "path": "COPD and pulmonary hypertension COPD-PH.md"
+    },
+    {
       "basename": "Pulmonary Diseases",
       "path": "Pulmonary Diseases.md"
     },
@@ -25,10 +49,6 @@
       "path": "echo findings in pulmonary hypertension includes, high RVSP, TR, and RV dysfunction.md"
     },
     {
-      "basename": "COPD and pulmonary hypertension COPD-PH",
-      "path": "COPD and pulmonary hypertension COPD-PH.md"
-    },
-    {
       "basename": "ILD and pulmonary hypertension ILD-PH",
       "path": "ILD and pulmonary hypertension ILD-PH.md"
     },
@@ -39,10 +59,6 @@
     {
       "basename": "large PA size on CT can suggest pulmonary hypertension but does not tell severity",
       "path": "large PA size on CT can suggest pulmonary hypertension but does not tell severity.md"
-    },
-    {
-      "basename": "When to suspect pulmonary hypertension",
-      "path": "When to suspect pulmonary hypertension.md"
     },
     {
       "basename": "pulmonary hypertension pre and post capillary pressures",
@@ -183,22 +199,6 @@
     {
       "basename": "bronchoscopy airway bleed",
       "path": "bronchoscopy airway bleed.md"
-    },
-    {
-      "basename": "bronchoscopy lidocaine method and dosing",
-      "path": "bronchoscopy lidocaine method and dosing.md"
-    },
-    {
-      "basename": "pleurx - tunneled catheter",
-      "path": "pleurx - tunneled catheter.md"
-    },
-    {
-      "basename": "pleurx catheter dressing and connections",
-      "path": "pleurx catheter dressing and connections.md"
-    },
-    {
-      "basename": "acute and chronic silicosis",
-      "path": "acute and chronic silicosis.md"
     }
   ],
   "omittedPaths": [],
