@@ -1,6 +1,6 @@
 {
   "theme": "system",
-  "cssTheme": "Cupertino",
+  "cssTheme": "Baseline",
   "enabledCssSnippets": [
     "canvas image",
     "rounded image",

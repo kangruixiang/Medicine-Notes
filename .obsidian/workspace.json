@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpreting DLCO VA abnormality.md",
+                "file": "PFT and lung functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interpreting DLCO VA abnormality"
+              "title": "PFT and lung functions"
             }
           }
         ]
@@ -105,8 +105,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5857331210190d60",
@@ -127,7 +126,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -260,6 +260,7 @@
   },
   "active": "6266a7073da67bf5",
   "lastOpenFiles": [
+    "Interpreting DLCO VA abnormality.md",
     "PFT and lung functions.md",
     "Breathing, Obstruction, Restriction, and Gas Exchange. A Pulmonary Function Testing Interpretation Framework for Novice Learners.md",
     "SGLT2 and GLP diabetes medications.md",
@@ -289,7 +290,6 @@
     "hypoventilation with NIV target CO2 and follow up.md",
     "NIV initial settings.md",
     "Infective trigger can mimic CSA in NMD patients.md",
-    "AirCurve 10 different modes available.md",
     "attachments/20261108163514.png",
     "attachments/20261108163426.png",
     "attachments/20261105143643.png",
