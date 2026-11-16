@@ -35,6 +35,10 @@ date: 2023-03-11
 - [[azygos lobe is normal anatomic variant]]
 - [[porcine bronchus is accessory bronchus from trachea]]
 
+## PET
+
+- [[PET CT instructions for patients]]
+
 ## Ultrasound
 
 - [[curtain sign on ultrasound can look similar to lung point]]

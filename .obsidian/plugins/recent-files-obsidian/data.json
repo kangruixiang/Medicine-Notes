@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "PET CT instructions for patients",
+      "path": "PET CT instructions for patients.md"
+    },
+    {
+      "basename": "chest imaging",
+      "path": "chest imaging.md"
+    },
+    {
+      "basename": "lung mass and cancer",
+      "path": "lung mass and cancer.md"
+    },
+    {
+      "basename": "surveillance CT scan after resection of NSCLC",
+      "path": "surveillance CT scan after resection of NSCLC.md"
+    },
+    {
+      "basename": "echo findings of severe aortic stenosis",
+      "path": "echo findings of severe aortic stenosis.md"
+    },
+    {
       "basename": "PFT and lung functions",
       "path": "PFT and lung functions.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "CRRT approach to drug clearance",
       "path": "CRRT approach to drug clearance.md"
-    },
-    {
-      "basename": "CRRT therapy fluid",
-      "path": "CRRT therapy fluid.md"
-    },
-    {
-      "basename": "CRRT modes and indications",
-      "path": "CRRT modes and indications.md"
-    },
-    {
-      "basename": "Nephrology",
-      "path": "Nephrology.md"
-    },
-    {
-      "basename": "Medicine",
-      "path": "Medicine.md"
-    },
-    {
-      "basename": "bronchoscopy airway bleed",
-      "path": "bronchoscopy airway bleed.md"
     }
   ],
   "omittedPaths": [],
