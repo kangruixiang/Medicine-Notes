@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "PET CT instructions for patients",
-      "path": "PET CT instructions for patients.md"
+      "basename": "determining between PA and AP chest xray",
+      "path": "determining between PA and AP chest xray.md"
     },
     {
       "basename": "chest imaging",
       "path": "chest imaging.md"
+    },
+    {
+      "basename": "PET CT instructions for patients",
+      "path": "PET CT instructions for patients.md"
     },
     {
       "basename": "lung mass and cancer",
@@ -195,10 +199,6 @@
     {
       "basename": "CRRT pressures and troubleshooting",
       "path": "CRRT pressures and troubleshooting.md"
-    },
-    {
-      "basename": "CRRT approach to drug clearance",
-      "path": "CRRT approach to drug clearance.md"
     }
   ],
   "omittedPaths": [],
