@@ -7,6 +7,12 @@ date: 2025-10-07
 - related: [[ICU intensive care unit]]
 - tags: #literature #icu
 ---
+- Transpulmonary pressure ($P_L$) is true distending pressure across lung. 
+- $P_L = P_{aw} - P_{pl}$
+- $P_{aw}$ = either plateau pressure at inspiration or PEEP at expiration
+- $P_{pl}$ = esophageal pressure estimated by esophageal balloon
+- At end inspiration: $P_L$ reflects stress from lung distension and should be less than 20-25
+- At end expiration, $P_L$ should be right above 0. $P_L$ less than 0 means atelectasis
 
 <!-- using esophageal manometry for PEEP guidance in ARDS. What pressure to calculate? -->
 
