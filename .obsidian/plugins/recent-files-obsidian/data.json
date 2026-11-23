@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "medical treatment summary for infective endocarditis",
+      "path": "medical treatment summary for infective endocarditis.md"
+    },
+    {
       "basename": "use of esophageal manometry to guide PEEP",
       "path": "use of esophageal manometry to guide PEEP.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ECMO use right arterial line to rule out north south syndrome",
       "path": "ECMO use right arterial line to rule out north south syndrome.md"
-    },
-    {
-      "basename": "use mixed venous oxygen to guide blood transfusion in ECMO",
-      "path": "use mixed venous oxygen to guide blood transfusion in ECMO.md"
     }
   ],
   "omittedPaths": [],

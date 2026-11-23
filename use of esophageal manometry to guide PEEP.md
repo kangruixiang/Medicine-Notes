@@ -7,7 +7,7 @@ date: 2025-10-07
 - related: [[ICU intensive care unit]]
 - tags: #literature #icu
 ---
-- Transpulmonary pressure ($P_L$) is true distending pressure across lung. 
+- Transpulmonary pressure ($P_L$) is true distending pressure across lung.
 - $P_L = P_{aw} - P_{pl}$
 - $P_{aw}$ = either plateau pressure at inspiration or PEEP at expiration
 - $P_{pl}$ = esophageal pressure estimated by esophageal balloon
