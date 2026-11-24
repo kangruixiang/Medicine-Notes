@@ -12,8 +12,13 @@ date: 2026-11-05
 
 - neg access pressure: coming out of pressure into machine. Opposite of ECMO
 
-![](https://photos.thisispiggy.com/file/wikiFiles/20261105135033.png)![](https://photos.thisispiggy.com/file/wikiFiles/20261105135139.png)
+![](https://photos.thisispiggy.com/file/wikiFiles/20261105135033.png)
 
+- cannula clotting issue
+
+![](https://photos.thisispiggy.com/file/wikiFiles/20261105135139.png)
+
+- catheter issue again
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105135155.png)
 
 - Balance chamber pressure and effluent pressure both going down
@@ -23,3 +28,11 @@ date: 2026-11-05
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105135311.png)
 
 - no longer getting blood flow back to patient. Now clotted
+
+![[20261124135550.png]]
+
+- B12.
+
+![[20261124135627.png]]
+
+- citrate is anion and can cause AGMA.

@@ -64,3 +64,30 @@ date: 2026-11-05
 ## Medications
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105140216.png)
+
+## Examples
+
+![[20261124131247.png]]![[20261124131617.png]]
+
+- target 1-2 cc/kg/hr negative
+- don't go too fast
+
+## Example 2
+
+![[20261124132714.png]]
+
+## Example 3
+
+![[20261124133502.png]]
+
+![[20261124134011.png]]
+
+## Example 4
+
+![[20261124134645.png]]
+
+- this is ok except for Na too low to start with.
+![[20261124134716.png]]
+- you can add separate D5W
+![[20261124134831.png]]
+- a lot of fluid. You also decrease replacement fluid

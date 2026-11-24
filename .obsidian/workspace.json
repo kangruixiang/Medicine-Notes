@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "medical treatment summary for infective endocarditis.md",
+                "file": "Bryant CRRT lecture 11 2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "medical treatment summary for infective endocarditis"
+              "title": "Bryant CRRT lecture 11 2026"
+            }
+          },
+          {
+            "id": "39e84e8bbfaf723f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CRRT pressures and troubleshooting.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CRRT pressures and troubleshooting"
             }
           }
         ]
@@ -260,6 +284,23 @@
   },
   "active": "6266a7073da67bf5",
   "lastOpenFiles": [
+    "CRRT pressures and troubleshooting.md",
+    "attachments/20261124135627.png",
+    "attachments/20261124135550.png",
+    "Bryant CRRT lecture 11 2026.md",
+    "CRRT continuous renal replacement therapy.md",
+    "CRRT terms and calculations.md",
+    "attachments/20261124134831.png",
+    "attachments/20261124134716.png",
+    "attachments/20261124134645.png",
+    "attachments/20261124134011.png",
+    "attachments/20261124133502.png",
+    "attachments/20261124132714.png",
+    "CRRT therapy fluid.md",
+    "CRRT modes and indications.md",
+    "attachments/20261124131617.png",
+    "attachments/20261124131247.png",
+    "medical treatment summary for infective endocarditis.md",
     "use of esophageal manometry to guide PEEP.md",
     "methemoglobinemia pathophysiology and causes.md",
     "02 Step 2/Neuro/Neuromuscular.md",
@@ -278,24 +319,6 @@
     "PET CT instructions for patients.md",
     "lung mass and cancer.md",
     "surveillance CT scan after resection of NSCLC.md",
-    "echo findings of severe aortic stenosis.md",
-    "PFT and lung functions.md",
-    "Interpreting DLCO VA abnormality.md",
-    "Breathing, Obstruction, Restriction, and Gas Exchange. A Pulmonary Function Testing Interpretation Framework for Novice Learners.md",
-    "SGLT2 and GLP diabetes medications.md",
-    "COPD and pulmonary hypertension COPD-PH.md",
-    "Pulmonary Diseases.md",
-    "bronchoscopy guides.md",
-    "attachments/20261108171350.png",
-    "attachments/20261108171319.png",
-    "attachments/20261108171139.png",
-    "attachments/20261108170653.png",
-    "attachments/20261108163514.png",
-    "attachments/20261108163426.png",
-    "attachments/20261105143643.png",
-    "attachments/20261105140216.png",
-    "attachments/20261105140052.png",
-    "attachments/20261105140014.png",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",

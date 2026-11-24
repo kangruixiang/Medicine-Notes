@@ -17,9 +17,10 @@ date: 2026-11-05
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261105143643.png)
 
-- Qrf: replacement fluid, 1.7 L/hg
+- Qrf: replacement fluid, 1.7 L/hr. Calculate from blood flow
 - UF, ultrafiltration, 75 cc/hr
 - Qb, blood flow rate, 200cc/hr
+- QRF: Target 20-25 cc/kg/hr
 
 ## Formulas
 
