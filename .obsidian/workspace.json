@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary hypertension.md",
+                "file": "pulmonary artery catheter dos and donts.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary hypertension"
-            }
-          },
-          {
-            "id": "b375755750f5c1ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulmonary hypertension janssen card.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pulmonary hypertension janssen card"
+              "title": "pulmonary artery catheter dos and donts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,8 +258,13 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "fa5194b7cc21ad32",
+  "active": "6266a7073da67bf5",
   "lastOpenFiles": [
+    "POCUS point of care ultrasound.md",
+    "pulmonary hypertension janssen card.md",
+    "attachments/janssenPHTNUS5.jpg",
+    "attachments/janssenPHTNUS4.jpg",
+    "pulmonary hypertension.md",
     "attachments/janssenPHTNUS1 2.jpg",
     "attachments/janssenPHTNUS3 1.jpg",
     "attachments/janssenPHTNUS2 1.jpg",
@@ -293,11 +273,6 @@
     "attachments/janssenPHTNUS2.jpg",
     "attachments/janssenPHTNUS1.jpg",
     "attachments/janssenPHTNCard02.jpg",
-    "attachments/janssenPHTNCard01.jpg",
-    "attachments/janssenPHTNCard16.jpg",
-    "attachments/janssenPHTNCard15.jpg",
-    "pulmonary hypertension.md",
-    "pulmonary hypertension janssen card.md",
     "When to suspect pulmonary hypertension.md",
     "Suspected pulmonary hypertension initial workup.md",
     "pulmonary hypertension clinical classifications.md",

@@ -8,6 +8,9 @@ date: 2025-09-23
 - tags: #literature #icu
 ---
 
+- patient's peak and vents valley
+- do not leave inflated => causes pulmonary infarct
+
 <!-- pa catheter dos and donts with insertion b:419853093583-->
 
 The PAC, also known as the ==Swan-Ganz catheter==, is a balloon-flotation vascular catheter designed to be inserted via a major vein and advanced through the right heart with placement of the tip of the catheter into a pulmonary artery (PA). The catheter is used to display intravascular pressures within the right atrium (RA), right ventricle (RV), and PA as the catheter tip is advanced into a PA occlusion or wedge position.

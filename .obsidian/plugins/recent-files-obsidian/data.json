@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "pulmonary artery catheter dos and donts",
+      "path": "pulmonary artery catheter dos and donts.md"
+    },
+    {
+      "basename": "POCUS point of care ultrasound",
+      "path": "POCUS point of care ultrasound.md"
+    },
+    {
       "basename": "pulmonary hypertension janssen card",
       "path": "pulmonary hypertension janssen card.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "hypoventilation with NIV target CO2 and follow up",
       "path": "hypoventilation with NIV target CO2 and follow up.md"
-    },
-    {
-      "basename": "NIV initial settings",
-      "path": "NIV initial settings.md"
-    },
-    {
-      "basename": "Infective trigger can mimic CSA in NMD patients",
-      "path": "Infective trigger can mimic CSA in NMD patients.md"
     }
   ],
   "omittedPaths": [],

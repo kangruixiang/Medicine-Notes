@@ -39,4 +39,13 @@ date: 2026-11-25
 ![[janssenPHTNCard15.jpg]]
 
 ![[janssenPHTNCard16.jpg]]
+
 ![[janssenPHTNUS1.jpg]]
+
+![[janssenPHTNUS2.jpg]]
+
+![[janssenPHTNUS3.jpg]]
+
+![[janssenPHTNUS4.jpg]]
+
+![[janssenPHTNUS5.jpg]]
