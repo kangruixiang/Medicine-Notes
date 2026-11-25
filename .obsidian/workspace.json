@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRRT pressures and troubleshooting.md",
+                "file": "CRRT terms and calculations.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CRRT pressures and troubleshooting"
+              "title": "CRRT terms and calculations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,21 +283,21 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "6266a7073da67bf5",
+  "active": "39e84e8bbfaf723f",
   "lastOpenFiles": [
+    "CRRT continuous renal replacement therapy.md",
+    "CRRT therapy fluid.md",
+    "Bryant CRRT lecture 11 2026.md",
+    "CRRT terms and calculations.md",
     "CRRT pressures and troubleshooting.md",
     "attachments/20261124135627.png",
     "attachments/20261124135550.png",
-    "Bryant CRRT lecture 11 2026.md",
-    "CRRT continuous renal replacement therapy.md",
-    "CRRT terms and calculations.md",
     "attachments/20261124134831.png",
     "attachments/20261124134716.png",
     "attachments/20261124134645.png",
     "attachments/20261124134011.png",
     "attachments/20261124133502.png",
     "attachments/20261124132714.png",
-    "CRRT therapy fluid.md",
     "CRRT modes and indications.md",
     "attachments/20261124131617.png",
     "attachments/20261124131247.png",
