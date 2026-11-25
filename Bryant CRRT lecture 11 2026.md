@@ -89,7 +89,9 @@ date: 2026-11-05
 - this is ok except for Na too low to start with.
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261124134716.png)
+
 - you can add separate D5W
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20261124134831.png)
+
 - a lot of fluid. You also decrease replacement fluid

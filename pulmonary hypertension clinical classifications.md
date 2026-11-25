@@ -18,7 +18,7 @@ date: 2026-10-16
 
 ## Group 1
 
-Pulmonary arterial hypertension (PAH) (WHO group 1):  PAH can be related to certain autoimmune conditions (eg, rheumatoid arthritis, scleroderma).  However, isolated pulmonary vascular involvement is exceedingly rare; patients usually have evidence of rheumatism or connective tissue disease (eg, sclerodactyly, Raynaud disease).
+Pulmonary arterial hypertension (PAH) (WHO group 1):  PAH can be related to certain autoimmune conditions (7-12% association in ==scleroderma==).[^2]  However, isolated pulmonary vascular involvement is exceedingly rare; patients usually have evidence of rheumatism or connective tissue disease (eg, sclerodactyly, Raynaud disease).
 
 - [[TIPS can cause portopulmonary hypertension]]
 - [[pulmonary hypertension associated medications]]
@@ -40,7 +40,8 @@ Chronic thromboembolic PH **(CTEPH)** (group 4):  In approximately 2% of patien
 
 Because pulmonary **thromboendarterectomy surgery** is potentially curative, a correct diagnosis is essential.  **Ventilation-perfusion scanning** is the test of choice for CTEPH because it is the most sensitive method for detecting distal subsegmental perfusion defects.  CT pulmonary angiography is more accurate for visualization of fresh segmental pulmonary emboli but is often obtained in patients with confirmed CTEPH to identify those with favorable operative disease.
 
-Patients with CTEPH have a history of venous thromboembolism that may be in the distant past and may even have recurrent emboli.  Unresolved thromboembolism (eg, despite a course of anticoagulation) is likely due to an underlying **hypercoagulable** state coupled with failure of endogenous fibrinolysis.  Therefore, patients should also receive lifelong **anticoagulation**.[^2]
+Patients with CTEPH have a history of venous thromboembolism that may be in the distant past and may even have recurrent emboli.  Unresolved thromboembolism (eg, despite a course of anticoagulation) is likely due to an underlying **hypercoagulable** state coupled with failure of endogenous fibrinolysis.  Therefore, patients should also receive lifelong **anticoagulation**.[^3]
 
 [^1]: [[ERS Guidelines for the diagnosis and treatment of pulmonary hypertension]]
-[^2]: [[SEEK Questionnaires]]
+[^2]: Haemodynamic definitions and updated clinical classification of pulmonary hypertension
+[^3]: [[SEEK Questionnaires]]

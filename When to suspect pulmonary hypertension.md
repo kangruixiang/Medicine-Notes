@@ -8,7 +8,14 @@ date: 2026-10-16
 - tags: #literature #pulmonology
 ---
 
-## Signs
+## Physical signs
+
+- Precordial heave due to RV hypertrophy
+- Loud P2, right sided S3 and or S4
+- Fixed splitting S2
+- Holosystolic murmur from tricuspid regirgutation[^1]
+
+## PFT
 
 - [[COPD and pulmonary hypertension COPD-PH]]
 	- look for severe dyspnea with mild emphysema
@@ -30,9 +37,5 @@ date: 2026-10-16
 ## EKG
 
 - PH-EDA for EKG prediction
-- Precordial heave due to RV hypertrophy
-- Loud P2, right sided S3 and or S4
-- Fixed splitting S2
-- Holosystolic murmur from tricuspid regirgutation[^1]
 
 [^1]: [[SEEK Questionnaires]]

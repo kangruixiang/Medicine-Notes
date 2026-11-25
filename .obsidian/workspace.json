@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bryant CRRT lecture 11 2026.md",
+                "file": "When to suspect pulmonary hypertension.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bryant CRRT lecture 11 2026"
+              "title": "When to suspect pulmonary hypertension"
             }
           },
           {
-            "id": "39e84e8bbfaf723f",
+            "id": "90472cf31ef14238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CRRT terms and calculations.md",
+                "file": "pulmonary hypertension clinical classifications.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CRRT terms and calculations"
+              "title": "pulmonary hypertension clinical classifications"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,12 +282,17 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "39e84e8bbfaf723f",
+  "active": "6266a7073da67bf5",
   "lastOpenFiles": [
-    "CRRT continuous renal replacement therapy.md",
-    "CRRT therapy fluid.md",
+    "pulmonary hypertension.md",
+    "When to suspect pulmonary hypertension.md",
+    "Suspected pulmonary hypertension initial workup.md",
+    "pulmonary hypertension clinical classifications.md",
+    "pulmonary hypertension associated medications.md",
     "Bryant CRRT lecture 11 2026.md",
     "CRRT terms and calculations.md",
+    "CRRT continuous renal replacement therapy.md",
+    "CRRT therapy fluid.md",
     "CRRT pressures and troubleshooting.md",
     "attachments/20261124135627.png",
     "attachments/20261124135550.png",
@@ -308,9 +312,6 @@
     "post op pleural effusion can happen in CABG patients.md",
     "pleural effusion.md",
     "simple effusion, uncomplicated, complicated parapneumonic effusion, empyema.md",
-    "When to suspect pulmonary hypertension.md",
-    "pulmonary hypertension.md",
-    "Suspected pulmonary hypertension initial workup.md",
     "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis.md",
     "UIP usual interstitial pneumonia.md",
     "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
@@ -319,7 +320,6 @@
     "chest imaging.md",
     "PET CT instructions for patients.md",
     "lung mass and cancer.md",
-    "surveillance CT scan after resection of NSCLC.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
