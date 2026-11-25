@@ -67,6 +67,7 @@ date: 2023-02-12
 
 - [[ERS Guidelines for the diagnosis and treatment of pulmonary hypertension]]
 - [[pulmonary hypertension 1 31 2023 lecture]]
+- [[pulmonary hypertension janssen card]]
 - RVEDP = surrogate for RAP?
 - sotatercept: stellar trial
 - redox trial for o2

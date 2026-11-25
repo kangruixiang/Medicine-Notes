@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "When to suspect pulmonary hypertension.md",
+                "file": "pulmonary hypertension.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "When to suspect pulmonary hypertension"
+              "title": "pulmonary hypertension"
             }
           },
           {
-            "id": "90472cf31ef14238",
+            "id": "b375755750f5c1ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary hypertension clinical classifications.md",
+                "file": "pulmonary hypertension janssen card.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary hypertension clinical classifications"
+              "title": "pulmonary hypertension janssen card"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "janssenPHTNUS1.jpg",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -129,7 +130,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5857331210190d60",
@@ -150,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "right": {
     "id": "ca7872ce90254950",
@@ -282,9 +283,21 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "6266a7073da67bf5",
+  "active": "fa5194b7cc21ad32",
   "lastOpenFiles": [
+    "attachments/janssenPHTNUS1 2.jpg",
+    "attachments/janssenPHTNUS3 1.jpg",
+    "attachments/janssenPHTNUS2 1.jpg",
+    "attachments/janssenPHTNUS1 1.jpg",
+    "attachments/janssenPHTNUS3.jpg",
+    "attachments/janssenPHTNUS2.jpg",
+    "attachments/janssenPHTNUS1.jpg",
+    "attachments/janssenPHTNCard02.jpg",
+    "attachments/janssenPHTNCard01.jpg",
+    "attachments/janssenPHTNCard16.jpg",
+    "attachments/janssenPHTNCard15.jpg",
     "pulmonary hypertension.md",
+    "pulmonary hypertension janssen card.md",
     "When to suspect pulmonary hypertension.md",
     "Suspected pulmonary hypertension initial workup.md",
     "pulmonary hypertension clinical classifications.md",
@@ -294,17 +307,7 @@
     "CRRT continuous renal replacement therapy.md",
     "CRRT therapy fluid.md",
     "CRRT pressures and troubleshooting.md",
-    "attachments/20261124135627.png",
-    "attachments/20261124135550.png",
-    "attachments/20261124134831.png",
-    "attachments/20261124134716.png",
-    "attachments/20261124134645.png",
-    "attachments/20261124134011.png",
-    "attachments/20261124133502.png",
-    "attachments/20261124132714.png",
     "CRRT modes and indications.md",
-    "attachments/20261124131617.png",
-    "attachments/20261124131247.png",
     "medical treatment summary for infective endocarditis.md",
     "use of esophageal manometry to guide PEEP.md",
     "methemoglobinemia pathophysiology and causes.md",
@@ -318,8 +321,6 @@
     "NSIP has shared imaging features with UIP.md",
     "determining between PA and AP chest xray.md",
     "chest imaging.md",
-    "PET CT instructions for patients.md",
-    "lung mass and cancer.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
