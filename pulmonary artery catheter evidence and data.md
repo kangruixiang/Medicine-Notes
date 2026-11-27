@@ -8,6 +8,8 @@ date: 2025-09-30
 - tags: #literature #cardiology #icu
 ---
 
+- PACMAN trial
+
 <!-- what data is there behind PA catheter -->
 
 The randomized ==ESCAPE trial== is often cited as evidence that ==PAC does not change outcomes in patients with heart failure==, but that trial ==excluded patients with recent inotropic== therapy and so would not apply in cases such as this. In fact, several prospective series have reported improved outcomes, including decreased in-hospital mortality, when pulmonary artery catheters are used in patients with cardiogenic shock. Failure to respond to empiric inotropic therapy and uncertainty about intravascular volume status are very good reasons to consider invasive hemodynamic assessment, as it might allow titration of diuretics and vasoactive agents to maximize cardiac output while minimizing arrhythmias and myocardial oxygen consumption. Measurement of mixed venous SpO2, something that can be done only with a catheter in the pulmonary artery, can also inform the adequacy of cardiac output. Furthermore, the use of PAC to obtain complete hemodynamic data before initiation of temporary mechanical circulatory support is associated with decreased mortality from all-cause cardiogenic shock.

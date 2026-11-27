@@ -30,7 +30,7 @@ date: 2023-02-12
 
 ## Right Heart Cath
 
-- [[normal right heart catheterization pressures]]
+- [[normal right heart catheterization pressures and distances]]
 	- [[pulmonary artery catheter]]
 - [[pulmonary hypertension pre and post capillary pressures]]
 - [[evaluate for shunt in pulmonary hypertension with RHC]]

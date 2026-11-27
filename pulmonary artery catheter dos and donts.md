@@ -7,9 +7,23 @@ date: 2025-09-23
 - related: [[pulmonary artery catheter]]
 - tags: #literature #icu
 ---
-
-- patient's peak and vents valley
+- distal sensor is PAP
+- proximal sensor is CVP
+- patient positioning
+	- headdown: helps cross TV
+	- headup / R side: out of RV
+	- deep inspiration: increase flow with RV
 - do not leave inflated => causes pulmonary infarct
+- inflate slowly => there's a delay in balloon inflation
+- zero beforehand
+- don't zero with patient sitting up in chair
+- contraindications
+	- RV thrombus
+	- TV endocarditis
+	- LBBB
+	- TV/PV stenosis
+	- Pacemaker/defibrilator
+	- RVAD
 
 <!-- pa catheter dos and donts with insertion b:419853093583-->
 

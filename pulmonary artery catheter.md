@@ -9,7 +9,7 @@ date: 2025-07-23
 ---
 - [[pulmonary artery catheter evidence and data]]
 - [[pulmonary artery catheter dos and donts]]
-- [[normal right heart catheterization pressures]]
+- [[normal right heart catheterization pressures and distances]]
 - [[pulmonary artery wedge pressure differs from right atrial pressure]]
 - [[pulmonary artery catheter measurement can be affected at higher PEEP]]
 - [[pulmonary artery catheter large V wave]]
@@ -18,6 +18,7 @@ date: 2025-07-23
 - [[pulmonary artery catheter overwedging]]
 - [[pulmonary artery catheter damping]]
 - [[calculating pulmonary vascular resistance on right heart cath]]
+---
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20250723081124.png)
 

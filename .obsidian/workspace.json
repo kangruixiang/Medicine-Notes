@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary artery catheter dos and donts.md",
+                "file": "pulmonary hypertension.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary artery catheter dos and donts"
+              "title": "pulmonary hypertension"
+            }
+          },
+          {
+            "id": "52af0bcafa09cd16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pulmonary hypertension janssen card.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "pulmonary hypertension janssen card"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "janssenPHTNUS1.jpg",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,8 +130,7 @@
               "title": "Search"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5857331210190d60",
@@ -258,13 +282,19 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "6266a7073da67bf5",
+  "active": "c401196944fd3fe4",
   "lastOpenFiles": [
+    "pulmonary hypertension.md",
+    "pulmonary artery catheter.md",
+    "pulmonary artery catheter dos and donts.md",
+    "read CVP and PCWP at end expiration.md",
+    "normal right heart catheterization pressures and distances.md",
+    "pulmonary artery catheter evidence and data.md",
+    "tolearn.md",
     "POCUS point of care ultrasound.md",
     "pulmonary hypertension janssen card.md",
     "attachments/janssenPHTNUS5.jpg",
     "attachments/janssenPHTNUS4.jpg",
-    "pulmonary hypertension.md",
     "attachments/janssenPHTNUS1 2.jpg",
     "attachments/janssenPHTNUS3 1.jpg",
     "attachments/janssenPHTNUS2 1.jpg",
@@ -290,12 +320,6 @@
     "post op pleural effusion can happen in CABG patients.md",
     "pleural effusion.md",
     "simple effusion, uncomplicated, complicated parapneumonic effusion, empyema.md",
-    "criteria for radiographic diagnosis of UIP includes lower lobe honeycombing and bronchiectasis.md",
-    "UIP usual interstitial pneumonia.md",
-    "ILD Interstitial Lung Disease or Diffuse Parenchymal Lung Disease.md",
-    "NSIP has shared imaging features with UIP.md",
-    "determining between PA and AP chest xray.md",
-    "chest imaging.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",

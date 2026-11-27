@@ -2,21 +2,23 @@
 date: 2023-04-07
 ---
 
-# normal right heart catheterization pressures
+# normal right heart catheterization pressures and distances
 
-- related: [[cardiac hemodynamics and pressures]], [[pulmonary hypertension]]
+- related: [[cardiac hemodynamics and pressures]], [[pulmonary hypertension]], [[pulmonary artery catheter]]
 - tags: #permanent #cardiology #pulmonology
 ---
 <!-- what are normal right heart catheter pressures b:330993489972-->
 
-|      | Systolic | Diastolic | Mean |
-| ---- | -------- | --------- | ---- |
-| RA   |          |           | 0-5  |
-| RV   | 20-25    | 0-5       |      |
-| PA   | 20-25    | 5-10      | 9-16 |
-| PCWP |          |           | 6-12 |
-| LA   |          |           | 5    |
-| LV   | 120      | 5-10      |      |
+|      | Distance | Systolic | Diastolic | Mean |
+| ---- | -------- | -------- | --------- | ---- |
+| RA   | 10-20 cm |          |           | 0-5  |
+| RV   | 20-30 cm | 20-25    | 0-5       |      |
+| PA   | 30-40 cm | 20-25    | 5-10      | 9-16 |
+| PCWP | 40-50 cm |          |           | 6-12 |
+| LA   |          |          |           | 5    |
+| LV   |          | 120      | 5-10      |      |
+
+- diastolic jump happens when PA catheter is in the PA
 
 | Other Measurements |                |
 | ------------------ | -------------- |

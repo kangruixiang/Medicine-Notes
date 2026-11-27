@@ -8,44 +8,44 @@ date: 2026-11-25
 - tags: #literature #pulmonology
 ---
 
-![[janssenPHTNCard01.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard01.jpg)
 
-![[janssenPHTNCard02.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard02.jpg)
 
-![[janssenPHTNCard03.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard03.jpg)
 
-![[janssenPHTNCard04.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard04.jpg)
 
-![[janssenPHTNCard05.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard05.jpg)
 
-![[janssenPHTNCard06.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard06.jpg)
 
-![[janssenPHTNCard07.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard07.jpg)
 
-![[janssenPHTNCard08.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard08.jpg)
 
-![[janssenPHTNCard09.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard09.jpg)
 
-![[janssenPHTNCard10.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard10.jpg)
 
-![[janssenPHTNCard11.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard11.jpg)
 
-![[janssenPHTNCard12.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard12.jpg)
 
-![[janssenPHTNCard13.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard13.jpg)
 
-![[janssenPHTNCard14.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard14.jpg)
 
-![[janssenPHTNCard15.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard15.jpg)
 
-![[janssenPHTNCard16.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNCard16.jpg)
 
-![[janssenPHTNUS1.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNUS1.jpg)
 
-![[janssenPHTNUS2.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNUS2.jpg)
 
-![[janssenPHTNUS3.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNUS3.jpg)
 
-![[janssenPHTNUS4.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNUS4.jpg)
 
-![[janssenPHTNUS5.jpg]]
+![](https://photos.thisispiggy.com/file/wikiFiles/janssenPHTNUS5.jpg)

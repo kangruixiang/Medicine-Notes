@@ -122,6 +122,7 @@ date: 2021-10-05
 - https://pmc.ncbi.nlm.nih.gov/articles/PMC9841052/
 - cefepime instead of zosyn for klebsiella
 - [[management of tracheostomy]]
+- https://derangedphysiology.com/main/home
 
 ![](https://photos.thisispiggy.com/file/wikiFiles/20240916102147.png)
 
