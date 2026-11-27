@@ -282,8 +282,12 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "c401196944fd3fe4",
+  "active": "52af0bcafa09cd16",
   "lastOpenFiles": [
+    "index.conflicted",
+    "Library/Config.md",
+    "Journal/2026-11-19.md",
+    "Journal",
     "pulmonary hypertension.md",
     "pulmonary artery catheter.md",
     "pulmonary artery catheter dos and donts.md",
@@ -317,9 +321,6 @@
     "use of esophageal manometry to guide PEEP.md",
     "methemoglobinemia pathophysiology and causes.md",
     "02 Step 2/Neuro/Neuromuscular.md",
-    "post op pleural effusion can happen in CABG patients.md",
-    "pleural effusion.md",
-    "simple effusion, uncomplicated, complicated parapneumonic effusion, empyema.md",
     "2022 ESC",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM/SVN Guideline for the Evaluation and Management of Acute Pulmonary Embolism in Adults - A Report of the American College of Cardiology",
     "2026AH~1/ACC/ACCP/ACEP/CHEST/SCAI/SHM/SIR/SVM",
@@ -329,7 +330,6 @@
     "2026AH~1/ACC/ACCP/ACEP/CHEST",
     "2026AH~1/ACC/ACCP/ACEP",
     "2026AH~1/ACC/ACCP",
-    "2026AH~1/ACC",
     "00 Inbox/Clothing.canvas"
   ]
 }
