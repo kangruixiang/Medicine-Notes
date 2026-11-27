@@ -26,4 +26,5 @@ config.set("std.widgets.toc.enabled", false)
 config.set("index.item.all", false)
 config.set("fonts.editor", "Concourse 4")
 config.set("linkWriteFormat", "shortest")
+config.set("markupBar.selectionBubble", false)
 ```
