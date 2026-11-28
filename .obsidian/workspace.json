@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "pulmonary hypertension"
             }
-          },
-          {
-            "id": "52af0bcafa09cd16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pulmonary hypertension janssen card.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "pulmonary hypertension janssen card"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,8 +257,9 @@
       "cmdr:Toggle right sidebar": false
     }
   },
-  "active": "52af0bcafa09cd16",
+  "active": "6266a7073da67bf5",
   "lastOpenFiles": [
+    "pulmonary hypertension janssen card.md",
     "Library/Config.md",
     "index.conflicted",
     "Journal/2026-11-19.md",
@@ -296,7 +272,6 @@
     "pulmonary artery catheter evidence and data.md",
     "tolearn.md",
     "POCUS point of care ultrasound.md",
-    "pulmonary hypertension janssen card.md",
     "attachments/janssenPHTNUS5.jpg",
     "attachments/janssenPHTNUS4.jpg",
     "attachments/janssenPHTNUS1 2.jpg",
