@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pulmonary hypertension.md",
+                "file": "Medicine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "pulmonary hypertension"
+              "title": "Medicine"
             }
           }
         ]
@@ -105,7 +105,8 @@
               "title": "Search"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5857331210190d60",
@@ -259,12 +260,14 @@
   },
   "active": "6266a7073da67bf5",
   "lastOpenFiles": [
+    "Pulmonary Diseases.md",
+    "pulmonary hypertension.md",
+    "attachments/Screenshot 2026-11-27 202139.png",
     "pulmonary hypertension janssen card.md",
     "Library/Config.md",
     "index.conflicted",
     "Journal/2026-11-19.md",
     "Journal",
-    "pulmonary hypertension.md",
     "pulmonary artery catheter.md",
     "pulmonary artery catheter dos and donts.md",
     "read CVP and PCWP at end expiration.md",
@@ -281,7 +284,6 @@
     "attachments/janssenPHTNUS3.jpg",
     "attachments/janssenPHTNUS2.jpg",
     "attachments/janssenPHTNUS1.jpg",
-    "attachments/janssenPHTNCard02.jpg",
     "When to suspect pulmonary hypertension.md",
     "Suspected pulmonary hypertension initial workup.md",
     "pulmonary hypertension clinical classifications.md",

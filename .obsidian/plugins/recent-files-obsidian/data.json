@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Medicine",
+      "path": "Medicine.md"
+    },
+    {
+      "basename": "Pulmonary Diseases",
+      "path": "Pulmonary Diseases.md"
+    },
+    {
       "basename": "pulmonary hypertension",
       "path": "pulmonary hypertension.md"
     },
@@ -165,10 +173,6 @@
       "path": "COPD and pulmonary hypertension COPD-PH.md"
     },
     {
-      "basename": "Pulmonary Diseases",
-      "path": "Pulmonary Diseases.md"
-    },
-    {
       "basename": "bronchoscopy guides",
       "path": "bronchoscopy guides.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "large PA size on CT can suggest pulmonary hypertension but does not tell severity",
       "path": "large PA size on CT can suggest pulmonary hypertension but does not tell severity.md"
-    },
-    {
-      "basename": "pulmonary hypertension pre and post capillary pressures",
-      "path": "pulmonary hypertension pre and post capillary pressures.md"
     }
   ],
   "omittedPaths": [],
